@@ -43,6 +43,12 @@ const DEFAULT_RSS_FEEDS = RSS_QUERY_GROUPS.map(
   (q) => `https://news.google.com/rss/search?q=site:linkedin.com/posts+(%22we+are+hiring%22+OR+%22we%27re+hiring%22+OR+%22now+hiring%22+OR+%22job+opening%22+OR+%22open+role%22+OR+%22open+position%22+OR+%22apply+now%22+OR+%22join+our+team%22)+${q}+when:1d&hl=en&gl=US&ceid=US:en`
 );
 
+// Seniority levels to exclude from alerts (matched against job title)
+const EXCLUDED_TITLE_TERMS = [
+  "director", "lead", "head of", "vp", "vice president",
+  "chief", "principal"
+];
+
 // Hiring intent words — RSS items must contain at least one of these to be sent
 const HIRING_INTENT = [
   "we are hiring", "we're hiring", "now hiring", "job opening", "open role",
@@ -299,6 +305,15 @@ function matchesKeywords(item, keywords) {
   return keywords.filter((k) => text.includes(k));
 }
 
+function isExcludedTitle(item) {
+  const title = normalize(item.title || "");
+  if (!title) return false;
+  return EXCLUDED_TITLE_TERMS.some((term) => {
+    const pattern = new RegExp(`\\b${term.replace(/\s+/g, "\\s+")}\\b`);
+    return pattern.test(title);
+  });
+}
+
 function isWithinAge(item, maxAgeHours) {
   const raw = item.isoDate || item.pubDate;
   if (!raw) return true; // allow if no date
@@ -423,6 +438,7 @@ async function runCycle() {
   let skippedKeyword = 0;
   let skippedAge = 0;
   let skippedTitle = 0;
+  let skippedSeniority = 0;
 
   for (const [uk, item] of uniqueByUrl) {
     if (sent >= maxAlertsPerCycle) break;
@@ -445,6 +461,14 @@ async function runCycle() {
     if (matched.length === 0) {
       skippedKeyword++;
       state.seen[uk] = 1; // mark as seen so we don't re-check
+      continue;
+    }
+
+    // Exclude director/lead/head/VP/chief/principal titles
+    if (isExcludedTitle(item)) {
+      skippedSeniority++;
+      state.seen[uk] = 1;
+      console.log(`Skip excluded seniority: "${item.title}"`);
       continue;
     }
 
@@ -476,7 +500,7 @@ async function runCycle() {
   state.stats.matchedToday = (state.stats.matchedToday || 0) + sent;
   writeState(state);
 
-  console.log(`Done: sent=${sent}, skipped(seen=${skippedSeen}, keyword=${skippedKeyword}, age=${skippedAge}, titleDup=${skippedTitle})`);
+  console.log(`Done: sent=${sent}, skipped(seen=${skippedSeen}, keyword=${skippedKeyword}, age=${skippedAge}, titleDup=${skippedTitle}, seniority=${skippedSeniority})`);
 
   await maybeSendDailySummary(state);
 }
