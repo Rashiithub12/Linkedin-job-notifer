@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/administrative-virtual-assistant-at-oak-media-4418600493": 1,
-    "https://www.linkedin.com/jobs/view/executive-assistant-to-the-ceo-at-swooped-4425128023": 1,
-    "https://www.linkedin.com/jobs/view/language-instructor-at-dataannotation-4406687251": 1,
-    "https://www.linkedin.com/jobs/view/language-instructor-at-dataannotation-4406805168": 1,
-    "https://www.linkedin.com/jobs/view/partner-success-consultant-commerce-at-the-grace-hopper-program-at-fullstack-academy-4425142431": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-at-globaldata-plc-4412036703": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e5%ae%8c%e5%85%a8%e6%9c%aa%e7%b5%8c%e9%a8%93%e6%ad%93%e8%bf%8e%e3%80%91%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%82%bf%e3%83%b3%e3%83%88%ef%bc%88%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e5%8f%af%ef%bc%8fsier%e5%87%ba%e8%ba%ab%e3%81%ae%e6%96%b9%e6%ad%93%e8%bf%8e%ef%bc%8f%e3%82%b9%e3%83%88%e3%83%83%e3%82%af%e3%82%aa%e3%83%97%e3%82%b7%e3%83%a7%e3%83%b3%e6%9c%89%ef%bc%8f%e6%98%87%e7%b5%a6%e2%97%8e%ef%bc%89-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%83%97%e3%83%86%e3%83%ad%e3%83%b3%e3%83%bb%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0-pteron-consulting-inc-4425135553": 1,
-    "https://www.linkedin.com/jobs/view/solutions-engineer-at-venture-backed-enterprise-candidate-engagement-platform-at-jack-jill-4425007629": 1,
-    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-%24180k-%e2%80%93-%24280k-%2b-equity-at-thrive-capital-backed-enterprise-ai-startup-at-jack-jill-4425005612": 1,
-    "https://www.linkedin.com/jobs/view/founding-gtm-engineer-%24180k-%24230k-ote-%2b-equity-at-yc-f25-real-time-web-intelligence-api-at-jack-jill-4425009658": 1,
-    "https://www.linkedin.com/jobs/view/gtm-strategy-manager-at-scribe-4396024303": 1,
     "https://www.linkedin.com/jobs/view/data-engineer-%e2%80%93-mining-operations-at-saasa-b2e-4424692862": 1,
     "https://www.linkedin.com/jobs/view/web-designer-graphic-designer-at-emma-of-torre-ai-4424938817": 1,
     "https://www.linkedin.com/jobs/view/partner-director-gsi%e2%80%99s-kpmg-at-saviynt-4405355511": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-connecteam-4386968442": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-at-storable-4415972113": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-us-at-coreview-4424178965": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-propomy-4427062420": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-propomy-4427062420": 1,
+    "https://www.linkedin.com/jobs/view/gtm-systems-manager-at-spellbook-4422788375": 1,
+    "https://www.linkedin.com/jobs/view/product-builder-oowlish-labs-at-oowlish-4427092857": 1,
+    "https://www.linkedin.com/jobs/view/regional-marketing-executive-work-from-home-at-hired-4427124920": 1,
+    "https://www.linkedin.com/jobs/view/sr-marketing-campaign-manager-at-everyday-speech-4423168802": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-uk-cold-calling-remote-at-division50-4426757700": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-uk-cold-calling-remote-at-division50-4426764569": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-uk-cold-calling-remote-at-division50-4426747809": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-alif-4427052202": 1,
+    "https://www.linkedin.com/jobs/view/remote-inbound-sales-representative-caribbean-at-meadow-memorials-4427077790": 1,
+    "https://www.linkedin.com/jobs/view/remote-outbound-sales-representative-at-adt-4425963897": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-guesty-4414463669": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-11",
-    "cyclesToday": 1,
+    "cyclesToday": 2,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
