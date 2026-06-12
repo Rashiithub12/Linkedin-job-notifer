@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-consultant-at-codex-4425626598": 1,
-    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-ai-solutions-engineering-at-aircall-4339119493": 1,
-    "https://www.linkedin.com/jobs/view/solutions-engineer-at-venture-backed-enterprise-candidate-engagement-platform-at-jack-jill-4425236956": 1,
-    "https://www.linkedin.com/jobs/view/mid-market-solutions-engineer-at-box-4425604689": 1,
-    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-pensero-ai-4422424777": 1,
-    "https://www.linkedin.com/jobs/view/customer-engineer-ii-applied-ai-google-cloud-at-google-4425263821": 1,
-    "https://www.linkedin.com/jobs/view/customer-engineer-ii-applied-ai-google-cloud-at-google-4425263817": 1,
-    "https://www.linkedin.com/jobs/view/deployed-engineer-europe-at-cognition-4347947091": 1,
-    "https://www.linkedin.com/jobs/view/senior-ml-ops-engineer-m-f-d-at-redcare-pharmacy-4421952823": 1,
-    "https://www.linkedin.com/jobs/view/junior-operations-sre-engineer-at-plexus-tech-4421958925": 1,
-    "https://www.linkedin.com/jobs/view/director-vp-gtm-strategy-operations-at-swooped-4425621890": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-beaucoup-4425610925": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-enhesa-4425258250": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-enhesa-4425259237": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-similarweb-4407137214": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/lead-generation-specialist-new-client-acquisition-%e2%80%93-edtech-e-learning-industry-at-makonis-4426968625": 1,
     "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4426981795": 1,
     "https://www.linkedin.com/jobs/view/virtual-assistant-for-an-online-fitness-coach-at-onlinejobs-ph-4426992062": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-public-sector-at-twilio-4417419757": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-public-sector-at-twilio-4417419757": 1,
+    "https://www.linkedin.com/jobs/view/growth-marketing-operator-at-day1-4426994707": 1,
+    "https://www.linkedin.com/jobs/view/tyler-munis-consultant-in-benefits-at-robert-half-4427979185": 1,
+    "https://www.linkedin.com/jobs/view/luxury-destination-consultant-4428117698": 1,
+    "https://www.linkedin.com/jobs/view/cmt-technician-at-macquarie-geotechnical-4426944013": 1,
+    "https://www.linkedin.com/jobs/view/construction-materials-tester-at-insight-global-4427638471": 1,
+    "https://www.linkedin.com/jobs/view/ai-engineer-%e2%80%93-ai-ops-at-yochana-4427206738": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-marketing-operations-at-jobgether-4426965492": 1,
+    "https://www.linkedin.com/jobs/view/sales-executive-b2b-closer-at-gigabrands-4426982334": 1,
+    "https://www.linkedin.com/jobs/view/inbound-sales-manager-smb-at-block-4398634395": 1,
+    "https://www.linkedin.com/jobs/view/inside-sales-representative-english-speaking-at-international-workplace-group-plc-4358614919": 1,
+    "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4426969928": 1,
+    "https://www.linkedin.com/jobs/view/bde-jharkhand-bihar-odisha-at-lixil-4427992393": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-12",
-    "cyclesToday": 15,
+    "cyclesToday": 16,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
