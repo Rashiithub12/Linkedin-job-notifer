@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/roof-build-at-clayton-4426563829": 1,
-    "https://www.linkedin.com/jobs/view/cloud-gtm-practice-lead-at-suger-4422715103": 1,
-    "https://www.linkedin.com/jobs/view/go-to-market-lead-apac-at-gigs-4422281822": 1,
-    "https://www.linkedin.com/jobs/view/growth-lead-at-beacon-software-4422790408": 1,
-    "https://www.linkedin.com/jobs/view/founding-marketing-lead-at-svix-4426711647": 1,
-    "https://www.linkedin.com/jobs/view/marketing-director-at-connexall-4426394598": 1,
-    "https://www.linkedin.com/jobs/view/senior-sales-development-representative-at-huzzle-com-4426343209": 1,
     "https://www.linkedin.com/jobs/view/growth-launch-operator-at-skyler-labs-4426716761": 1,
     "https://www.linkedin.com/jobs/view/ai-reliability-security-operator-at-skyler-labs-4426703925": 1,
     "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4426034268": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/virtual-assistant-at-remotehunter-4427419150": 1,
     "https://www.linkedin.com/jobs/view/growth-sales-and-marketing-specialist-at-proptech-ai-llc-4425378544": 1,
     "https://www.linkedin.com/jobs/view/healthcare-provider-onboarding-specialist-at-techloom-global-4428316702": 1,
-    "https://www.linkedin.com/jobs/view/remote-account-executive-hard-money-at-park-place-finance-llc-hard-money-lender-4368370622": 1
+    "https://www.linkedin.com/jobs/view/remote-account-executive-hard-money-at-park-place-finance-llc-hard-money-lender-4368370622": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-commercial-content-at-veeva-systems-4377294801": 1,
+    "https://www.linkedin.com/jobs/view/lead-quality-technician-at-j-m-huber-corporation-4378007612": 1,
+    "https://www.linkedin.com/jobs/view/founding-gtm-engineer-%24180k-%24230k-ote-%2b-equity-at-the-hog-at-jack-jill-4427415054": 1,
+    "https://www.linkedin.com/jobs/view/partnerships-manager-remote-at-quik-hire-staffing-4428610634": 1,
+    "https://www.linkedin.com/jobs/view/sales-and-marketing-specialist-4425732048": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-into3-ai-4427411480": 1,
+    "https://www.linkedin.com/jobs/view/ai-sales-growth-associate-at-jsimple-4427428162": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-14",
-    "cyclesToday": 5,
+    "cyclesToday": 6,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
