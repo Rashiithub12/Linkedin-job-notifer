@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-zip-4407531314": 1,
-    "https://www.linkedin.com/jobs/view/paid-creative-ops-manager-at-whatnot-4426145631": 1,
-    "https://www.linkedin.com/jobs/view/paid-growth-operator-at-pixel-monkey-4423169352": 1,
-    "https://www.linkedin.com/jobs/view/airborne-sensor-operator-at-leidos-4423169364": 1,
-    "https://www.linkedin.com/jobs/view/laboratory-technician-i-at-ues-4427024037": 1,
-    "https://www.linkedin.com/jobs/view/r-d-technician-ii-at-coorstek-inc-4423155898": 1,
-    "https://www.linkedin.com/jobs/view/field-technician-at-socotec-us-4427046807": 1,
-    "https://www.linkedin.com/jobs/view/ai-product-builder-at-storyteller-4423181157": 1,
-    "https://www.linkedin.com/jobs/view/director-sales-enablement-effectiveness-at-viventium-4427087324": 1,
-    "https://www.linkedin.com/jobs/view/director-of-sales-operations-at-megaport-4427091027": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-campaign-manager-salesforce-marketing-cloud-experience-required-100-%25-remote-at-zillion-technologies-inc-4426156130": 1,
-    "https://www.linkedin.com/jobs/view/email-marketing-specialist-at-revenue-advisory-group-4423132770": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-gitlab-4427048784": 1,
     "https://www.linkedin.com/jobs/view/%f0%9f%9a%80-email-marketing-guru-digital-products-apps-at-pmc-global-4426798987": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-emea-at-docker-inc-4427103016": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-bengala-4426332715": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/partnerships-manager-remote-at-quik-hire-staffing-4428655385": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-%2480k-ote-at-altor-partners-4427191721": 1,
     "https://www.linkedin.com/jobs/view/sales-and-marketing-specialist-at-airkrit-india-formerly-edulyt-india-4427445269": 1,
-    "https://www.linkedin.com/jobs/view/client-relationship-executive-at-aspire-designs-4425585896": 1
+    "https://www.linkedin.com/jobs/view/client-relationship-executive-at-aspire-designs-4425585896": 1,
+    "https://www.linkedin.com/jobs/view/equipment-operator-night-shift-at-waste-connections-4428628191": 1,
+    "https://www.linkedin.com/jobs/view/future-projects-flight-software-engineer-at-the-exploration-company-4357629445": 1,
+    "https://www.linkedin.com/jobs/view/marketing-paid-consultant-journey-automation-trigger-logic-at-linkedin-4425737122": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-intern-lead-generation-cold-calling-at-aeximius-sa-4428660336": 1,
+    "https://www.linkedin.com/jobs/view/us-saas-ai-outbound-meeting-setter-head-ai-saas-at-beyond-border-consultants-4427458085": 1,
+    "https://www.linkedin.com/jobs/view/business-development-executive-bde-bim-services-at-reckons-financial-consulting-private-limited-4427427318": 1,
+    "https://www.linkedin.com/jobs/view/remote-program-support-associate-at-talentoma-4427446329": 1,
+    "https://www.linkedin.com/jobs/view/operations-executive-associate-at-creativeoptic-agency-4425737897": 1,
+    "https://www.linkedin.com/jobs/view/virtual-assistant-at-jobright-ai-4427446174": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-account-manager-expansion-ae-at-fleetio-4409409917": 1,
+    "https://www.linkedin.com/jobs/view/sr-account-manager-at-honeywell-4378748783": 1,
+    "https://www.linkedin.com/jobs/view/strategic-account-manager-at-remotehunter-4427423457": 1,
+    "https://www.linkedin.com/jobs/view/account-manager-sales-ops-at-remotehunter-4427417441": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-14",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
