@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-peek-4426140669": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-pogo-4426024486": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-chatgpt-jobs-4423176501": 1,
     "https://www.linkedin.com/jobs/view/marketing-gtm-engineer-at-quadsci-4426399044": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-specialist-sr-specialist-at-darwinbox-4399883372": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/mlops-engineer-at-silversearch-inc-4415125531": 1,
     "https://www.linkedin.com/jobs/view/influencer-marketing-manager-fresher-at-horus-media-4427436891": 1,
     "https://www.linkedin.com/jobs/view/remote-appointment-setter-lead-generation-specialist-at-utello-4428665030": 1,
-    "https://www.linkedin.com/jobs/view/data-entry-specialist-at-fetchjobs-co-4427439610": 1
+    "https://www.linkedin.com/jobs/view/data-entry-specialist-at-fetchjobs-co-4427439610": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-superstar-recruitment-services-4428662167": 1,
+    "https://www.linkedin.com/jobs/view/community-collaborations-manager-at-saturn-circle-4427450488": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-14",
-    "cyclesToday": 28,
+    "cyclesToday": 29,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
