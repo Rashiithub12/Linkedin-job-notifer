@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/solutions-engineer-north-america-at-solace-4427077107": 1,
-    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-%24180k-%e2%80%93-%24280k-%2b-equity-at-thrive-capital-backed-enterprise-ai-startup-at-jack-jill-4426125723": 1,
-    "https://www.linkedin.com/jobs/view/customer-success-consultant-at-cortex-4426069999": 1,
-    "https://www.linkedin.com/jobs/view/growth-director-sales-marketing-at-tiro-4427081593": 1,
-    "https://www.linkedin.com/jobs/view/partner-manager-at-g-p-4405590123": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-of-growth-at-alex-partners-4423122455": 1,
-    "https://www.linkedin.com/jobs/view/organic-growth-strategy-manager-at-jobgether-4426140028": 1,
-    "https://www.linkedin.com/jobs/view/sales-engineer-remote-at-cynet-security-4423139538": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-strategic-accounts-at-connecteam-4407833531": 1,
-    "https://www.linkedin.com/jobs/view/organic-growth-strategy-manager-at-jobgether-4426134282": 1,
     "https://www.linkedin.com/jobs/view/category-manager-at-stockx-4426108088": 1,
     "https://www.linkedin.com/jobs/view/marketing-revenue-operations-specialist-at-f%c3%addus-global-4426164057": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-wing-assistant-4422761719": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/remote-appointment-setter-at-talentoma-4427443412": 1,
     "https://www.linkedin.com/jobs/view/remote-project-assistant-at-talentoma-4427441411": 1,
     "https://www.linkedin.com/jobs/view/remote-support-associate-at-talentoma-4427436768": 1,
-    "https://www.linkedin.com/jobs/view/remote-operations-specialist-at-talentoma-4427454184": 1
+    "https://www.linkedin.com/jobs/view/remote-operations-specialist-at-talentoma-4427454184": 1,
+    "https://www.linkedin.com/jobs/view/tailings-geotechnical-engineer-at-wsp-in-the-uk-ireland-4369686455": 1,
+    "https://www.linkedin.com/jobs/view/ingenieur-in-geotechnik-geologie-w-m-d-at-deutsche-bahn-4388217037": 1,
+    "https://www.linkedin.com/jobs/view/engineer-ops-field-support-at-avangrid-4409471173": 1,
+    "https://www.linkedin.com/jobs/view/associate-marketing-manager-marketing-manager-at-viz-ai-4398136714": 1,
+    "https://www.linkedin.com/jobs/view/client-acquisition-executive-at-trajital-4425744248": 1,
+    "https://www.linkedin.com/jobs/view/innovation-evangelist-at-aegis-graham-bell-award-4425746128": 1,
+    "https://www.linkedin.com/jobs/view/bde-jharkhand-bihar-odisha-at-lixil-4428648709": 1,
+    "https://www.linkedin.com/jobs/view/specialist-sales-development-at-concentrix-4375539647": 1,
+    "https://www.linkedin.com/jobs/view/outbound-sdr-israel-market-at-monday-com-4428641607": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-saas-b2b-at-sleekflow-4425749146": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-14",
-    "cyclesToday": 21,
+    "cyclesToday": 22,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
