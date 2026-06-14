@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/konsultant-d365-konsultantska-d365-at-astek-4417048902": 1,
-    "https://www.linkedin.com/jobs/view/senior-account-executive-agi-genai-builders-at-telus-digital-4394488924": 1,
-    "https://www.linkedin.com/jobs/view/product-builder-oowlish-labs-at-oowlish-4427105691": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-kana-4427085765": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-customer-success-at-sales-automation-ai-4426087460": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-peek-4426140669": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-pogo-4426024486": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-chatgpt-jobs-4423176501": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/growth-hacker-ai-first-at-kyra-at-jack-jill-4427457193": 1,
     "https://www.linkedin.com/jobs/view/promotions-strategy-manager-at-deliveroo-4398191092": 1,
     "https://www.linkedin.com/jobs/view/client-servicing-executive-at-the-violet-4427409697": 1,
-    "https://www.linkedin.com/jobs/view/vice-president-of-global-marketing-at-energobox-4428645570": 1
+    "https://www.linkedin.com/jobs/view/vice-president-of-global-marketing-at-energobox-4428645570": 1,
+    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4427441589": 1,
+    "https://www.linkedin.com/jobs/view/mlops-engineer-at-silversearch-inc-4415125531": 1,
+    "https://www.linkedin.com/jobs/view/influencer-marketing-manager-fresher-at-horus-media-4427436891": 1,
+    "https://www.linkedin.com/jobs/view/remote-appointment-setter-lead-generation-specialist-at-utello-4428665030": 1,
+    "https://www.linkedin.com/jobs/view/data-entry-specialist-at-fetchjobs-co-4427439610": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-14",
-    "cyclesToday": 27,
+    "cyclesToday": 28,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
