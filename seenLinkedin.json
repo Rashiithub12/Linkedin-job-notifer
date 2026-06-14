@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-genz-solutionz-4423147817": 1,
-    "https://www.linkedin.com/jobs/view/senior-talent-partner-at-cloudbeds-4427103648": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-at-pine-services-group-4426136596": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-mbb-top-tier-firms-freelance-ai-project-at-mindrift-4427083372": 1,
     "https://www.linkedin.com/jobs/view/netsuite-consultant-at-jobs-via-dice-4426146742": 1,
     "https://www.linkedin.com/jobs/view/consultor-a-de-workiva-esg-at-minsait-4423151130": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-mbb-top-tier-firms-freelance-ai-project-at-mindrift-4427087036": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/casting-specialist-heat-shield-manufacturing-starship-at-spacex-4363651773": 1,
     "https://www.linkedin.com/jobs/view/executive-at-the-sm-records-4427451327": 1,
     "https://www.linkedin.com/jobs/view/search-marketing-manager-at-salt-4425734594": 1,
-    "https://www.linkedin.com/jobs/view/senior-growth-marketing-lead-at-oleria-4428644470": 1
+    "https://www.linkedin.com/jobs/view/senior-growth-marketing-lead-at-oleria-4428644470": 1,
+    "https://www.linkedin.com/jobs/view/field-service-supervisor-midland-tx-at-superior-performance-inc-4428649361": 1,
+    "https://www.linkedin.com/jobs/view/manager-of-influencer-marketing-at-ondavi-4427444539": 1,
+    "https://www.linkedin.com/jobs/view/head-of-ecommerce-at-insomnia-visuals-4427461090": 1,
+    "https://www.linkedin.com/jobs/view/angariador-4428656687": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-14",
-    "cyclesToday": 25,
+    "cyclesToday": 26,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
