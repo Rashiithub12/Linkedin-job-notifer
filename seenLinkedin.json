@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/account-executive-emea-at-digify-4426751283": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-emea-at-digify-4426752249": 1,
-    "https://www.linkedin.com/jobs/view/founding-account-executive-at-mavi-4415323951": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-connecteam-4386968442": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-at-storable-4415972113": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-us-at-coreview-4424178965": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-propomy-4427062420": 1,
-    "https://www.linkedin.com/jobs/view/gtm-systems-manager-at-spellbook-4422788375": 1,
-    "https://www.linkedin.com/jobs/view/product-builder-oowlish-labs-at-oowlish-4427092857": 1,
     "https://www.linkedin.com/jobs/view/regional-marketing-executive-work-from-home-at-hired-4427124920": 1,
     "https://www.linkedin.com/jobs/view/sr-marketing-campaign-manager-at-everyday-speech-4423168802": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-uk-cold-calling-remote-at-division50-4426757700": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-presidio-4302598197": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-globaltize-4417466093": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-market-research-industry-at-aquarelle-research-4426987198": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-smarterpay-4428384188": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-smarterpay-4428384188": 1,
+    "https://www.linkedin.com/jobs/view/demo-engineer-at-lightspeed-4427445693": 1,
+    "https://www.linkedin.com/jobs/view/digital-media-lead-supervisor-manager-sr-associate-at-m-c-saatchi-february-4427419325": 1,
+    "https://www.linkedin.com/jobs/view/marketing-team-4427445290": 1,
+    "https://www.linkedin.com/jobs/view/e-mail-design-html-email-campaign-sfmct-1-2-yrs-exp-gurgaon-work-from-office-at-wns-4428632462": 1,
+    "https://www.linkedin.com/jobs/view/technical-cum-marketing-executive-4427423304": 1,
+    "https://www.linkedin.com/jobs/view/svp-of-marketing-at-prologue-retained-search-4427459354": 1,
+    "https://www.linkedin.com/jobs/view/otc-sales-development-representative-at-btse-4369452337": 1,
+    "https://www.linkedin.com/jobs/view/regional-sales-manager-at-varicent-4427436881": 1,
+    "https://www.linkedin.com/jobs/view/specialized-account-executive-jakarta-indonesia-at-mendix-4143247582": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-15",
-    "cyclesToday": 1,
+    "cyclesToday": 2,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
