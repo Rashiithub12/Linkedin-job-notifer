@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/lease-operator-i-at-scout-energy-partners-4427663999": 1,
-    "https://www.linkedin.com/jobs/view/adventure-wishlist-consultant-at-adventure-wishlist-travel-4427935865": 1,
-    "https://www.linkedin.com/jobs/view/s100d-consultant-at-hartleyco-4424884353": 1,
-    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-diligent-4386795911": 1,
-    "https://www.linkedin.com/jobs/view/founding-gtm-engineer-%24180k-%24230k-ote-%2b-equity-at-yc-f25-real-time-web-intelligence-api-at-jack-jill-4426920779": 1,
-    "https://www.linkedin.com/jobs/view/operations-engineer-%2415-3-hr-remote-at-crossing-hurdles-4426943513": 1,
-    "https://www.linkedin.com/jobs/view/operations-engineer-%2415-3-hr-remote-at-crossing-hurdles-4426936577": 1,
-    "https://www.linkedin.com/jobs/view/operations-engineer-%2415-3-hr-remote-at-crossing-hurdles-4426944474": 1,
-    "https://www.linkedin.com/jobs/view/operations-engineer-%2415-3-hr-remote-at-crossing-hurdles-4426938563": 1,
-    "https://www.linkedin.com/jobs/view/marketing-automation-manager-at-digicert-4426625098": 1,
-    "https://www.linkedin.com/jobs/view/marketing-assistant-at-m3-communications-4426951342": 1,
-    "https://www.linkedin.com/jobs/view/healthcare-recruiter-at-wapiti-medical-staffing-4427580130": 1,
-    "https://www.linkedin.com/jobs/view/marketing-associate-at-foundation-marketing-4423690624": 1,
-    "https://www.linkedin.com/jobs/view/virtual-assistant-at-lumiere-education-4426943559": 1,
     "https://www.linkedin.com/jobs/view/assessment-operations-assistant-at-achievement-network-anet-4424841734": 1,
     "https://www.linkedin.com/jobs/view/business-development-executive-at-webito-4424878321": 1,
     "https://www.linkedin.com/jobs/view/business-development-executive-at-kasa-india-4426928731": 1,
@@ -1999,7 +1985,21 @@
     "https://www.linkedin.com/jobs/view/crm-retention-marketing-executive-at-marqa-4428031129": 1,
     "https://www.linkedin.com/jobs/view/ppc-executive-at-vega-moon-technologies-4428021675": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-ad2ship-4428015768": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-sankalp-group-4426460909": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-sankalp-group-4426460909": 1,
+    "https://www.linkedin.com/jobs/view/consultor-activos-digitales-cripto-at-sopra-steria-4425836704": 1,
+    "https://www.linkedin.com/jobs/view/ai-builder-dev-fullstack-at-4df-connect-4429164617": 1,
+    "https://www.linkedin.com/jobs/view/principal-data-scientist-agent-builder-at-elastic-4429158191": 1,
+    "https://www.linkedin.com/jobs/view/principal-data-scientist-agent-builder-at-elastic-4429173013": 1,
+    "https://www.linkedin.com/jobs/view/principal-data-scientist-agent-builder-at-elastic-4429156230": 1,
+    "https://www.linkedin.com/jobs/view/principal-data-scientist-agent-builder-at-elastic-4429154405": 1,
+    "https://www.linkedin.com/jobs/view/principal-data-scientist-agent-builder-at-elastic-4429157217": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-inploi-at-jack-jill-4428029539": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-%24180k-%e2%80%93-%24280k-%2b-equity-at-console-at-jack-jill-4428035536": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-up-to-%24250k-at-dex-4429253057": 1,
+    "https://www.linkedin.com/jobs/view/business-operations-manager-%2470-hr-remote-at-crossing-hurdles-4426486758": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-part-time-at-revoptimal-4429201225": 1,
+    "https://www.linkedin.com/jobs/view/project-administrator-at-gulati-homes-4427794992": 1,
+    "https://www.linkedin.com/jobs/view/remote-legislative-outreach-liason-at-legistorm-4429130227": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-16",
-    "cyclesToday": 6,
+    "cyclesToday": 7,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
