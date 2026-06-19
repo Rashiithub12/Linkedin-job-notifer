@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/growth-specialist-at-strala-at-jack-jill-4427477525": 1,
-    "https://www.linkedin.com/jobs/view/head-of-gtm-at-atlantic-4425772684": 1,
-    "https://www.linkedin.com/jobs/view/head-of-gtm-at-helm-ai-4427483657": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-verz-design-4427487056": 1,
-    "https://www.linkedin.com/jobs/view/social-media-and-community-manager-at-activate-talent-4428696802": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-jga-recruitment-group-b-corp%e2%84%a2-4425770578": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-anewswire-4427481621": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-infinum-4427470728": 1,
-    "https://www.linkedin.com/jobs/view/business-development-executive-at-alkimii-4388386101": 1,
-    "https://www.linkedin.com/jobs/view/sr-business-development-representative-bdr-at-jobgether-4427476131": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-kernelor-4427479246": 1,
-    "https://www.linkedin.com/jobs/view/virtual-assistant-work-from-home-at-persona-4427474473": 1,
     "https://www.linkedin.com/jobs/view/remote-data-entry-specialist-assistant-administrator-at-recruitlytixs-hire-4428691489": 1,
     "https://www.linkedin.com/jobs/view/remote-data-entry-specialist-assistant-administrator-at-recruitlytixs-hire-4428699543": 1,
     "https://www.linkedin.com/jobs/view/doctor-outreach-executive-at-ganaa-%e0%a4%97%e0%a4%a3%e0%a4%be-4427476309": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/inbound-sales-development-representative-at-asana-4417236958": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-ateneo-de-manila-university-4429032507": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-club-feast-4427845957": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-microsourcing-4410977353": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-microsourcing-4410977353": 1,
+    "https://www.linkedin.com/jobs/view/customer-engineer-at-greptile-at-jack-jill-4429632501": 1,
+    "https://www.linkedin.com/jobs/view/strategic-solutions-engineer-at-clickup-4429377456": 1,
+    "https://www.linkedin.com/jobs/view/senior-solutions-engineer-at-harell-data-4408650198": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-inploi-at-jack-jill-4429620789": 1,
+    "https://www.linkedin.com/jobs/view/machine-learning-ops-engineer-at-tui-4418100001": 1,
+    "https://www.linkedin.com/jobs/view/machine-learning-ops-engineer-at-tui-4418099005": 1,
+    "https://www.linkedin.com/jobs/view/marketing-campaign-manager-at-alorica-4429617616": 1,
+    "https://www.linkedin.com/jobs/view/global-integrated-campaigns-manager-at-lastpass-4429330258": 1,
+    "https://www.linkedin.com/jobs/view/outbound-cold-caller-remote-at-wing-assistant-4423181340": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-chaostrack-4428204792": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-shivohm-4428217258": 1,
+    "https://www.linkedin.com/jobs/view/entry-level-administrative-assistant-remote-at-recruitlytixs-hr-4430915326": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-19",
-    "cyclesToday": 5,
+    "cyclesToday": 6,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
