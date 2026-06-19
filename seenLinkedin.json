@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/founding-gtm-engineer-%24180k-%24230k-ote-%2b-equity-at-the-hog-at-jack-jill-4428014143": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-mutiny-4427726251": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-acquisition-growth-at-skello-4428693792": 1,
-    "https://www.linkedin.com/jobs/view/full-stack-growth-builder-at-fleek-at-jack-jill-4427790202": 1,
-    "https://www.linkedin.com/jobs/view/growth-engineer-at-happyrobot-4429206080": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-at-avua-4429185470": 1,
-    "https://www.linkedin.com/jobs/view/assistant-marketing-manager-at-indigo-marketing-agency-4427730703": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-synergy-pet-group-4427766066": 1,
-    "https://www.linkedin.com/jobs/view/gtm-operations-specialist-at-revspring-4424134034": 1,
-    "https://www.linkedin.com/jobs/view/creator-outreach-specialist-at-surfshark-4429118845": 1,
-    "https://www.linkedin.com/jobs/view/creator-outreach-specialist-at-surfshark-4429109881": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-noto-360-fraud-and-compliance-4428823381": 1,
-    "https://www.linkedin.com/jobs/view/sdr-outbound-specialist-at-truempathy-4410565599": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-uk-i-at-ecosio-4428814793": 1,
     "https://www.linkedin.com/jobs/view/bdr-business-development-representative-at-inven-4427759215": 1,
     "https://www.linkedin.com/jobs/view/founding-sdr-at-alignd-4426426060": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/revenue-engine-operator-at-tangle-ventures-4431140888": 1,
     "https://www.linkedin.com/jobs/view/rent-a-car-consultant-with-german-and-english-at-telus-digital-4430953596": 1,
     "https://www.linkedin.com/jobs/view/founding-growth-lead-%24140k-%24200k-%2b-equity-at-grw-ai-at-jack-jill-4430019089": 1,
-    "https://www.linkedin.com/jobs/view/virtual-assistant-at-ag%c3%aancia-essencial-eventos-corporativos-4431163494": 1
+    "https://www.linkedin.com/jobs/view/virtual-assistant-at-ag%c3%aancia-essencial-eventos-corporativos-4431163494": 1,
+    "https://www.linkedin.com/jobs/view/operator-at-oneok-4431127879": 1,
+    "https://www.linkedin.com/jobs/view/swd-operator-at-ngl-energy-partners-lp-4431155080": 1,
+    "https://www.linkedin.com/jobs/view/operator-8-at-kinder-morgan-inc-4431125899": 1,
+    "https://www.linkedin.com/jobs/view/staff-professional-regional-geotechnical-solid-waste-at-bunnell-lammons-engineering-4431138408": 1,
+    "https://www.linkedin.com/jobs/view/geotechnical-field-technician-at-ecs-group-of-companies-4431131298": 1,
+    "https://www.linkedin.com/jobs/view/field-specialist-at-gri-4431121548": 1,
+    "https://www.linkedin.com/jobs/view/operator-utility-at-cemex-us-4428505836": 1,
+    "https://www.linkedin.com/jobs/view/technician-block-production-at-cemex-us-4428297916": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-raydar-4431146502": 1,
+    "https://www.linkedin.com/jobs/view/pre-sales-solutions-engineer-san-francisco-ca-at-deepgram-4401174422": 1,
+    "https://www.linkedin.com/jobs/view/online-marketer-at-futurewhiz-4359693814": 1,
+    "https://www.linkedin.com/jobs/view/account-development-representative-i-dach-at-camunda-4427886291": 1,
+    "https://www.linkedin.com/jobs/view/linkedin-outreach-bdr-at-webcraftio-4428291490": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-19",
-    "cyclesToday": 22,
+    "cyclesToday": 23,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
