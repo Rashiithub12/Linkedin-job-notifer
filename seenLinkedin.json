@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/outside-sales-representative-at-welbehealth-4426805815": 1,
-    "https://www.linkedin.com/jobs/view/clinical-outreach-representative-at-the-renfrew-center-4428062803": 1,
-    "https://www.linkedin.com/jobs/view/operator-water-treatment-at-select-water-solutions-4426009416": 1,
-    "https://www.linkedin.com/jobs/view/head-of-growth-gtm-engineer-at-consistent-performance-4429779443": 1,
-    "https://www.linkedin.com/jobs/view/head-of-outbound-linkedin-cold-email-at-consistent-performance-4429771676": 1,
-    "https://www.linkedin.com/jobs/view/cold-email-linkedin-growth-lead-at-consistent-performance-4429785417": 1,
-    "https://www.linkedin.com/jobs/view/cold-email-linkedin-growth-lead-at-consistent-performance-4429772615": 1,
-    "https://www.linkedin.com/jobs/view/observability-engineer-at-miratech-4426814260": 1,
-    "https://www.linkedin.com/jobs/view/gtm-ai-solutions-manager-sales-remote-based-in-the-uk-or-us-at-relex-solutions-4426485737": 1,
-    "https://www.linkedin.com/jobs/view/sales-operations-at-origin-4429709056": 1,
-    "https://www.linkedin.com/jobs/view/senior-vice-president-of-marketing-at-fidem-jewelry-4428434792": 1,
     "https://www.linkedin.com/jobs/view/sr-manager-integrated-marketing-global-hoka-apparel-accessories-at-hoka-4426870732": 1,
     "https://www.linkedin.com/jobs/view/growth-specialist-part-time-hourly-at-integremed-4426896947": 1,
     "https://www.linkedin.com/jobs/view/cold-caller-appointment-setter-at-bruntwork-4426881528": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/growth-marketing-operations-manager-at-hinge-health-4385728765": 1,
     "https://www.linkedin.com/jobs/view/sr-manager-marketing-operations-at-centralreach-4411900476": 1,
     "https://www.linkedin.com/jobs/view/hiring-now-entry-level-work-from-home-start-asap-at-remotehunter-4430098372": 1,
-    "https://www.linkedin.com/jobs/view/fully-remote-client-relations-associate-entry-level-at-remotehunter-4430313089": 1
+    "https://www.linkedin.com/jobs/view/fully-remote-client-relations-associate-entry-level-at-remotehunter-4430313089": 1,
+    "https://www.linkedin.com/jobs/view/databricks-consultant-engineer-new-job-today-at-private-company-4430050102": 1,
+    "https://www.linkedin.com/jobs/view/model-serving-engineer-at-bright-vision-technologies-4430075799": 1,
+    "https://www.linkedin.com/jobs/view/director-advisor-consulting-marketing-strategy-at-meeder-investment-management-4400117072": 1,
+    "https://www.linkedin.com/jobs/view/chief-marketing-officer-at-manoj-ornaments-private-limited-4425715679": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-specialist-at-elite-marketing-4431323037": 1,
+    "https://www.linkedin.com/jobs/view/marketing-executive-at-steinbach-vollmann-4429624568": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-executive-at-speak-10x-better-4431339526": 1,
+    "https://www.linkedin.com/jobs/view/remote-data-entry-specialist-at-remotehunter-4430313109": 1,
+    "https://www.linkedin.com/jobs/view/client-coordination-specialist-at-ateneo-de-manila-university-4431339558": 1,
+    "https://www.linkedin.com/jobs/view/telephone-account-manager-overseas-at-rightmove-4411395118": 1,
+    "https://www.linkedin.com/jobs/view/senior-csm-account-manager-at-gocertify-4430080588": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-20",
-    "cyclesToday": 26,
+    "cyclesToday": 27,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
