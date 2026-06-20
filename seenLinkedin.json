@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/user-growth-referral-community-partners-growth-at-scapia-4429243495": 1,
-    "https://www.linkedin.com/jobs/view/whatsapp-marketing-at-expertrons-4427328007": 1,
-    "https://www.linkedin.com/jobs/view/bd-growth-executive-marketing-at-neuroid-4428444458": 1,
-    "https://www.linkedin.com/jobs/view/sales-and-marketing-specialist-at-global-nomads-4426859027": 1,
-    "https://www.linkedin.com/jobs/view/fully-remote-client-relations-associate-entry-level-at-remotehunter-4428098005": 1,
-    "https://www.linkedin.com/jobs/view/operator-seefracht-export-import-m-w-d-n%c3%bcrnberg-at-lifa-logistics-tr-4428432420": 1,
-    "https://www.linkedin.com/jobs/view/operador-central-monitoramento-%e2%80%93-condom%c3%adnio-%e2%80%93-porto-alegre-%e2%80%93-rs-at-buscarvagas-empregos-brasil-4427336234": 1,
-    "https://www.linkedin.com/jobs/view/chat-operator-at-jobgether-4428016721": 1,
-    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4428462473": 1,
     "https://www.linkedin.com/jobs/view/%d0%be%d0%bf%d0%b5%d1%80%d0%b0%d1%82%d0%be%d1%80-%d0%be%d0%bd%d0%bb%d0%b0%d0%b9%d0%bd-%d1%87%d0%b0%d1%82%d0%b0-%d1%81%d0%be-%d0%b7%d0%bd%d0%b0%d0%bd%d0%b8%d0%b5%d0%bc-%d1%82%d0%b0%d0%b4%d0%b6%d0%b8%d0%ba%d1%81%d0%ba%d0%be%d0%b3%d0%be-%d1%8f%d0%b7%d1%8b%d0%ba%d0%b0-at-talk-with-us-4427322397": 1,
     "https://www.linkedin.com/jobs/view/community-growth-operator-at-cef-ai-4426813677": 1,
     "https://www.linkedin.com/jobs/view/target-sr-consultant-at-commergence-4428471303": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/laboratory-technician-at-raba-kistner-inc-4365260405": 1,
     "https://www.linkedin.com/jobs/view/outbound-sales-representative-at-abs-international-4428539715": 1,
     "https://www.linkedin.com/jobs/view/caller-4430067600": 1,
-    "https://www.linkedin.com/jobs/view/inside-sales-executive-at-kozkertech-4430081032": 1
+    "https://www.linkedin.com/jobs/view/inside-sales-executive-at-kozkertech-4430081032": 1,
+    "https://www.linkedin.com/jobs/view/air-refueling-operator-at-metrea-4430306281": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-remote-bay-area-at-dynatrace-4403416069": 1,
+    "https://www.linkedin.com/jobs/view/ui-engineer-angular-python-at-cryscol-solutions-4428522778": 1,
+    "https://www.linkedin.com/jobs/view/patient-recruitment-digital-media-manager-at-immunitybio-inc-4421292165": 1,
+    "https://www.linkedin.com/jobs/view/creative-marketing-manager-product-marketing-at-revolut-4371147012": 1,
+    "https://www.linkedin.com/jobs/view/remote-business-development-representative-hugo-inc-no-sales-experience%3f-hugo-will-tr-at-bankable-wisdom-4431315963": 1,
+    "https://www.linkedin.com/jobs/view/part-time-remote-jobs-at-remote-job-network-4430063850": 1,
+    "https://www.linkedin.com/jobs/view/sales-representative-permanent-full-time-supply-chain-and-logistics-b2b-ontario-at-chit-chats-4431348498": 1,
+    "https://www.linkedin.com/jobs/view/sales-representative-permanent-full-time-supply-chain-and-logistics-b2b-quebec-at-chit-chats-4431352490": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-20",
-    "cyclesToday": 28,
+    "cyclesToday": 29,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
