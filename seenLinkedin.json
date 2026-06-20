@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/native-dutch-english-c1-ai-calendar-configuration-operator-short-term-at-supportyourapp-4426485650": 1,
-    "https://www.linkedin.com/jobs/view/native-dutch-english-c1-ai-calendar-configuration-operator-short-term-at-supportyourapp-4426488660": 1,
-    "https://www.linkedin.com/jobs/view/chat-operator-at-jobgether-4426488499": 1,
-    "https://www.linkedin.com/jobs/view/technical-expert-at-confidential-company-4429236520": 1,
-    "https://www.linkedin.com/jobs/view/principal-data-scientist-agent-builder-at-elastic-4429152955": 1,
-    "https://www.linkedin.com/jobs/view/senior-gtm-engineer-at-mobylogix-4426456954": 1,
-    "https://www.linkedin.com/jobs/view/apps-sys-engineer-pre-sales-at-jobgether-4426456942": 1,
-    "https://www.linkedin.com/jobs/view/operations-engineer-at-veolia-water-tech-4429240818": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-wr-hvac-mep-4426475915": 1,
     "https://www.linkedin.com/jobs/view/event-marketing-executive-b2b-at-digital-4426800389": 1,
     "https://www.linkedin.com/jobs/view/digital-coordinator-at-perelel-4426809034": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-specialist-at-nexlaw-ai-4424030595": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/lead-generation-appointment-setter-at-bruntwork-4428290735": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-monit-4429603553": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-saas-at-kanna-4430015422": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-emea-inbound-at-hack-chicago-4430028596": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-emea-inbound-at-hack-chicago-4430028596": 1,
+    "https://www.linkedin.com/jobs/view/customer-engineer-at-greptile-at-jack-jill-4430066078": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-commercial-at-hack-chicago-4430028599": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-inploi-at-jack-jill-4430058167": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-gtm-at-hack-chicago-4430035514": 1,
+    "https://www.linkedin.com/jobs/view/full-stack-growth-builder-at-fleek-at-jack-jill-4430059143": 1,
+    "https://www.linkedin.com/jobs/view/growth-specialist-at-solaredge-technologies-4431151828": 1,
+    "https://www.linkedin.com/jobs/view/account-manager-sb-at-airtel-4417660334": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-at-superset-4429625932": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-contactloop-4429651291": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-20",
-    "cyclesToday": 2,
+    "cyclesToday": 3,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
