@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/consultant-ii-at-csg-4393474934": 1,
-    "https://www.linkedin.com/jobs/view/marketo-consultant-at-xchange-software-inc-4428749500": 1,
-    "https://www.linkedin.com/jobs/view/salesforce-consultor-experto-en-banca-at-vass-4429974611": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-energy-remote-at-atkinsr%c3%a9alis-4427621283": 1,
-    "https://www.linkedin.com/jobs/view/avalara-and-yooz-consultant-at-system-soft-technologies-4429036173": 1,
-    "https://www.linkedin.com/jobs/view/%e6%b0%b4%e6%b3%a5%e5%b7%a5%e8%89%ba%e7%a0%94%e5%8f%91-at-anhui-conch-cement-co-ltd-4427828095": 1,
-    "https://www.linkedin.com/jobs/view/laboratory-technicians-at-tonkin-%2b-taylor-4427830317": 1,
-    "https://www.linkedin.com/jobs/view/ai-builder-full-stack-%c2%b7-ux-%c2%b7-product-at-drbalcony-4429015369": 1,
-    "https://www.linkedin.com/jobs/view/ai-builder-full-stack-%c2%b7-ux-%c2%b7-product-at-drbalcony-4429012853": 1,
-    "https://www.linkedin.com/jobs/view/ai-builder-full-stack-%c2%b7-ux-%c2%b7-product-at-drbalcony-4429005963": 1,
-    "https://www.linkedin.com/jobs/view/%e3%80%90%e5%9c%a8%e5%ae%85%e5%8f%af%e3%80%91salesforce%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%e2%97%86%e5%a4%a7%e6%89%8b%e4%bc%81%e6%a5%ad%e5%90%91%e3%81%91%e5%88%a9%e6%b4%bb%e7%94%a8%e6%94%af%e6%8f%b4%ef%bc%8f%e5%b9%b4%e4%bc%91121%e6%97%a5%ef%bc%8f%e6%ae%8b%e6%a5%ad15h-at-doda-%e3%83%87%e3%83%a5%e3%83%bc%e3%83%80-4430187773": 1,
     "https://www.linkedin.com/jobs/view/founding-gtm-engineer-%24180k-%24230k-ote-%2b-equity-at-the-hog-at-jack-jill-4429024022": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-granola-4428720282": 1,
     "https://www.linkedin.com/jobs/view/senior-gtm-engineer-at-carter-murray-4428498012": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/content-creator-at-rich-multimedia-design-4431600613": 1,
     "https://www.linkedin.com/jobs/view/buissness-development-executive-at-power-pal-inc-4418784335": 1,
     "https://www.linkedin.com/jobs/view/inside-sales-associate-apartments-com-toronto-ontario-at-apartments-com-4382107826": 1,
-    "https://www.linkedin.com/jobs/view/influencer-specialist-at-irgmedia-4428588557": 1
+    "https://www.linkedin.com/jobs/view/influencer-specialist-at-irgmedia-4428588557": 1,
+    "https://www.linkedin.com/jobs/view/director-strategic-alliances-at-semarchy-4431386889": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-specialist-at-key-to-you-4430352028": 1,
+    "https://www.linkedin.com/jobs/view/d2c-associate-at-rioware-4430325878": 1,
+    "https://www.linkedin.com/jobs/view/growth-hacker-at-egyrec-jobs-%d9%88%d8%b8%d8%a7%d8%a6%d9%81-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-4431397770": 1,
+    "https://www.linkedin.com/jobs/view/growth-demand-generation-manager-at-windward-4431608026": 1,
+    "https://www.linkedin.com/jobs/view/email-operations-manager-at-nest-marketing-4430359053": 1,
+    "https://www.linkedin.com/jobs/view/b2b-saas-sales-specialist-at-snappy-4430353035": 1,
+    "https://www.linkedin.com/jobs/view/entry-level-virtual-jobs-remote-full-part-time-beginner-friendly-start-asap-at-remotehunter-4430349055": 1,
+    "https://www.linkedin.com/jobs/view/data-entry-specialist-at-conflux-systems-4431398228": 1,
+    "https://www.linkedin.com/jobs/view/hiring-now-entry-level-work-from-home-start-asap-at-remotehunter-4430362597": 1,
+    "https://www.linkedin.com/jobs/view/fully-remote-client-relations-associate-entry-level-at-remotehunter-4430355057": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-21",
-    "cyclesToday": 20,
+    "cyclesToday": 21,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
