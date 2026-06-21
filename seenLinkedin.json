@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/pump-operator-at-axis-energy-services-4430198187": 1,
-    "https://www.linkedin.com/jobs/view/wireline-operator-at-klx-energy-services-4429985435": 1,
-    "https://www.linkedin.com/jobs/view/operator-disposal-pipeline-at-select-water-solutions-4426002904": 1,
-    "https://www.linkedin.com/jobs/view/technician-pipeline-livingston-tx-at-enterprise-products-4428765223": 1,
-    "https://www.linkedin.com/jobs/view/field-technician-i-at-ues-4420231255": 1,
-    "https://www.linkedin.com/jobs/view/qc-specialist-black-spur-asphalt-at-martin-marietta-4419958954": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-at-jackson-james-4430423884": 1,
-    "https://www.linkedin.com/jobs/view/grail-galleri-consultant-1-mountain-corridor-%234684-at-grail-4379107672": 1,
-    "https://www.linkedin.com/jobs/view/client-b2b-cold-email-strategist-at-ai-acquisition-4429987725": 1,
-    "https://www.linkedin.com/jobs/view/client-b2b-cold-email-strategist-at-ai-acquisition-4429987741": 1,
     "https://www.linkedin.com/jobs/view/marketing-automation-engineer-ai-at-employment-hero-4430197310": 1,
     "https://www.linkedin.com/jobs/view/ai-builder-full-stack-%c2%b7-ux-%c2%b7-product-at-drbalcony-4429009919": 1,
     "https://www.linkedin.com/jobs/view/customer-engineer-at-greptile-at-jack-jill-4429015345": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/senior-executive-sales-at-larsen-toubro-4373556300": 1,
     "https://www.linkedin.com/jobs/view/sr-sales-executive-at-coding-meri-jaan-4428507569": 1,
     "https://www.linkedin.com/jobs/view/enterprise-sales-director-new-delhi-based-at-delinea-4329649999": 1,
-    "https://www.linkedin.com/jobs/view/corporate-gifting-b2b-gifting-institutional-sales-4430336075": 1
+    "https://www.linkedin.com/jobs/view/corporate-gifting-b2b-gifting-institutional-sales-4430336075": 1,
+    "https://www.linkedin.com/jobs/view/laboratory-technician-at-cmt-technical-services-4431393832": 1,
+    "https://www.linkedin.com/jobs/view/laboratory-technician-construction-materials-testing-cmt-at-terracon-4431376736": 1,
+    "https://www.linkedin.com/jobs/view/customer-engineer-at-greptile-at-jack-jill-4430353044": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-inploi-at-jack-jill-4430357040": 1,
+    "https://www.linkedin.com/jobs/view/founding-gtm-engineer-%24180k-%24230k-ote-%2b-equity-at-the-hog-at-jack-jill-4430350042": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-operations-manager-at-crg-search-4411766736": 1,
+    "https://www.linkedin.com/jobs/view/crm%e6%95%b0%e5%ad%97%e8%bf%90%e8%90%a5%e4%b8%bb%e7%ae%a1-at-%e5%8c%97%e4%ba%ac%e5%b0%8f%e6%96%b9%e7%a7%91%e6%8a%80%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8-4428553953": 1,
+    "https://www.linkedin.com/jobs/view/%e5%b8%82%e5%9c%ba%e8%bf%90%e8%90%a5%e4%b8%93%e5%91%98%ef%bc%88%e6%95%b0%e6%8d%ae%e5%88%86%e6%9e%90%ef%bc%89marketing-operation-specialist%e2%80%94data-analysis-bi-at-%e5%8d%97%e4%ba%ac%e9%87%91%e6%96%af%e7%91%9e%e7%94%9f%e7%89%a9%e7%a7%91%e6%8a%80%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8-4428560499": 1,
+    "https://www.linkedin.com/jobs/view/analyst-marketing-operations-at-victoria%e2%80%99s-secret-co-4411917345": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-%c2%a340k-%2b-equity-at-uptimelabs-at-jack-jill-4430365019": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-21",
-    "cyclesToday": 22,
+    "cyclesToday": 23,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
