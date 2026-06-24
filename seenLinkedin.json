@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/performance-marketer-at-cgpey-international-pvt-ltd-4430334327": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-dhrron-consultancy-%f0%9f%a7%bf-4430087588": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-corporate-sports-club-4430321056": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-specialist-at-open-box-agency-4430085471": 1,
-    "https://www.linkedin.com/jobs/view/community-marketing-executive-4428585206": 1,
-    "https://www.linkedin.com/jobs/view/creative-marketing-manager-product-marketing-at-revolut-4371144035": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-analytics-manager-at-jabra-4403523486": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-rev-io-4427941029": 1,
     "https://www.linkedin.com/jobs/view/sales-executive-4430323270": 1,
     "https://www.linkedin.com/jobs/view/salesperson-at-hobfit-4430335162": 1,
     "https://www.linkedin.com/jobs/view/caller-4428569811": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/ocs-charging-engineer-at-webbing-4413047903": 1,
     "https://www.linkedin.com/jobs/view/revenue-operations-engineer-at-compucycle-inc-4432128050": 1,
     "https://www.linkedin.com/jobs/view/online-campaign-manager-at-vero-brand-crafter-4429828590": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-moi-handcrafted-luxury-4429841768": 1
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-moi-handcrafted-luxury-4429841768": 1,
+    "https://www.linkedin.com/jobs/view/operador-a-de-produ%c3%a7%c3%a3o-i-at-sig-group-4429878708": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-servicenow-remote-at-shakers-4429856252": 1,
+    "https://www.linkedin.com/jobs/view/cmc-consultant-at-biotech-partners-4431849727": 1,
+    "https://www.linkedin.com/jobs/view/process-engineer-f-m-x-at-solvay-4410338403": 1,
+    "https://www.linkedin.com/jobs/view/information-technology-security-engineer-at-sunstream-business-services-4429889238": 1,
+    "https://www.linkedin.com/jobs/view/corporate-project-engineer-manufacturing-remote-at-ipg-4432536931": 1,
+    "https://www.linkedin.com/jobs/view/independent-sales-consultant-at-cork-media-4432820401": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-manager-at-n8n-4432804103": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-24",
-    "cyclesToday": 25,
+    "cyclesToday": 26,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
