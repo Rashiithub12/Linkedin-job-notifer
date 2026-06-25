@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/performance-marketer-%e2%80%93%e2%80%93-google-meta-ads-at-akaso-india-4430536963": 1,
-    "https://www.linkedin.com/jobs/view/amazon-ads-executive-at-advertisingsaga-4430513529": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-harper-russo-talent-partner-4428929789": 1,
-    "https://www.linkedin.com/jobs/view/influencer-marketing-manager-at-temu-4430565289": 1,
-    "https://www.linkedin.com/jobs/view/lifecycle-marketing-lead-at-museum-of-ice-cream-4431718372": 1,
-    "https://www.linkedin.com/jobs/view/demand-planner-at-oatly-4421684437": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-lead-uki-northern-europe-mea-at-airbnb-4431712035": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-associate-m-f-d-at-geek%2b-4430559013": 1,
     "https://www.linkedin.com/jobs/view/marketing-executive-at-ubiq-4431702816": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4432685316": 1,
     "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4432698020": 1,
     "https://www.linkedin.com/jobs/view/remote-data-entry-specialist-at-remotehunter-4432686697": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-jobgether-4432111552": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-jobgether-4432111552": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-pff-4433345378": 1,
+    "https://www.linkedin.com/jobs/view/telemarketing-at-zuellig-pharma-4404279613": 1,
+    "https://www.linkedin.com/jobs/view/cold-caller-b2b-sales-specialist-at-u-m-softx-4430266426": 1,
+    "https://www.linkedin.com/jobs/view/sales-employee-4432901297": 1,
+    "https://www.linkedin.com/jobs/view/telecaller-at-shravan-estate-consultant-at-jsr-group-sun-city-4433370840": 1,
+    "https://www.linkedin.com/jobs/view/client-conversion-specialist-premium-travel-experience-at-da-villas-4430223244": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-25",
-    "cyclesToday": 22,
+    "cyclesToday": 23,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
