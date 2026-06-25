@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/consultant-ii-senior-at-abs-group-4409948797": 1,
-    "https://www.linkedin.com/jobs/view/prisma-access-consultant-at-entelligence-4411748182": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-servicenow-itom-cmdb-m-w-d-at-teamative-4381454084": 1,
-    "https://www.linkedin.com/jobs/view/consultant-manager-ocm-consulting-at-epam-systems-4374812098": 1,
-    "https://www.linkedin.com/jobs/view/vendor-consultant-arabic-vendor-consultant-program-at-amazon-4418684743": 1,
-    "https://www.linkedin.com/jobs/view/ai-artificial-intelligence-native-builder-architect-at-confidential-4431602501": 1,
-    "https://www.linkedin.com/jobs/view/full-stack-growth-builder-at-fleek-at-jack-jill-4430338276": 1,
-    "https://www.linkedin.com/jobs/view/lead-user-growth-optimization-at-spotify-4371897797": 1,
-    "https://www.linkedin.com/jobs/view/growth-manager-at-bending-spoons-4430319693": 1,
-    "https://www.linkedin.com/jobs/view/senior-director-of-global-market-strategy-at-genesis-semiconductor-4430325692": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-modrn-4430342340": 1,
-    "https://www.linkedin.com/jobs/view/creative-marketing-manager-product-marketing-at-revolut-4371138363": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-le-m%c3%a9dia-vin-4431398452": 1,
     "https://www.linkedin.com/jobs/view/field-marketing-manager-at-ema-4399487190": 1,
     "https://www.linkedin.com/jobs/view/influencer-marketing-manager-at-ateneo-de-manila-university-4431357383": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-base-4429851290": 1,
     "https://www.linkedin.com/jobs/view/marketing-communications-v-at-creative-circle-4429853910": 1,
     "https://www.linkedin.com/jobs/view/virtual-assistant-at-somewhere-4431850294": 1,
-    "https://www.linkedin.com/jobs/view/executive-operations-assistant-at-entrepreneur-cooperative-4432150234": 1
+    "https://www.linkedin.com/jobs/view/executive-operations-assistant-at-entrepreneur-cooperative-4432150234": 1,
+    "https://www.linkedin.com/jobs/view/detective-consultant-fully-remote-upto-%241700-at-mercor-4432162436": 1,
+    "https://www.linkedin.com/jobs/view/expert-consultant-remote-at-hire-feed-4433022667": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-commercial-at-vizlab-ventures-4433039494": 1,
+    "https://www.linkedin.com/jobs/view/director-gtm-transformation-at-argano-4433052012": 1,
+    "https://www.linkedin.com/jobs/view/inside-sales-representative-at-digital-labs-sdn-bhd-4405961179": 1,
+    "https://www.linkedin.com/jobs/view/inside-sales-executive-at-mamily-4432172739": 1,
+    "https://www.linkedin.com/jobs/view/bdr-business-development-representative-at-torq-4432594432": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-enterprise-at-minio-4432568969": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-fbspl-4431884282": 1,
+    "https://www.linkedin.com/jobs/view/account-manager-at-digital-web-solutions-4432113591": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-saas-tech-at-huzzle-com-4432554188": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-enterprise-at-triple-whale-4424204645": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-25",
-    "cyclesToday": 4,
+    "cyclesToday": 5,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
