@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-manager-sd-at-entrepreneur-cooperative-4431799985": 1,
-    "https://www.linkedin.com/jobs/view/graduate-marketing-manager-at-revolut-4431252312": 1,
-    "https://www.linkedin.com/jobs/view/director-of-marketing-at-sangoma-4432220969": 1,
-    "https://www.linkedin.com/jobs/view/director-of-marketing-at-sangoma-4432218953": 1,
     "https://www.linkedin.com/jobs/view/virtual-assistant-work-from-home-at-hire-feed-4432246834": 1,
     "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4431248693": 1,
     "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4431249725": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/remote-program-support-associate-at-talentoma-4433287668": 1,
     "https://www.linkedin.com/jobs/view/asistente-virtual-administrativo-trabajo-remoto-o-hibrido-at-universia-m%c3%a9xico-4433275583": 1,
     "https://www.linkedin.com/jobs/view/enterprise-onboarding-coordinator-at-pearl-4434038101": 1,
-    "https://www.linkedin.com/jobs/view/operations-support-coordinator-us-healthcare-est-hours-remote-at-ista-solutions-4433864748": 1
+    "https://www.linkedin.com/jobs/view/operations-support-coordinator-us-healthcare-est-hours-remote-at-ista-solutions-4433864748": 1,
+    "https://www.linkedin.com/jobs/view/remote-chat-operator-czech-speaking-in-poland-at-keyence-corporation-4433287861": 1,
+    "https://www.linkedin.com/jobs/view/senior-performance-marketing-manager-paid-social-at-samsara-4422738143": 1,
+    "https://www.linkedin.com/jobs/view/head-of-marketing-operations-at-firstup-4433292375": 1,
+    "https://www.linkedin.com/jobs/view/remote-workforce-scheduling-coordinator-at-talentoma-4433295587": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-26",
-    "cyclesToday": 25,
+    "cyclesToday": 26,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
