@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-campaign-manager-at-jobgether-4432291399": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-%e2%80%93-lead-generation-client-acquisition-at-appiex-4431247928": 1,
-    "https://www.linkedin.com/jobs/view/meta-ads-social-media-manager-at-adaptive-teams-4430839725": 1,
-    "https://www.linkedin.com/jobs/view/seo-aeo-account-manager-at-get-visible-digital-marketing-agency-4432062351": 1,
-    "https://www.linkedin.com/jobs/view/social-media-content-manager-for-anime-jewelry-brand-at-kraymer-art-4431785879": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-%e2%80%93-remote-contract-at-twine-4418729916": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-analyst-at-valorx-4432011060": 1,
-    "https://www.linkedin.com/jobs/view/creative-marketing-manager-employer-brand-at-revolut-4431244519": 1,
-    "https://www.linkedin.com/jobs/view/influencer-marketing-manager-philippines-at-bm-digital-4432003409": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-sd-at-entrepreneur-cooperative-4431799985": 1,
     "https://www.linkedin.com/jobs/view/graduate-marketing-manager-at-revolut-4431252312": 1,
     "https://www.linkedin.com/jobs/view/director-of-marketing-at-sangoma-4432220969": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/cold-out-reach-specialists-cold-callers-at-keystone-medics-4430640229": 1,
     "https://www.linkedin.com/jobs/view/call-center-telemarketer-at-utility-concepts-business-solutions-ltd-ucbs-4434050094": 1,
     "https://www.linkedin.com/jobs/view/telemarketing-executive-at-agate-business-consulting-4414163084": 1,
-    "https://www.linkedin.com/jobs/view/junior-b2b-growth-specialist-email-%2b-linkedin-specialist-at-crewport-4430622702": 1
+    "https://www.linkedin.com/jobs/view/junior-b2b-growth-specialist-email-%2b-linkedin-specialist-at-crewport-4430622702": 1,
+    "https://www.linkedin.com/jobs/view/director-of-gtm-system-and-applied-ai-at-sprout-social-inc-4433402271": 1,
+    "https://www.linkedin.com/jobs/view/email-outreach-lead-management-assistant-at-fledgling-work-4430602931": 1,
+    "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4433268770": 1,
+    "https://www.linkedin.com/jobs/view/remote-project-assistant-at-talentoma-4433401396": 1,
+    "https://www.linkedin.com/jobs/view/customer-engagement-admin-outreach-temporary-at-blood-cancer-united-4423591053": 1,
+    "https://www.linkedin.com/jobs/view/remote-program-support-associate-at-talentoma-4433287668": 1,
+    "https://www.linkedin.com/jobs/view/asistente-virtual-administrativo-trabajo-remoto-o-hibrido-at-universia-m%c3%a9xico-4433275583": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-onboarding-coordinator-at-pearl-4434038101": 1,
+    "https://www.linkedin.com/jobs/view/operations-support-coordinator-us-healthcare-est-hours-remote-at-ista-solutions-4433864748": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-26",
-    "cyclesToday": 24,
+    "cyclesToday": 25,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
