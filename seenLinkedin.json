@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/process-engineer-at-cullerton-group-4432040183": 1,
-    "https://www.linkedin.com/jobs/view/principal-engineer-platform-india-at-juniper-square-4423874717": 1,
-    "https://www.linkedin.com/jobs/view/head-of-strategic-partnerships-at-halborn-4432426458": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-strange-face-4432426872": 1,
-    "https://www.linkedin.com/jobs/view/marketing-ops-manager-at-papaya-global-4432243983": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-team-lead-at-papaya-global-4418739905": 1,
-    "https://www.linkedin.com/jobs/view/manager-marketing-operations-at-northern-trust-4429460971": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-remote-growth-partners-4432428031": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-automation-specialist-at-fdb-first-databank-inc-4382183454": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-strategy-operations-manager-at-roller-4314617106": 1,
     "https://www.linkedin.com/jobs/view/paid-creative-ops-manager-at-whatnot-4430838835": 1,
     "https://www.linkedin.com/jobs/view/outbound-sales-us-market-at-abs-international-4429465936": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/account-executive-commercial-at-motus-4405258941": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-us-at-onehouse-4381852609": 1,
     "https://www.linkedin.com/jobs/view/lead-generation-specialist-ll-noida-at-ebizon-4434068710": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-at-contactloop-4432956592": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-at-contactloop-4432956592": 1,
+    "https://www.linkedin.com/jobs/view/product-builder-at-camunda-4430629374": 1,
+    "https://www.linkedin.com/jobs/view/head-of-gtm-at-codewall-4434071635": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-specialist-at-trimize-4434072874": 1,
+    "https://www.linkedin.com/jobs/view/appointment-setter-lead-generator-4433308956": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-ecommerce-at-stackadapt-4423570743": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-quantcast-4434061049": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-coreplan-4433854704": 1,
+    "https://www.linkedin.com/jobs/view/expression-of-interest-sales-development-representative-at-darktrace-4414691077": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-miami-at-fresha-4433866996": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-27",
-    "cyclesToday": 3,
+    "cyclesToday": 4,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
