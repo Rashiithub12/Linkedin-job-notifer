@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-lockedin-4431450392": 1,
-    "https://www.linkedin.com/jobs/view/senior-ingestion-engineer-at-jobgether-4430580286": 1,
-    "https://www.linkedin.com/jobs/view/connectivity-enginner-at-inspyr-solutions-4419502232": 1,
-    "https://www.linkedin.com/jobs/view/revenue-intelligence-engineer-at-greenhouse-software-4419218785": 1,
-    "https://www.linkedin.com/jobs/view/ingeniero-a-de-%c3%a1rea-proyectos-at-greendipity-sas-bic-4431235264": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-it-ot-at-agap2-italia-4428944660": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-maa-althahab-4432452570": 1,
-    "https://www.linkedin.com/jobs/view/%e2%80%abfacebook-campaign-manager-at-jobsseek-4417595648": 1,
-    "https://www.linkedin.com/jobs/view/marketing-coordinator-at-salt-4432289563": 1,
-    "https://www.linkedin.com/jobs/view/franchise-brand-marketing-manager-at-evive-brands-4431691896": 1,
     "https://www.linkedin.com/jobs/view/especialista-ge%c3%b3logo-relaves-jun%c3%adn-14x7-at-mainin-4431232811": 1,
     "https://www.linkedin.com/jobs/view/geo-technical-expert-mumbai-at-systra-brasil-4432270855": 1,
     "https://www.linkedin.com/jobs/view/erfaren-geotekniker-at-civilscon-4430833698": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/sales-manager-smb-outbound-sales-remote-at-yelp-4424948828": 1,
     "https://www.linkedin.com/jobs/view/sales-manager-smb-outbound-sales-remote-at-yelp-4424946800": 1,
     "https://www.linkedin.com/jobs/view/remote-data-entry-specialist-at-remotehunter-4433278937": 1,
-    "https://www.linkedin.com/jobs/view/sales-and-marketing-specialist-4433462248": 1
+    "https://www.linkedin.com/jobs/view/sales-and-marketing-specialist-4433462248": 1,
+    "https://www.linkedin.com/jobs/view/consultant-partner-director-at-evergreen-healthcare-partners-4433882396": 1,
+    "https://www.linkedin.com/jobs/view/chemistry-consultant-%2480-task-remote-at-crossing-hurdles-4422824455": 1,
+    "https://www.linkedin.com/jobs/view/meditech-report-writer-builder-at-quoris-4414589153": 1,
+    "https://www.linkedin.com/jobs/view/kotlin-engineer-at-sme-careers-4424714849": 1,
+    "https://www.linkedin.com/jobs/view/kotlin-engineer-at-sme-careers-4424719819": 1,
+    "https://www.linkedin.com/jobs/view/head-of-emea-at-zenity-4433282706": 1,
+    "https://www.linkedin.com/jobs/view/amazon-listings-campaign-manager-at-remoteva-4434205742": 1,
+    "https://www.linkedin.com/jobs/view/sales-representative-telemarketing-at-remoteva-4434204754": 1,
+    "https://www.linkedin.com/jobs/view/sales-closer-out-source-at-logix-contact-4431000120": 1,
+    "https://www.linkedin.com/jobs/view/inside-sales-manager-at-synapmed-4433470104": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-27",
-    "cyclesToday": 11,
+    "cyclesToday": 12,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
