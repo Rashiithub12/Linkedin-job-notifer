@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/construction-worker-at-victory-painting-4432477123": 1,
-    "https://www.linkedin.com/jobs/view/%23119771-mid-level-engineer-at-upwork-4429447628": 1,
-    "https://www.linkedin.com/jobs/view/4275-ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2-%e4%b8%bb%e4%bb%bb%ef%bc%8f%e6%8b%85%e5%bd%93%ef%bc%88%e9%9b%bb%e6%b3%a2%e3%82%bb%e3%83%b3%e3%82%b5%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0%ef%bc%89-ns-at-nec-corporation-4345627427": 1,
-    "https://www.linkedin.com/jobs/view/exchange-copilot-operations-support-engineer-at-cvs-health-4432481404": 1,
-    "https://www.linkedin.com/jobs/view/senior-software-development-engineer-in-test-sdet-ecommerce-dr-remote-at-truelogic-software-4432273661": 1,
-    "https://www.linkedin.com/jobs/view/comm-ops-data-engineer-shockwave-medical-at-shockwave-medical-4432098132": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-in-delhi-at-femly-4432484280": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-arrowster-4430894522": 1,
     "https://www.linkedin.com/jobs/view/regional-marketing-manager-at-aujan-coca-cola-beverages-company-accbc-4432228553": 1,
     "https://www.linkedin.com/jobs/view/sdr-sales-development-representative-at-jobgether-4432241613": 1,
     "https://www.linkedin.com/jobs/view/strategic-account-executive-enterprise-learning-remote-at-goldstone-partners-llc-4432254941": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/business-development-executive-at-kokan-ngo-india-4430695427": 1,
     "https://www.linkedin.com/jobs/view/ersea-outreach-ambassador-at-children-s-institute-4414945342": 1,
     "https://www.linkedin.com/jobs/view/remote-junior-sales-account-manager-at-ryan-miller-agency-4433265774": 1,
-    "https://www.linkedin.com/jobs/view/account-manager-at-innergy-4424715830": 1
+    "https://www.linkedin.com/jobs/view/account-manager-at-innergy-4424715830": 1,
+    "https://www.linkedin.com/jobs/view/lease-operator-at-crescent-energy-4414716080": 1,
+    "https://www.linkedin.com/jobs/view/senior-sales-director-agi-genai-builders-at-telus-digital-4392474986": 1,
+    "https://www.linkedin.com/jobs/view/head-of-technology-transformation-full-stack-builder-at-workleap-4397140528": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-scribe-4396030658": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-phifer-company-4434233493": 1,
+    "https://www.linkedin.com/jobs/view/sales-executive-new-business-hunter-emea-at-accuris-4411546844": 1,
+    "https://www.linkedin.com/jobs/view/acquisition-specialist-4430542656": 1,
+    "https://www.linkedin.com/jobs/view/account-manager-at-mitratech-4430612935": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-27",
-    "cyclesToday": 18,
+    "cyclesToday": 19,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
