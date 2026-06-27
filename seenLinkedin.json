@@ -1,20 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/especialista-ge%c3%b3logo-relaves-jun%c3%adn-14x7-at-mainin-4431232811": 1,
-    "https://www.linkedin.com/jobs/view/geo-technical-expert-mumbai-at-systra-brasil-4432270855": 1,
-    "https://www.linkedin.com/jobs/view/erfaren-geotekniker-at-civilscon-4430833698": 1,
-    "https://www.linkedin.com/jobs/view/geotechnical-specialist-at-systra-brasil-4432272944": 1,
-    "https://www.linkedin.com/jobs/view/maden-jeolo%c4%9fu-sondaj-operasyonlari-at-eczac%c4%b1ba%c5%9f%c4%b1-toplulu%c4%9fu-4431257439": 1,
-    "https://www.linkedin.com/jobs/view/senior-to-principal-geotechnical-engineer-ing%c3%a9nieur-e-g%c3%a9otechnique-%e2%80%93-niveau-s%c3%a9nior-%c3%a0-principal-e-at-srk-consulting-4432451186": 1,
-    "https://www.linkedin.com/jobs/view/geologist-well-site-operations-cbm-82798664-at-reliance-industries-limited-4431273904": 1,
-    "https://www.linkedin.com/jobs/view/staff-geologist-scientist-ii-at-roux-4429482375": 1,
-    "https://www.linkedin.com/jobs/view/geowissenschaftler-dipl-geologe-m-sc-geologie-und-hydrogeologie-at-das-baugrund-institut-%c2%b7-dipl-ing-knierim-gmbh-4429458504": 1,
-    "https://www.linkedin.com/jobs/view/senior-manager-demand-generation-and-abm-at-hubsync-4432487025": 1,
-    "https://www.linkedin.com/jobs/view/senior-gtm-systems-automation-engineer-at-cobalt-4430842700": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-lattice-4423268517": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-pogo-4430846651": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-tempo-software-4412946245": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-sales-workflow-automation-revenue-intelligence-at-toast-4422163314": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-hivemq-4410649149": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-tam-whitespace-prioritized-prospecting-at-toast-4421876437": 1,
     "https://www.linkedin.com/jobs/view/hot-metal-forging-engineer-at-premier-staffing-solution-4432454009": 1,
@@ -1999,7 +1984,22 @@
     "https://www.linkedin.com/jobs/view/amazon-listings-campaign-manager-at-remoteva-4434205742": 1,
     "https://www.linkedin.com/jobs/view/sales-representative-telemarketing-at-remoteva-4434204754": 1,
     "https://www.linkedin.com/jobs/view/sales-closer-out-source-at-logix-contact-4431000120": 1,
-    "https://www.linkedin.com/jobs/view/inside-sales-manager-at-synapmed-4433470104": 1
+    "https://www.linkedin.com/jobs/view/inside-sales-manager-at-synapmed-4433470104": 1,
+    "https://www.linkedin.com/jobs/view/laboratory-coordinator-at-terracon-4434204667": 1,
+    "https://www.linkedin.com/jobs/view/quality-control-technician-at-crh-4434058096": 1,
+    "https://www.linkedin.com/jobs/view/r-engineer-at-sme-careers-4424903619": 1,
+    "https://www.linkedin.com/jobs/view/rust-engineer-at-sme-careers-4424797715": 1,
+    "https://www.linkedin.com/jobs/view/rust-engineer-at-sme-careers-4424786749": 1,
+    "https://www.linkedin.com/jobs/view/senior-engineer-ai-enabled-at-iitmatrix-4433854057": 1,
+    "https://www.linkedin.com/jobs/view/r-engineer-at-sme-careers-4424902637": 1,
+    "https://www.linkedin.com/jobs/view/kotlin-engineer-at-sme-careers-4424720801": 1,
+    "https://www.linkedin.com/jobs/view/engenheiro-mobile-android-s%c3%aanior-at-deliver-it-servi%c3%a7os-de-tecnologia-4430642408": 1,
+    "https://www.linkedin.com/jobs/view/dual-fuel-smart-meter-engineer-at-sureserve-4433283357": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-vcb-info-tech-4433452934": 1,
+    "https://www.linkedin.com/jobs/view/analista-de-pr%c3%a9-vendas-j%c3%banior-remoto-at-aurum-software-4431000227": 1,
+    "https://www.linkedin.com/jobs/view/d2c-acquisition-specialist-at-roomadda-4430684467": 1,
+    "https://www.linkedin.com/jobs/view/founder-s-office-growth-business-at-panscience-innovations-psi-4433441809": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-vedricx-global-4430689104": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-27",
-    "cyclesToday": 12,
+    "cyclesToday": 13,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
