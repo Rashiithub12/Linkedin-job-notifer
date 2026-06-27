@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/lab-technician-no-housing-provided-at-american-cementing-llc-4432477110": 1,
-    "https://www.linkedin.com/jobs/view/storage-tech-mont-belvieu-storage-at-energy-transfer-4429472777": 1,
-    "https://www.linkedin.com/jobs/view/crude-terminal-operations-technician-at-targa-resources-4423254942": 1,
-    "https://www.linkedin.com/jobs/view/area-sales-manager-at-geobear-global-4320068674": 1,
-    "https://www.linkedin.com/jobs/view/field-technician-i-at-ues-4413725188": 1,
     "https://www.linkedin.com/jobs/view/field-technician-i-at-ues-4413718986": 1,
     "https://www.linkedin.com/jobs/view/materials-engineering-technician-ii-at-terracon-4432563528": 1,
     "https://www.linkedin.com/jobs/view/staff-engineer-at-terracon-4432546841": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/sales-director-at-chegg-inc-4414760027": 1,
     "https://www.linkedin.com/jobs/view/revenue-operations-manager-sales-marketing-at-openloop-4424624539": 1,
     "https://www.linkedin.com/jobs/view/director-business-development-and-partnerships-at-hazelcast-4330742815": 1,
-    "https://www.linkedin.com/jobs/view/outbound-sales-development-representative-home-services-industry-at-pavago-4433292662": 1
+    "https://www.linkedin.com/jobs/view/outbound-sales-development-representative-home-services-industry-at-pavago-4433292662": 1,
+    "https://www.linkedin.com/jobs/view/remote-chat-operator-czech-speaking-in-poland-at-keyence-corporation-4433478742": 1,
+    "https://www.linkedin.com/jobs/view/outcome-customer-engineer-ii-gcp-google-cloud-at-google-4424565872": 1,
+    "https://www.linkedin.com/jobs/view/solution-engineer-pre-sales-all-levels-at-salesforce-4336811509": 1,
+    "https://www.linkedin.com/jobs/view/head-of-revenue-operations-at-bigid-4424599906": 1,
+    "https://www.linkedin.com/jobs/view/new-business-development-specialist-etobicoke-on-at-grouphealth-benefit-solutions-4414912035": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-27",
-    "cyclesToday": 33,
+    "cyclesToday": 34,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
