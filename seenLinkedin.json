@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/field-technician-i-at-ues-4413718986": 1,
-    "https://www.linkedin.com/jobs/view/materials-engineering-technician-ii-at-terracon-4432563528": 1,
-    "https://www.linkedin.com/jobs/view/staff-engineer-at-terracon-4432546841": 1,
-    "https://www.linkedin.com/jobs/view/executive-at-special-ceramics-pvt-ltd-4431495292": 1,
-    "https://www.linkedin.com/jobs/view/staff-engineer-at-geostructures-inc-4431822112": 1,
     "https://www.linkedin.com/jobs/view/mineralogist-at-sibelco-group-4424004040": 1,
     "https://www.linkedin.com/jobs/view/ai-builder-at-ntt-data-business-solutions-4431256169": 1,
     "https://www.linkedin.com/jobs/view/ai-solutions-builder-at-smartcat-4419321168": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/outcome-customer-engineer-ii-gcp-google-cloud-at-google-4424565872": 1,
     "https://www.linkedin.com/jobs/view/solution-engineer-pre-sales-all-levels-at-salesforce-4336811509": 1,
     "https://www.linkedin.com/jobs/view/head-of-revenue-operations-at-bigid-4424599906": 1,
-    "https://www.linkedin.com/jobs/view/new-business-development-specialist-etobicoke-on-at-grouphealth-benefit-solutions-4414912035": 1
+    "https://www.linkedin.com/jobs/view/new-business-development-specialist-etobicoke-on-at-grouphealth-benefit-solutions-4414912035": 1,
+    "https://www.linkedin.com/jobs/view/research-scientist-at-james-hardie-4405894207": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-engineer-at-harmonic-security-inc-at-jack-jill-4433469829": 1,
+    "https://www.linkedin.com/jobs/view/marketing-technology-manager-at-classpass-4403252417": 1,
+    "https://www.linkedin.com/jobs/view/ai-automation-specialist-at-correre-naturale-4430685174": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-s%c3%aanior-abm-ia-rd-station-remoto-at-rd-station-4433291267": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-27",
-    "cyclesToday": 34,
+    "cyclesToday": 35,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
