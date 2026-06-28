@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/outreach-and-engagement-specialist-i-at-gateway-foundation-4431866413": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-maxwell-bond-4429868535": 1,
-    "https://www.linkedin.com/jobs/view/senior-consultant-at-awign-4433062960": 1,
     "https://www.linkedin.com/jobs/view/engineer-builder-enablement-at-remotehunter-4431892879": 1,
     "https://www.linkedin.com/jobs/view/solutions-engineer-at-syntasso-4433039995": 1,
     "https://www.linkedin.com/jobs/view/gtm-enablement-engineer-at-toast-4422647337": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/upwork-bidder-at-daniyal-furqan-4431054432": 1,
     "https://www.linkedin.com/jobs/view/remote-inside-sales-representative-at-liberty-mutual-insurance-4434256255": 1,
     "https://www.linkedin.com/jobs/view/remote-business-development-representative-at-val-s-services-4434249667": 1,
-    "https://www.linkedin.com/jobs/view/technical-business-development-representative-data-center-cooling-at-nvent-4406619502": 1
+    "https://www.linkedin.com/jobs/view/technical-business-development-representative-data-center-cooling-at-nvent-4406619502": 1,
+    "https://www.linkedin.com/jobs/view/senior-vice-president-of-marketing-operations-at-blockchain-capital-digital-ny-4431045562": 1,
+    "https://www.linkedin.com/jobs/view/event-operations-coordinator-philippines-remote-at-growthassistant-4434295890": 1,
+    "https://www.linkedin.com/jobs/view/esl-instructor-ai-trainer-at-dataannotation-4304452100": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-28",
-    "cyclesToday": 28,
+    "cyclesToday": 29,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
