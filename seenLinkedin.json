@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-campaign-manager-malaysia-at-amplify-4433551863": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-sundayy-4433303088": 1,
-    "https://www.linkedin.com/jobs/view/marketing-communications-manager-at-geneo-4433537629": 1,
-    "https://www.linkedin.com/jobs/view/marketing-content-manager-at-talent-groups-4433371709": 1,
-    "https://www.linkedin.com/jobs/view/influencer-marketing-manager-at-creative-circle-4420179750": 1,
-    "https://www.linkedin.com/jobs/view/influencer-marketing-manager-at-remote-growth-partners-4431691936": 1,
-    "https://www.linkedin.com/jobs/view/paid-media-strategist-ppc-seo-client-success-at-localiq-4433365410": 1,
     "https://www.linkedin.com/jobs/view/marketing-ops-et-automation-lead-f-h-at-horoquartz-4433519307": 1,
     "https://www.linkedin.com/jobs/view/marketing-ops-et-automation-lead-f-h-at-horoquartz-4433503735": 1,
     "https://www.linkedin.com/jobs/view/campaign-operations-specialist-salesforce-marketing-cloud-pharma-at-conceptfarma-sl-4433329682": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/social-media-manager-at-rotaract-nova-friburgo-4434148680": 1,
     "https://www.linkedin.com/jobs/view/operational-specialist-at-synergis-4434155203": 1,
     "https://www.linkedin.com/jobs/view/b2b-advertising-sales-and-account-manager-at-autism-parenting-magazine-4434498558": 1,
-    "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4434156420": 1
+    "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4434156420": 1,
+    "https://www.linkedin.com/jobs/view/partner-success-consultant-commerce-at-hopper-4434155853": 1,
+    "https://www.linkedin.com/jobs/view/partner-success-consultant-commerce-at-hopper-4434152846": 1,
+    "https://www.linkedin.com/jobs/view/site-selection-lead-west-coast-at-trademark-4434150836": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-at-soft-source-inc-4431532362": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-turing-4434754626": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-turing-4434764141": 1,
+    "https://www.linkedin.com/jobs/view/senior-account-manager-at-medallion-4434159637": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-29",
-    "cyclesToday": 16,
+    "cyclesToday": 17,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
