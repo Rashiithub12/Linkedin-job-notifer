@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-assistant-fully-remote-at-onlinejobs-ph-4433575944": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-huzzle-com-4433821491": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-executive-at-riod-4432950519": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-executive-at-biotecnika-4432948276": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-overjoy-4432652290": 1,
-    "https://www.linkedin.com/jobs/view/s46-remote-pilot-operator-at-saic-4433808615": 1,
-    "https://www.linkedin.com/jobs/view/expert-consultant-remote-at-hire-feed-4433574832": 1,
     "https://www.linkedin.com/jobs/view/senior-technical-support-engineer-at-langchain-4392470947": 1,
     "https://www.linkedin.com/jobs/view/field-technician-i-at-ues-4423565400": 1,
     "https://www.linkedin.com/jobs/view/field-technician-i-at-ues-4423564471": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-world-marketing-4434158456": 1,
     "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-vision-infinity-4431537358": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-health-and-virtuals-4434147894": 1,
-    "https://www.linkedin.com/jobs/view/administrative-and-social-media-virtual-assistant-au-dayshift-wfh-philippines-law-firm-at-getmycourse-4429236562": 1
+    "https://www.linkedin.com/jobs/view/administrative-and-social-media-virtual-assistant-au-dayshift-wfh-philippines-law-firm-at-getmycourse-4429236562": 1,
+    "https://www.linkedin.com/jobs/view/founding-gtm-engineer-%24180k-%24230k-ote-%2b-equity-at-the-hog-at-jack-jill-4434160107": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-solutions-engineer-service-management-at-asana-4431527582": 1,
+    "https://www.linkedin.com/jobs/view/demand-generation-manager-at-rithum-4434737368": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-turing-4434744978": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-turing-4434758463": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-turing-4434752710": 1,
+    "https://www.linkedin.com/jobs/view/inbound-sales-agent-dme-19762-at-somewhere-4434732661": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-29",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
