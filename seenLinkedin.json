@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-the-cormier-group-4433204664": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-pursuit-4433890041": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-partsbase-inc-4430290628": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-tebra-4405264479": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-ii-local-independent-grocery-at-instacart-4433539954": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-beep-easy-carpool-4433240125": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-emea-at-bitwarden-4402477923": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-us-perfectscale-select-at-doit-4382527035": 1,
-    "https://www.linkedin.com/jobs/view/field-operator-ii-artificial-lift-at-weatherford-4434043469": 1,
-    "https://www.linkedin.com/jobs/view/quality-control-technician-at-crh-4434054206": 1,
     "https://www.linkedin.com/jobs/view/construction-worker-i-at-the-university-of-georgia-4433835621": 1,
     "https://www.linkedin.com/jobs/view/sr-iam-sailpoint-engineer-4433297385": 1,
     "https://www.linkedin.com/jobs/view/iac-engineer-at-toyota-tsusho-systems-us-inc-4434030878": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/cold-calling-lead-generation-specialist-at-pulse-sparkle-pvt-ltd-4431953976": 1,
     "https://www.linkedin.com/jobs/view/virtual-assistant-behavioral-health-administration-at-onlinejobs-ph-4434339283": 1,
     "https://www.linkedin.com/jobs/view/healthcare-provider-onboarding-specialist-at-techloom-global-4434338725": 1,
-    "https://www.linkedin.com/jobs/view/sales-executive-at-kazma-hardware-pvt-ltd-4422517489": 1
+    "https://www.linkedin.com/jobs/view/sales-executive-at-kazma-hardware-pvt-ltd-4422517489": 1,
+    "https://www.linkedin.com/jobs/view/hot-works-operator-3rd-shift-at-weir-minerals-4431979000": 1,
+    "https://www.linkedin.com/jobs/view/dinnerware-raw-materials-generalist-at-heath-ceramics-4435195796": 1,
+    "https://www.linkedin.com/jobs/view/user-growth-manager-tiktok-live-london-at-tiktok-4434337901": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-lead-at-peec-ai-4434356060": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-senior-analyst-at-nasdaq-4434946046": 1,
+    "https://www.linkedin.com/jobs/view/telemarketing-executive-at-drl-marketing-management-4434359187": 1,
+    "https://www.linkedin.com/jobs/view/virtual-assistant-remote-at-torentify-4435191545": 1,
+    "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4434336971": 1,
+    "https://www.linkedin.com/jobs/view/founder-s-office-at-tru-commerce-4434327209": 1,
+    "https://www.linkedin.com/jobs/view/healthcare-provider-onboarding-specialist-at-techloom-global-4434350494": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-06-30",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
