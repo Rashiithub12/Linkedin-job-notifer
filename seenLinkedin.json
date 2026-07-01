@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/demand-generation-rep-at-amazon-web-services-aws-4433886922": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-quantios-4433882739": 1,
-    "https://www.linkedin.com/jobs/view/%f0%9f%9a%80-we-re-hiring-sales-executive-at-dailymails-4433468350": 1,
-    "https://www.linkedin.com/jobs/view/sales-executive-healthcare-services-4430619000": 1,
-    "https://www.linkedin.com/jobs/view/telecaller-at-eve-4431002182": 1,
-    "https://www.linkedin.com/jobs/view/outbound-sales-rep-cold-caller-work-from-home-at-bel-usa-llc-4423561880": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-remote-at-imply-4405692775": 1,
-    "https://www.linkedin.com/jobs/view/expansion-sdr-xdr-at-connecteam-4405209174": 1,
-    "https://www.linkedin.com/jobs/view/nocolok-utility-operator-f-m-x-at-solvay-4433464469": 1,
     "https://www.linkedin.com/jobs/view/quality-control-technician-at-hire-feed-4434215940": 1,
     "https://www.linkedin.com/jobs/view/sr-outbound-advisorchoice-consultant-at-raymond-james-4421195326": 1,
     "https://www.linkedin.com/jobs/view/sr-outbound-advisorchoice-consultant-at-raymond-james-4421179426": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/%e6%8a%80%e6%9c%af%e7%a0%94%e5%8f%91%e6%80%bb%e7%9b%91-at-%e6%b1%9f%e8%8b%8f%e6%96%b0%e5%98%89%e7%90%86%e7%94%9f%e6%80%81%e7%8e%af%e5%a2%83%e6%9d%90%e6%96%99%e8%82%a1%e4%bb%bd%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8-4432319057": 1,
     "https://www.linkedin.com/jobs/view/%e6%b5%b7%e5%a4%96%e5%94%ae%e5%90%8e%e5%b7%a5%e7%a8%8b%e5%b8%88-at-anhui-wanyi-science-and-techonology-co-ltd-4432303484": 1,
     "https://www.linkedin.com/jobs/view/sales-specialist-at-growedgex-4434396761": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-propstar-technologies-4431978801": 1
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-propstar-technologies-4431978801": 1,
+    "https://www.linkedin.com/jobs/view/senior-gtm-operations-engineer-at-hackerone-4425548038": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-lead-at-heygen-4435379670": 1,
+    "https://www.linkedin.com/jobs/view/executive-performance-marketing-at-and-academy-4432309869": 1,
+    "https://www.linkedin.com/jobs/view/cold-outreach-lead-email-linkedin-at-growth-cx-4435386815": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-associates-at-sg-services-group-4434396721": 1,
+    "https://www.linkedin.com/jobs/view/hn-marketing-specialist-it-outsourcing-email-mkt-at-kaopiz-4435502126": 1,
+    "https://www.linkedin.com/jobs/view/outbound-caller-%e2%80%94-appointment-setter-at-bath-concepts-independent-dealers-4435360791": 1,
+    "https://www.linkedin.com/jobs/view/account-development-representative-at-beanfield-4432304770": 1,
+    "https://www.linkedin.com/jobs/view/outreach-specialist-at-pursuit-4431940598": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-07-01",
-    "cyclesToday": 4,
+    "cyclesToday": 5,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
