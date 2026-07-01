@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/b2b-sales-lead-generation-specialist-commission-%2b-per-qualified-lead-at-letusgrow-4433459987": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-north-america-new-logo-at-cyara-4416799282": 1,
-    "https://www.linkedin.com/jobs/view/founding-sales-development-representative-at-redcar-4433454328": 1,
-    "https://www.linkedin.com/jobs/view/graduate-sdr-remote-at-canonical-4424781436": 1,
-    "https://www.linkedin.com/jobs/view/consultant-ir-at-palo-alto-networks-4356172670": 1,
-    "https://www.linkedin.com/jobs/view/inventory-replenishment-consultant-at-mogi-i-o-ott-podcast-short-video-apps-for-you-4434095692": 1,
-    "https://www.linkedin.com/jobs/view/social-media-manager-at-remoteva-4434098998": 1,
     "https://www.linkedin.com/jobs/view/crm-specialist-at-rohlik-group-4404355133": 1,
     "https://www.linkedin.com/jobs/view/sales-development-nordics-at-elevenlabs-4395315074": 1,
     "https://www.linkedin.com/jobs/view/real-estate-virtual-assistant-at-remoteva-4434097992": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-boiron-usa-4436104570": 1,
     "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4434681150": 1,
     "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4434674474": 1,
-    "https://www.linkedin.com/jobs/view/field-coordinator-%e2%80%93-school-workshops-at-need-of-change-foundation-4432707422": 1
+    "https://www.linkedin.com/jobs/view/field-coordinator-%e2%80%93-school-workshops-at-need-of-change-foundation-4432707422": 1,
+    "https://www.linkedin.com/jobs/view/terminal-operator-at-oneok-4435891900": 1,
+    "https://www.linkedin.com/jobs/view/sr-revenue-enablement-manager-at-jobgether-4432319822": 1,
+    "https://www.linkedin.com/jobs/view/head-of-bd-%c2%a0strategic-partnerships-at-halborn-4435534057": 1,
+    "https://www.linkedin.com/jobs/view/growth-campaign-manager-cis-at-binance-4434691222": 1,
+    "https://www.linkedin.com/jobs/view/growth-campaign-manager-cis-at-binance-4434679807": 1,
+    "https://www.linkedin.com/jobs/view/director-of-demand-generation-at-jobgether-4432335455": 1,
+    "https://www.linkedin.com/jobs/view/webinar-coordinator-at-american-college-of-medical-toxicology-4434680471": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-07-01",
-    "cyclesToday": 21,
+    "cyclesToday": 22,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
