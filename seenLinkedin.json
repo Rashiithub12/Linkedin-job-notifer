@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/construction-materials-testing-cmt-staff-professional-at-s-me-4440045291": 1,
-    "https://www.linkedin.com/jobs/view/engineering-technician-at-schnabel-engineering-4363185480": 1,
-    "https://www.linkedin.com/jobs/view/construction-materials-engineering-technicians-at-s-me-4411393583": 1,
-    "https://www.linkedin.com/jobs/view/staff-engineer-inspector-at-clark-davis-associates-4440062196": 1,
-    "https://www.linkedin.com/jobs/view/senior-technical-support-engineer-at-langchain-4371228858": 1,
-    "https://www.linkedin.com/jobs/view/laborer-at-brasfield-gorrie-llc-4371371041": 1,
-    "https://www.linkedin.com/jobs/view/laborer-at-brasfield-gorrie-llc-4390978740": 1,
-    "https://www.linkedin.com/jobs/view/laborer-at-brasfield-gorrie-llc-4362079240": 1,
-    "https://www.linkedin.com/jobs/view/laborer-at-brasfield-gorrie-llc-4439406591": 1,
-    "https://www.linkedin.com/jobs/view/foreman-in-training-at-cantey-foundation-specialists-4437601166": 1,
-    "https://www.linkedin.com/jobs/view/founding-gtm-engineer-at-levanta-labs-4440052090": 1,
-    "https://www.linkedin.com/jobs/view/founding-gtm-engineer-%24180k-%24230k-ote-%2b-equity-at-the-hog-at-jack-jill-4439404570": 1,
-    "https://www.linkedin.com/jobs/view/enterprise-solutions-engineer-uk-at-postman-4337155233": 1,
     "https://www.linkedin.com/jobs/view/technical-marketing-engineer-at-mistral-4440037592": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-ccl-global-4440030624": 1,
     "https://www.linkedin.com/jobs/view/process-mechanical-engineer-at-jedson-engineering-4323573155": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/entry-level-administrative-assistant-remote-at-recruiterlyix-4442128380": 1,
     "https://www.linkedin.com/jobs/view/operations-associate-at-scaling-com-4441332144": 1,
     "https://www.linkedin.com/jobs/view/senior-account-manager-at-bluetuskr-4442132051": 1,
-    "https://www.linkedin.com/jobs/view/senior-account-manager-at-bluetuskr-4442121453": 1
+    "https://www.linkedin.com/jobs/view/senior-account-manager-at-bluetuskr-4442121453": 1,
+    "https://www.linkedin.com/jobs/view/vp-revenue-operations-at-safe-software-4441163294": 1,
+    "https://www.linkedin.com/jobs/view/material-process-inspector-i-or-ii-at-texas-department-of-transportation-4442152885": 1,
+    "https://www.linkedin.com/jobs/view/concrete-lab-technician-at-ues-4442168227": 1,
+    "https://www.linkedin.com/jobs/view/construction-technician-entry-level-at-ecs-group-of-companies-4441972755": 1,
+    "https://www.linkedin.com/jobs/view/quality-manager-at-ash-grove-cement-company-4439253910": 1,
+    "https://www.linkedin.com/jobs/view/research-engineer-ii-4369-at-harbisonwalker-international-4439267495": 1,
+    "https://www.linkedin.com/jobs/view/construction-materials-testing-cmt-laboratory-supervisor-at-s-me-4442176009": 1,
+    "https://www.linkedin.com/jobs/view/revenue-systems-administrator-at-sezzle-4442164582": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-starbridge-4442154943": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-seo-executive-remote-%e2%80%93-bangladesh-at-marketist-lab-4439240977": 1,
+    "https://www.linkedin.com/jobs/view/sales-specialist-4441354384": 1,
+    "https://www.linkedin.com/jobs/view/cold-outreach-specialist-linkedin-focus-at-lime-software-logics-4439278114": 1,
+    "https://www.linkedin.com/jobs/view/sales-executive-headquarters-at-dropdash-4439261510": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-07-17",
-    "cyclesToday": 12,
+    "cyclesToday": 13,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
