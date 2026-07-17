@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/heavy-equipment-operator-at-kinder-morgan-inc-4440053003": 1,
-    "https://www.linkedin.com/jobs/view/conveyor-operator-at-veolia-north-america-4440079482": 1,
-    "https://www.linkedin.com/jobs/view/assistant-driller-at-expand-energy-4338098131": 1,
-    "https://www.linkedin.com/jobs/view/chemical-operator-direct-air-capture-stratos-at-oxy-4440091197": 1,
     "https://www.linkedin.com/jobs/view/senior-consultant-unternehmensentwicklung-remote-at-stolzberger-gmbh-4440052702": 1,
     "https://www.linkedin.com/jobs/view/servicetitan-consultant-and-coach-at-tradeweave-inc-4439404519": 1,
     "https://www.linkedin.com/jobs/view/consulente-cibo-cane-e-gatto-at-ethical-petfoods-4437279279": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/virtual-assistant-at-peachtree-va-4441672912": 1,
     "https://www.linkedin.com/jobs/view/virtual-assistant-at-peachtree-va-4233694305": 1,
     "https://www.linkedin.com/jobs/view/senior-account-manager-at-bluetuskr-4442116759": 1,
-    "https://www.linkedin.com/jobs/view/senior-account-manager-at-bluetuskr-4442132054": 1
+    "https://www.linkedin.com/jobs/view/senior-account-manager-at-bluetuskr-4442132054": 1,
+    "https://www.linkedin.com/jobs/view/manager-quarry-raw-materials-at-glen-gery-4439275614": 1,
+    "https://www.linkedin.com/jobs/view/director-of-sales-operations-at-roo-4442187146": 1,
+    "https://www.linkedin.com/jobs/view/appointment-setter-remote-%2b-full-time-at-convertros-4441337664": 1,
+    "https://www.linkedin.com/jobs/view/outreach-specialist-at-artistic-individuals-4439274526": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-07-17",
-    "cyclesToday": 15,
+    "cyclesToday": 16,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
