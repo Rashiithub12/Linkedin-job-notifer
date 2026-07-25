@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-m-c-mehta-centre-for-education-and-research-4440427845": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-akaame-export-private-limited-4440472370": 1,
-    "https://www.linkedin.com/jobs/view/cvm-sr-specialist-at-vodafone-4440451644": 1,
-    "https://www.linkedin.com/jobs/view/liveops-campaign-manager-at-betty-4442654147": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-base-4440456213": 1,
-    "https://www.linkedin.com/jobs/view/senior-growth-performance-marketer-at-gebhaly-4443350738": 1,
     "https://www.linkedin.com/jobs/view/associate-manager-brand-marketing-at-the-honey-pot-company-4440469392": 1,
     "https://www.linkedin.com/jobs/view/growth-stratops-associate-at-turing-4442624395": 1,
     "https://www.linkedin.com/jobs/view/senior-director-member-growth-and-engagement-at-pomelo-care-4434331589": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/virtual-assistant-at-careerscape-4440408978": 1,
     "https://www.linkedin.com/jobs/view/director-of-customer-success-seo-geo-at-pepper-4442313528": 1,
     "https://www.linkedin.com/jobs/view/project-outreach-coordinator-onr-at-remotehunter-4444811053": 1,
-    "https://www.linkedin.com/jobs/view/senior-account-manager-at-rowan-digital-infrastructure-4444684226": 1
+    "https://www.linkedin.com/jobs/view/senior-account-manager-at-rowan-digital-infrastructure-4444684226": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-at-diginovass-4444647910": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-strategist-at-zafify-4442300196": 1,
+    "https://www.linkedin.com/jobs/view/senior-digital-marketing-manager-at-manscaped-4427660126": 1,
+    "https://www.linkedin.com/jobs/view/assistant-marketing-manager-at-flexiple-4445343418": 1,
+    "https://www.linkedin.com/jobs/view/social-media-manager-latam-at-emma-of-torre-ai-4442319073": 1,
+    "https://www.linkedin.com/jobs/view/senior-lifecycle-strategist-at-openai-4444610761": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-07-25",
-    "cyclesToday": 14,
+    "cyclesToday": 15,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
