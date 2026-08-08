@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/ai-product-builder-at-phaze-ai-4445865852": 1,
-    "https://www.linkedin.com/jobs/view/ai-systems-builder-founding-partner-m-f-x-at-oryn-group-4445884339": 1,
-    "https://www.linkedin.com/jobs/view/full-stack-builder-team-of-one-at-highlevel-4380254435": 1,
     "https://www.linkedin.com/jobs/view/ai-automation-engineer-operations-builder-at-easypeasyfluent-4448164000": 1,
     "https://www.linkedin.com/jobs/view/ai-systems-engineer-forward-deployed-builder-at-ai-acquisition-4428901891": 1,
     "https://www.linkedin.com/jobs/view/solutions-engineer-at-reducto-4339044744": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-confidential-jobs-4450788240": 1,
     "https://www.linkedin.com/jobs/view/telesales-executive-4450718239": 1,
     "https://www.linkedin.com/jobs/view/manager-sales-india-at-tata-communications-4450369850": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-at-richpanel-4450738401": 1
+    "https://www.linkedin.com/jobs/view/account-executive-at-richpanel-4450738401": 1,
+    "https://www.linkedin.com/jobs/view/project-engineer-at-braun-intertec-corporation-4372611921": 1,
+    "https://www.linkedin.com/jobs/view/deep-foundations-superintendent-at-kiewit-4440782381": 1,
+    "https://www.linkedin.com/jobs/view/sdr-us-market-at-bpo-impact-4448794814": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-08-08",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
