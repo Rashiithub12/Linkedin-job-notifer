@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/founding-engineer-%2480k-%24150k-at-cloro-at-jack-jill-4447677393": 1,
-    "https://www.linkedin.com/jobs/view/founding-engineer-%24160k-%24200k-%2b-equity-at-transvoix-at-jack-jill-4447690065": 1,
-    "https://www.linkedin.com/jobs/view/senior-engineer-at-work-consulting-4447677499": 1,
-    "https://www.linkedin.com/jobs/view/revenue-operations-analyst-marketing-operations-at-kami-4441111138": 1,
-    "https://www.linkedin.com/jobs/view/director-of-revenue-operations-at-pax-recruiting-4447676471": 1,
-    "https://www.linkedin.com/jobs/view/revenue-operations-gtm-engineer-at-avepoint-4402319224": 1,
-    "https://www.linkedin.com/jobs/view/director-gtm-tech-and-automation-at-ivo-4401139229": 1,
-    "https://www.linkedin.com/jobs/view/expert-opportunity-gtm-manager-%24100-hr-up-to-%242-000-week-at-ethos-4439595821": 1,
     "https://www.linkedin.com/jobs/view/expert-opportunity-gtm-manager-%24100-hr-up-to-%242-000-week-at-ethos-4439599816": 1,
     "https://www.linkedin.com/jobs/view/expert-opportunity-gtm-manager-%24100-hr-up-to-%242-000-week-at-ethos-4439708386": 1,
     "https://www.linkedin.com/jobs/view/expert-opportunity-gtm-manager-%24100-hr-up-to-%242-000-week-at-ethos-4439595841": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/business-development-executive-at-manufacto-india-pvt-ltd-4450578842": 1,
     "https://www.linkedin.com/jobs/view/growth-associate-freshers-at-eduabroad-4450591023": 1,
     "https://www.linkedin.com/jobs/view/business-development-specialist-at-gremadius-4450571952": 1,
-    "https://www.linkedin.com/jobs/view/business-development-digital-marketing-at-qugates-technologies-4450577676": 1
+    "https://www.linkedin.com/jobs/view/business-development-digital-marketing-at-qugates-technologies-4450577676": 1,
+    "https://www.linkedin.com/jobs/view/performance-ads-specialist-at-hok-beauty-private-limited-4450587153": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-brandelite-in-4450324113": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-hr-egypt-network-hren-4451065019": 1,
+    "https://www.linkedin.com/jobs/view/ai-first-performance-marketing-manager-at-gymnation-4450562642": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-executive-upto-20k-graduated-at-mg-4450303763": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-uk-at-leena-ai-4450577653": 1,
+    "https://www.linkedin.com/jobs/view/growth-and-distribution-hacker-4450592251": 1,
+    "https://www.linkedin.com/jobs/view/outreach-case-manager-at-the-university-of-arizona-college-of-nursing-4448775457": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-08-08",
-    "cyclesToday": 6,
+    "cyclesToday": 7,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
