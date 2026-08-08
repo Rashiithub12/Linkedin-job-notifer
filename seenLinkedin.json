@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/ai-automation-engineer-operations-builder-at-easypeasyfluent-4448164000": 1,
-    "https://www.linkedin.com/jobs/view/ai-systems-engineer-forward-deployed-builder-at-ai-acquisition-4428901891": 1,
-    "https://www.linkedin.com/jobs/view/solutions-engineer-at-reducto-4339044744": 1,
-    "https://www.linkedin.com/jobs/view/senior-customer-engineer-majors-san-francisco-at-cloudflare-4354172073": 1,
-    "https://www.linkedin.com/jobs/view/founding-growth-engineer-%c2%a340k-%c2%a360k-%2b-equity-at-vc-backed-ai-proptech-startup-at-jack-jill-4447684937": 1,
-    "https://www.linkedin.com/jobs/view/lifecycle-strategist-at-fyul-4420921733": 1,
-    "https://www.linkedin.com/jobs/view/business-operations-lead-at-huspy-4431858579": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-script-dot-4446201115": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-attentive-4389964157": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-hirexe-4448165183": 1,
     "https://www.linkedin.com/jobs/view/sales-director-us-at-rivvun-ai-4447906489": 1,
     "https://www.linkedin.com/jobs/view/campaign-manager-google-ads-at-neamob-tech-4448160967": 1,
     "https://www.linkedin.com/jobs/view/sales-and-marketing-executive-at-stanley-black-decker-inc-4361056964": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/account-executive-at-richpanel-4450738401": 1,
     "https://www.linkedin.com/jobs/view/project-engineer-at-braun-intertec-corporation-4372611921": 1,
     "https://www.linkedin.com/jobs/view/deep-foundations-superintendent-at-kiewit-4440782381": 1,
-    "https://www.linkedin.com/jobs/view/sdr-us-market-at-bpo-impact-4448794814": 1
+    "https://www.linkedin.com/jobs/view/sdr-us-market-at-bpo-impact-4448794814": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-pre-and-post-sales-smb-at-attio-4344033878": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-solutions-engineer-us-remote-at-dash0-4331740097": 1,
+    "https://www.linkedin.com/jobs/view/founding-gtm-engineer-at-arcade-4450798399": 1,
+    "https://www.linkedin.com/jobs/view/manager-growth-at-runna-4450578408": 1,
+    "https://www.linkedin.com/jobs/view/paid-search-manager-at-lead-stack-media-4451073051": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-contract-at-palo-alto-networks-4441386835": 1,
+    "https://www.linkedin.com/jobs/view/journey-operations-specialist-at-macy-s-4442136910": 1,
+    "https://www.linkedin.com/jobs/view/cold-callers-at-progrid-pk-4449261374": 1,
+    "https://www.linkedin.com/jobs/view/outreach-retention-specialist-youth-queens-at-ahrc-new-york-city-4450907610": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-remote-leverage-4448396499": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-08-08",
-    "cyclesToday": 20,
+    "cyclesToday": 21,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
