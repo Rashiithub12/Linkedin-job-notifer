@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/account-executive-%c2%a390k-%e2%80%93-%c2%a3120k-%2b-equity-at-maze-at-jack-jill-4447664333": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-%c2%a360k-%c2%a380k-ote-at-thrive-at-jack-jill-4447653623": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-at-the-worksphere-4447620961": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-patientnow-4422011732": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-silverfort-4447651305": 1,
-    "https://www.linkedin.com/jobs/view/senior-openshift-platform-consultant-at-entoss-technologies-4445869342": 1,
-    "https://www.linkedin.com/jobs/view/trainee-consultant-at-daode-search-4447690087": 1,
-    "https://www.linkedin.com/jobs/view/agiloft-consultant-at-tribolatech-inc-4411428506": 1,
-    "https://www.linkedin.com/jobs/view/managing-director-clarity-builders-4447681597": 1,
     "https://www.linkedin.com/jobs/view/founding-engineer-%2480k-%24150k-at-cloro-at-jack-jill-4447677393": 1,
     "https://www.linkedin.com/jobs/view/founding-engineer-%24160k-%24200k-%2b-equity-at-transvoix-at-jack-jill-4447690065": 1,
     "https://www.linkedin.com/jobs/view/senior-engineer-at-work-consulting-4447677499": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/sales-calling-executive-4450072185": 1,
     "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-accordible-4448751206": 1,
     "https://www.linkedin.com/jobs/view/outreach-marketing-assistant-manager-at-ramaiah-university-of-applied-sciences-4448769281": 1,
-    "https://www.linkedin.com/jobs/view/enterprise-account-executive-middle-east-at-rogo-4450777527": 1
+    "https://www.linkedin.com/jobs/view/enterprise-account-executive-middle-east-at-rogo-4450777527": 1,
+    "https://www.linkedin.com/jobs/view/quality-control-manager-%e2%80%93-ready-mix-concrete-aggregates-at-orion-placement-4448762714": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-learning-routes-4450590004": 1,
+    "https://www.linkedin.com/jobs/view/client-servicing-executive-sr-executive-%e2%80%94-digital-marketing-at-msm-unify-india-4451042670": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-email-campaign-production-at-tungsten-automation-4423342322": 1,
+    "https://www.linkedin.com/jobs/view/telesales-executive-at-ld-management-consultants-4450577777": 1,
+    "https://www.linkedin.com/jobs/view/business-development-executive-at-manufacto-india-pvt-ltd-4450578842": 1,
+    "https://www.linkedin.com/jobs/view/growth-associate-freshers-at-eduabroad-4450591023": 1,
+    "https://www.linkedin.com/jobs/view/business-development-specialist-at-gremadius-4450571952": 1,
+    "https://www.linkedin.com/jobs/view/business-development-digital-marketing-at-qugates-technologies-4450577676": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-08-08",
-    "cyclesToday": 5,
+    "cyclesToday": 6,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
