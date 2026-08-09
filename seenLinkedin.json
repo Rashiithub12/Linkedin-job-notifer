@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/leerling-betonreperateur-at-booston-io-4447948165": 1,
-    "https://www.linkedin.com/jobs/view/assistente-de-engenharia-de-obras-at-fitting-4446227060": 1,
-    "https://www.linkedin.com/jobs/view/dakdekker-at-booston-io-4447908958": 1,
-    "https://www.linkedin.com/jobs/view/representante-comercial-at-sika-4446232455": 1,
-    "https://www.linkedin.com/jobs/view/technical-marketing-engineer-at-coveo-4446215293": 1,
-    "https://www.linkedin.com/jobs/view/solutions-engineer-east-or-central-us-remote-at-ladders-4445885539": 1,
-    "https://www.linkedin.com/jobs/view/regional-sales-engineer-remote-at-ladders-4446205249": 1,
-    "https://www.linkedin.com/jobs/view/sales-engineer-survey-apac-at-trimble-inc-4371001655": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-marketing-manager-sunk-at-coreweave-4363974592": 1,
     "https://www.linkedin.com/jobs/view/ing%c3%a9nieur-commercial-rms-et-iot-f-h-at-covage-4448144702": 1,
     "https://www.linkedin.com/jobs/view/senior-product-marketing-manager-sunk-at-coreweave-4364161199": 1,
     "https://www.linkedin.com/jobs/view/sales-engineer-at-beckman-coulter-life-sciences-4437239763": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/business-development-lead-generation-specialist-4450922989": 1,
     "https://www.linkedin.com/jobs/view/business-development-specialist-4449506232": 1,
     "https://www.linkedin.com/jobs/view/growth-intern-%e2%80%94-founder-s-office-at-saras-ai-institute-4449292505": 1,
-    "https://www.linkedin.com/jobs/view/sales-and-marketing-specialist-at-hubblehut-4450925964": 1
+    "https://www.linkedin.com/jobs/view/sales-and-marketing-specialist-at-hubblehut-4450925964": 1,
+    "https://www.linkedin.com/jobs/view/traveling-field-and-lab-technician-at-ues-4434038156": 1,
+    "https://www.linkedin.com/jobs/view/special-inspector-at-ues-4424962159": 1,
+    "https://www.linkedin.com/jobs/view/laboratory-engineering-technician-i-at-terracon-4451334719": 1,
+    "https://www.linkedin.com/jobs/view/lifecycle-automation-lead-at-guardio-4451344441": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-event-company-only-at-nexlance-4449507215": 1,
+    "https://www.linkedin.com/jobs/view/advertiser-meta-google-ads-instagram-linkedin-at-growvo-digital-4450935675": 1,
+    "https://www.linkedin.com/jobs/view/outreach-intake-specialist-ii-at-endeavors-4450956008": 1,
+    "https://www.linkedin.com/jobs/view/business-development-executive-4450932998": 1,
+    "https://www.linkedin.com/jobs/view/b2b-outbound-sales-representative-at-gushwork-4450943593": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-08-09",
-    "cyclesToday": 10,
+    "cyclesToday": 11,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
