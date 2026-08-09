@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/observability-engineer-at-intellias-4448303301": 1,
-    "https://www.linkedin.com/jobs/view/project-engineer-at-spencer-ogden-4446217378": 1,
-    "https://www.linkedin.com/jobs/view/machine-learning-engineer-ops-at-cantina-labs-4447989822": 1,
     "https://www.linkedin.com/jobs/view/data-engineer-ml-ops-at-vc-backed-multimodal-ai-startup-at-jack-jill-4447993249": 1,
     "https://www.linkedin.com/jobs/view/principal-ai-ops-engineer-at-rxsense-4443502520": 1,
     "https://www.linkedin.com/jobs/view/sr-engineer-development-operations-at-lumicera-health-services-4440001258": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/inside-sales-executive-at-too-good-to-go-4441313795": 1,
     "https://www.linkedin.com/jobs/view/sales-development-canada-at-elevenlabs-4451310398": 1,
     "https://www.linkedin.com/jobs/view/partner-and-growth-lead-at-bharatopd-4450936251": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-integrity360-4441306605": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-integrity360-4441306605": 1,
+    "https://www.linkedin.com/jobs/view/field-technician-at-socotec-us-4451321763": 1,
+    "https://www.linkedin.com/jobs/view/liveops-monetization-manager-at-xpend-4449291492": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-canonical-4433364758": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-08-09",
-    "cyclesToday": 2,
+    "cyclesToday": 3,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
