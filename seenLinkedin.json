@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/devsecops-engineer-d365-at-inceed-4448242911": 1,
-    "https://www.linkedin.com/jobs/view/martech-engineer-at-avenue-code-4446637874": 1,
-    "https://www.linkedin.com/jobs/view/founding-engineer-%24160k-%24200k-%2b-equity-at-transvoix-at-jack-jill-4448517523": 1,
-    "https://www.linkedin.com/jobs/view/growth-manager-at-bambuser-4448888291": 1,
-    "https://www.linkedin.com/jobs/view/product-growth-manager-at-wellybox-4446622172": 1,
-    "https://www.linkedin.com/jobs/view/digital-optimization-lead-at-octus-4448523530": 1,
-    "https://www.linkedin.com/jobs/view/customer-value-architect-enterprise-sales-enablement-at-whatsapp-4437665493": 1,
-    "https://www.linkedin.com/jobs/view/revenue-operations-%24160k-%24210k-%2b-equity-at-shepherd-at-jack-jill-4448509507": 1,
-    "https://www.linkedin.com/jobs/view/enterprise-field-marketer-at-openai-4430848094": 1,
-    "https://www.linkedin.com/jobs/view/founders-associate-%24120k-%2b-equity-at-tryrama-at-jack-jill-4448527428": 1,
-    "https://www.linkedin.com/jobs/view/brand-and-campaign-executive-at-cvs-group-uk-4446657499": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-wfh-day-shift-at-microsourcing-4440086959": 1,
     "https://www.linkedin.com/jobs/view/marketing-specialist-at-beon-4445851856": 1,
     "https://www.linkedin.com/jobs/view/digital-campaign-manager-ppc-at-cobra-io-4446657278": 1,
     "https://www.linkedin.com/jobs/view/manager-digital-marketing-egypt-marketing-communication-marketing-and-communications-group-at-mashreq-4432234891": 1,
@@ -1999,7 +1987,19 @@
     "https://www.linkedin.com/jobs/view/skilled-laborer-at-baker-construction-4442576209": 1,
     "https://www.linkedin.com/jobs/view/growth-manager-at-kota-4451192770": 1,
     "https://www.linkedin.com/jobs/view/media-buyer-at-velrix-software-solutions-4451539908": 1,
-    "https://www.linkedin.com/jobs/view/business-development-executive-at-digmarit-ltd-4451547860": 1
+    "https://www.linkedin.com/jobs/view/business-development-executive-at-digmarit-ltd-4451547860": 1,
+    "https://www.linkedin.com/jobs/view/technical-engineering-technician-at-rwdy-inc-4451407012": 1,
+    "https://www.linkedin.com/jobs/view/construction-materials-testing-field-technician-at-froehling-robertson-inc-4451555838": 1,
+    "https://www.linkedin.com/jobs/view/production-associate-and-builder-at-84-lumber-4451571089": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-infosum-4451558162": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-m-w-d-at-salted-beauty-4451418205": 1,
+    "https://www.linkedin.com/jobs/view/founder-associate-business-development-sales-at-globalmatch-tech-4451522241": 1,
+    "https://www.linkedin.com/jobs/view/sales-executive-at-matrix-solutions-4446804967": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-chainpatrol-4451419126": 1,
+    "https://www.linkedin.com/jobs/view/growth-lead-at-avici-4451198129": 1,
+    "https://www.linkedin.com/jobs/view/child-health-family-engagement-officer-at-wombto18-4451405087": 1,
+    "https://www.linkedin.com/jobs/view/outbound-sales-representative-at-gushwork-4451405261": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-mspbots-careers-4451410362": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-08-10",
-    "cyclesToday": 11,
+    "cyclesToday": 12,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
