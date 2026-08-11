@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/construction-materials-engineering-technicians-at-s-me-4411702001": 1,
-    "https://www.linkedin.com/jobs/view/geotechnical-project-manager-at-ecs-group-of-companies-4400246549": 1,
-    "https://www.linkedin.com/jobs/view/entry-level-field-engineer-kiewit-foundations-co-at-kiewit-4448531984": 1,
-    "https://www.linkedin.com/jobs/view/tailman-skilled-laborer-at-granite-construction-4448532340": 1,
-    "https://www.linkedin.com/jobs/view/form-setter-at-the-walsh-group-walsh-construction-archer-western-4449014728": 1,
-    "https://www.linkedin.com/jobs/view/concrete-laborer-at-mills-concrete-llc-4449061809": 1,
-    "https://www.linkedin.com/jobs/view/construction-worker-ii-at-city-of-albuquerque-4449045332": 1,
-    "https://www.linkedin.com/jobs/view/global-industry-lead-retail-specs-at-snap-inc-4431758043": 1,
-    "https://www.linkedin.com/jobs/view/global-strategic-partner-manager-at-talkie-4449044535": 1,
-    "https://www.linkedin.com/jobs/view/global-strategic-partner-manager-at-asiam-4449045725": 1,
     "https://www.linkedin.com/jobs/view/sales-operations-lead-amer-at-talkie-4449043504": 1,
     "https://www.linkedin.com/jobs/view/campaing-manager-at-impact-media-ai-marketing-agency-4446683423": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-lead-at-mumzworld-com-4448572157": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/crm-campaign-manager-betty-ca-at-betty-4439187970": 1,
     "https://www.linkedin.com/jobs/view/senior-performance-marketing-specialist-at-vikst-marketing-fzco-4451839238": 1,
     "https://www.linkedin.com/jobs/view/lead-generation-representative-market-research-at-inj-partners-4451643117": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-online-lead-generator-at-online-education-4452420097": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-online-lead-generator-at-online-education-4452420097": 1,
+    "https://www.linkedin.com/jobs/view/partner-solutions-engineer-ii-at-akamai-technologies-4451841716": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-we-viral-4451639738": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-let-s-build-brands-4451641614": 1,
+    "https://www.linkedin.com/jobs/view/google-ads-executive-at-learning-routes-4451631606": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-learning-routes-4451643894": 1,
+    "https://www.linkedin.com/jobs/view/paid-media-executive-at-realatte-4451652605": 1,
+    "https://www.linkedin.com/jobs/view/senior-online-marketing-manager-at-xxxxxxxxxxxxxxxxx-4452426346": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-amiy-4451189667": 1,
+    "https://www.linkedin.com/jobs/view/sales-executive-at-tripovo-4449838386": 1,
+    "https://www.linkedin.com/jobs/view/b2b-calling-executive-us-market-at-translinguist-4451653044": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-08-11",
-    "cyclesToday": 6,
+    "cyclesToday": 7,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
