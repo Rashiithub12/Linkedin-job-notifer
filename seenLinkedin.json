@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/advertising-executive-at-the-branding-studio-4447953893": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-the-kashin-4448299136": 1,
-    "https://www.linkedin.com/jobs/view/senior-executive-performance-marketing-at-realatte-4446621949": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-nabhya-ayurveda-4446636344": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-fmcg-at-chro-consulting-4448548529": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-executive-at-boat-lifestyle-4448867214": 1,
-    "https://www.linkedin.com/jobs/view/ppc-executive-b2b-at-ultracare-pro-4446291720": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-rio-innobev-pvt-ltd-4446632500": 1,
     "https://www.linkedin.com/jobs/view/part-time-social-media-manager-at-scaler-studios-4448532774": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-sr-associate-at-acorns-4429722227": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-remote-%e2%80%93-u-s-based-at-gavl-4448537157": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-manatal-4452180443": 1,
     "https://www.linkedin.com/jobs/view/sales-executive-at-technopole-industries-4451620464": 1,
     "https://www.linkedin.com/jobs/view/tele-sales-executive-at-zigsaw-4451624513": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-middle-east-at-aikido-security-4451826377": 1
+    "https://www.linkedin.com/jobs/view/account-executive-middle-east-at-aikido-security-4451826377": 1,
+    "https://www.linkedin.com/jobs/view/paid-ads-executive-at-ultracare-pro-4451615780": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-learning-routes-4451610877": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-promact-4451615692": 1,
+    "https://www.linkedin.com/jobs/view/senior-marketing-operations-analyst-india-at-job-scouts-com-4452187425": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-shephertz-technologies-4451610835": 1,
+    "https://www.linkedin.com/jobs/view/senior-lead-generation-specialist-at-elev8-marketing-4449987742": 1,
+    "https://www.linkedin.com/jobs/view/podcast-guest-relations-outreach-at-thrive-loop-4451179474": 1,
+    "https://www.linkedin.com/jobs/view/community-moblizier-at-manav-vikas-sansthan-4451611736": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-08-11",
-    "cyclesToday": 3,
+    "cyclesToday": 4,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
