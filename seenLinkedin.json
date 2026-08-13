@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-dynata-4440274696": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-sarvam-4437114594": 1,
-    "https://www.linkedin.com/jobs/view/lifecycle-marketing-operations-specialist-templates-at-zillow-4446314822": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-adapty-io-4444767972": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-payd-4450725946": 1,
-    "https://www.linkedin.com/jobs/view/telesales-executive-outbound-%e2%80%93-b2b-at-eminds-4448732315": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-klipboard-4450733768": 1,
-    "https://www.linkedin.com/jobs/view/business-development-associate-at-vretta-4449210070": 1,
-    "https://www.linkedin.com/jobs/view/sales-and-marketing-professional-at-ameera-wellness-4450355542": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-the-opportunity-hub-uk-4449218080": 1,
     "https://www.linkedin.com/jobs/view/pipeline-technician-at-dow-4449229325": 1,
     "https://www.linkedin.com/jobs/view/operator-i-at-veolia-north-america-4450737655": 1,
     "https://www.linkedin.com/jobs/view/pipeline-technician-at-dow-4449232132": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/appointment-setter-at-ventus-support-4450823239": 1,
     "https://www.linkedin.com/jobs/view/sdr-uk-at-echo-4452919973": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-cold-call-crew-4450476073": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-i-can-ace-4453247243": 1
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-i-can-ace-4453247243": 1,
+    "https://www.linkedin.com/jobs/view/traveling-field-and-lab-technician-at-ues-4454087712": 1,
+    "https://www.linkedin.com/jobs/view/construction-material-testing-technician-at-ues-4454302502": 1,
+    "https://www.linkedin.com/jobs/view/construction-materials-project-manager-at-ecs-group-of-companies-4454305493": 1,
+    "https://www.linkedin.com/jobs/view/lab-manager-at-ecs-group-of-companies-4454095144": 1,
+    "https://www.linkedin.com/jobs/view/concrete-laborer-at-eltonalan-4454089219": 1,
+    "https://www.linkedin.com/jobs/view/civil-laborer-level-i-iii-at-s-k-technologies-inc-4450813857": 1,
+    "https://www.linkedin.com/jobs/view/cold-calling-executive-%e2%80%93-seo-digital-marketing-at-navigator-hr-consulting-solutions-4452901001": 1,
+    "https://www.linkedin.com/jobs/view/senior-business-development-representative-at-blackline-4452995839": 1,
+    "https://www.linkedin.com/jobs/view/prospector-a-de-clientes-es-at-webposto-4450431424": 1,
+    "https://www.linkedin.com/jobs/view/sales-and-marketing-representative-at-vyoma-path-4454069398": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-08-13",
-    "cyclesToday": 16,
+    "cyclesToday": 17,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
