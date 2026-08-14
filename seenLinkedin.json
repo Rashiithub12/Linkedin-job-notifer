@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/growth-intern-%e2%80%94-founder-s-office-at-saras-ai-institute-4449292505": 1,
-    "https://www.linkedin.com/jobs/view/sales-and-marketing-specialist-at-hubblehut-4450925964": 1,
-    "https://www.linkedin.com/jobs/view/traveling-field-and-lab-technician-at-ues-4434038156": 1,
-    "https://www.linkedin.com/jobs/view/special-inspector-at-ues-4424962159": 1,
-    "https://www.linkedin.com/jobs/view/laboratory-engineering-technician-i-at-terracon-4451334719": 1,
-    "https://www.linkedin.com/jobs/view/lifecycle-automation-lead-at-guardio-4451344441": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-event-company-only-at-nexlance-4449507215": 1,
-    "https://www.linkedin.com/jobs/view/advertiser-meta-google-ads-instagram-linkedin-at-growvo-digital-4450935675": 1,
-    "https://www.linkedin.com/jobs/view/outreach-intake-specialist-ii-at-endeavors-4450956008": 1,
-    "https://www.linkedin.com/jobs/view/business-development-executive-4450932998": 1,
     "https://www.linkedin.com/jobs/view/b2b-outbound-sales-representative-at-gushwork-4450943593": 1,
     "https://www.linkedin.com/jobs/view/quality-control-technician-riverbend-materials-salem-or-at-riverbend-materials-4449282862": 1,
     "https://www.linkedin.com/jobs/view/senior-forward-deployed-engineer-at-productboard-4434055274": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/sr-operations-engineer-starlink-growth-at-spacex-4407550890": 1,
     "https://www.linkedin.com/jobs/view/operations-engineer-starlink-growth-at-spacex-4399272701": 1,
     "https://www.linkedin.com/jobs/view/manager-demand-engineer-remote-at-beyondtrust-4444489007": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-dach-at-safeguard-global-4387296597": 1
+    "https://www.linkedin.com/jobs/view/business-development-representative-dach-at-safeguard-global-4387296597": 1,
+    "https://www.linkedin.com/jobs/view/operator-3-ploegendienst-effect-personeelsdiensten-b-v-at-jobster-4453735327": 1,
+    "https://www.linkedin.com/jobs/view/operator-effect-personeelsdiensten-b-v-at-jobster-4453738165": 1,
+    "https://www.linkedin.com/jobs/view/geotechnical-staff-project-manager-at-ecs-group-of-companies-4433395717": 1,
+    "https://www.linkedin.com/jobs/view/field-technician-at-socotec-4426694715": 1,
+    "https://www.linkedin.com/jobs/view/representante-de-desarrollo-de-ventas-4454568850": 1,
+    "https://www.linkedin.com/jobs/view/senior-business-development-representative-at-4twenty-consulting-4448941481": 1,
+    "https://www.linkedin.com/jobs/view/appointment-setter-at-virtustant-4451274341": 1,
+    "https://www.linkedin.com/jobs/view/sale-development-representative-at-gallea-ai-4454811555": 1,
+    "https://www.linkedin.com/jobs/view/business-development-specialist-services-based-company-at-volmatica-4451250804": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-wfm-at-payoneer-4436499887": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-08-14",
-    "cyclesToday": 23,
+    "cyclesToday": 24,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
