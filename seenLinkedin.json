@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/appointment-setter-at-virtustant-4448785706": 1,
-    "https://www.linkedin.com/jobs/view/lease-operator-at-killam-development-4451039595": 1,
-    "https://www.linkedin.com/jobs/view/operator-at-vopak-4441902728": 1,
-    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-talentpluto-4448712907": 1,
-    "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-verto-4450706477": 1,
-    "https://www.linkedin.com/jobs/view/sales-calling-executive-4450072185": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-accordible-4448751206": 1,
     "https://www.linkedin.com/jobs/view/outreach-marketing-assistant-manager-at-ramaiah-university-of-applied-sciences-4448769281": 1,
     "https://www.linkedin.com/jobs/view/enterprise-account-executive-middle-east-at-rogo-4450777527": 1,
     "https://www.linkedin.com/jobs/view/quality-control-manager-%e2%80%93-ready-mix-concrete-aggregates-at-orion-placement-4448762714": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-at-officerapps-com-4454313161": 1,
     "https://www.linkedin.com/jobs/view/b2b-sales-development-representative-at-l3-global-ventures-inc-4453270101": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-codification-4452961781": 1,
-    "https://www.linkedin.com/jobs/view/sdr-sales-development-representative-%e2%80%93-emboodo-at-emboodo-4450827113": 1
+    "https://www.linkedin.com/jobs/view/sdr-sales-development-representative-%e2%80%93-emboodo-at-emboodo-4450827113": 1,
+    "https://www.linkedin.com/jobs/view/%e7%8e%af%e5%a2%83%e5%b2%a9%e5%9c%9f%e8%af%95%e9%aa%8c%e5%91%98-at-%e4%b8%ad%e5%9b%bd%e7%94%b5%e5%bb%ba%e9%9b%86%e5%9b%a2%e5%8d%8e%e4%b8%9c%e5%8b%98%e6%b5%8b%e8%ae%be%e8%ae%a1%e7%a0%94%e7%a9%b6%e9%99%a2%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8-4450861400": 1,
+    "https://www.linkedin.com/jobs/view/senior-gtm-operations-manager-at-edited-4454024798": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-creative-strategist-at-hightouch-4450855938": 1,
+    "https://www.linkedin.com/jobs/view/front-seller-cold-caller-at-impleko-4450850322": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-remote-canada-at-the-sales-factory-4453278608": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-remote-canada-at-the-sales-factory-4453281640": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-graitec-italy-4453244007": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-08-14",
-    "cyclesToday": 1,
+    "cyclesToday": 2,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
