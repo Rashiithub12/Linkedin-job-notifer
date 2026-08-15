@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-tekgenio-4451377696": 1,
-    "https://www.linkedin.com/jobs/view/search-campaign-manager-at-publicis-groupe-nl-4405354276": 1,
-    "https://www.linkedin.com/jobs/view/earn-operations-user-growth-at-binance-4451107235": 1,
-    "https://www.linkedin.com/jobs/view/earn-operations-user-growth-at-binance-4451110207": 1,
-    "https://www.linkedin.com/jobs/view/appointment-setter-at-virtustant-4449517793": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-at-instaffo-4409687692": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-at-newlead-4451368312": 1,
     "https://www.linkedin.com/jobs/view/telesales-representative-at-flexsource-international-4449278154": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/enterprise-paid-digital-marketing-manager-at-stripe-4454536397": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-manager-paid-at-abacum-4453564531": 1,
     "https://www.linkedin.com/jobs/view/sem-manager-at-klick-4444002712": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-oraton-executive-communication-coach-4451202357": 1
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-oraton-executive-communication-coach-4451202357": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-the-remote-reps-4451288212": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-onescreen-4453910036": 1,
+    "https://www.linkedin.com/jobs/view/partner-account-representative-at-covista-4451228208": 1,
+    "https://www.linkedin.com/jobs/view/partner-account-representative-at-covista-4451233164": 1,
+    "https://www.linkedin.com/jobs/view/member-engagement-specialist-fes-at-the-blue-venture-fund-4453739354": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-08-15",
-    "cyclesToday": 13,
+    "cyclesToday": 14,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
