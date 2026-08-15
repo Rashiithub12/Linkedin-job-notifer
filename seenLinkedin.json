@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/remote-sales-development-representative-sdr-at-buzzybooth-4452074251": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-remote-growth-partners-4451817014": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-remote-from-the-philippines-at-trafficguard-4451111132": 1,
-    "https://www.linkedin.com/jobs/view/construction-materials-technician-at-actalent-4451492600": 1,
     "https://www.linkedin.com/jobs/view/%e5%b2%a9%e5%9c%9f%e5%b7%a5%e7%a8%8b-at-%e4%b8%ad%e5%9b%bd%e9%93%81%e5%bb%ba%e6%b8%af%e8%88%aa%e5%b1%80%e9%9b%86%e5%9b%a2-4451608100": 1,
     "https://www.linkedin.com/jobs/view/production-worker-concrete-at-rinker-materials-4452025929": 1,
     "https://www.linkedin.com/jobs/view/asphalt-plant-laborer-at-crh-4452059167": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/concrete-laborer-pipe-at--4451703042": 1,
     "https://www.linkedin.com/jobs/view/concrete-finisher-at-blythe-development-co-4453909625": 1,
     "https://www.linkedin.com/jobs/view/crm%e8%bf%90%e8%90%a5-at-lg-ltd-4451276961": 1,
-    "https://www.linkedin.com/jobs/view/p%c4%81rdo%c5%a1anas-speci%c4%81lists-sdr-at-dati-group-4451711518": 1
+    "https://www.linkedin.com/jobs/view/p%c4%81rdo%c5%a1anas-speci%c4%81lists-sdr-at-dati-group-4451711518": 1,
+    "https://www.linkedin.com/jobs/view/senior-sales-engineer-at-zendesk-4441847582": 1,
+    "https://www.linkedin.com/jobs/view/campaign-marketing-manager-at-michael-page-4454832710": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-accredian-4454857699": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-m-w-d-paid-social-affiliate-marketing-at-m-tours-erlebnisreisen-4451278389": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-08-15",
-    "cyclesToday": 45,
+    "cyclesToday": 46,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
