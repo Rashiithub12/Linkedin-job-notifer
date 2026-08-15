@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/founding-growth-engineer-%c2%a340k-%c2%a360k-%2b-equity-at-vc-backed-ai-proptech-startup-at-jack-jill-4451115697": 1,
-    "https://www.linkedin.com/jobs/view/ai-native-marketing-operations-specialist-at-gozupees-%e2%80%94-building-ai-agents-for-tomorrow-4451510031": 1,
-    "https://www.linkedin.com/jobs/view/founding-growth-lead-%24140k-%24200k-%2b-equity-at-grw-ai-at-jack-jill-4451118736": 1,
-    "https://www.linkedin.com/jobs/view/d2c-junior-performance-marketing-executive-upto-20k-at-beyond-border-consultants-4451120562": 1,
-    "https://www.linkedin.com/jobs/view/d2c-junior-performance-marketing-executive-upto-20k-at-beyond-border-consultants-4451107703": 1,
-    "https://www.linkedin.com/jobs/view/campaign-executive-at-squared-circle-e-com-pvt-ltd-4451112722": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-lovely-professional-university-4451107877": 1,
-    "https://www.linkedin.com/jobs/view/marketing-executive-gurgaon-at-matbook-4451104533": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-specialist-at-upgrad-study-abroad-4451108636": 1,
-    "https://www.linkedin.com/jobs/view/marketing-manager-at-intellinex-4449535402": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-hr-egypt-network-hren-4451389911": 1,
     "https://www.linkedin.com/jobs/view/campaign-manager-at-zap-group-4449538589": 1,
     "https://www.linkedin.com/jobs/view/ppc-manager-digital-marketing-specialist-on-site-at-natural-vitamins-europe-4449526911": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/minerals-lead-director-at-hatch-4443899406": 1,
     "https://www.linkedin.com/jobs/view/solid-state-fermentation-scaling-expert-at-kult-farm-4451291677": 1,
     "https://www.linkedin.com/jobs/view/business-development-representatives-cold-calling-agents-at-keystone-medics-4451731025": 1,
-    "https://www.linkedin.com/jobs/view/representante-de-desarrollo-de-ventas-sdr-at-anonymous-healthcare-bpo-company-4454813808": 1
+    "https://www.linkedin.com/jobs/view/representante-de-desarrollo-de-ventas-sdr-at-anonymous-healthcare-bpo-company-4454813808": 1,
+    "https://www.linkedin.com/jobs/view/field-engineer-at-mt-carmel-stabilization-group-inc-4427020111": 1,
+    "https://www.linkedin.com/jobs/view/unskilled-laborer-lehman-roberts-at-granite-construction-4453725910": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-san-jose-california-at-check-point-ai-security-4426695539": 1,
+    "https://www.linkedin.com/jobs/view/gtm-engineer-at-corti-4443576066": 1,
+    "https://www.linkedin.com/jobs/view/bizops-strategy-pricing-at-decagon-4375855825": 1,
+    "https://www.linkedin.com/jobs/view/revenue-operations-lead-at-relevance-ai-4436479101": 1,
+    "https://www.linkedin.com/jobs/view/performance-specialist-at-option-designs-4453925073": 1,
+    "https://www.linkedin.com/jobs/view/paid-media-specialist-at-e2m-4454878937": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-specialist-at-meeboss-4454816624": 1,
+    "https://www.linkedin.com/jobs/view/product-growth-gtm-at-ezspace-ventures-4453703238": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-08-15",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
