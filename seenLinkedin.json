@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/operator-at-new-jersey-resources-4450971984": 1,
-    "https://www.linkedin.com/jobs/view/quality-technical-specialist-%e2%80%93-concrete-asphalt-aggregates-at-adbri-4449517818": 1,
-    "https://www.linkedin.com/jobs/view/laborer-ral-novo-jw-at-southern-industrial-constructors-inc-4338875956": 1,
-    "https://www.linkedin.com/jobs/view/laborer-at-brasfield-gorrie-llc-4424469398": 1,
-    "https://www.linkedin.com/jobs/view/laborer-at-brasfield-gorrie-llc-4414470934": 1,
-    "https://www.linkedin.com/jobs/view/helper-concrete-finish-1-at-zachry-group-4434025232": 1,
     "https://www.linkedin.com/jobs/view/gtm-enablement-technical-%2b-partners-at-lovable-4450995663": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-hubspot-and-ai-workflows-at-syntasso-4450990616": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-lifecycle-ai-at-cosign-4451359378": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-stripe-4454547302": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-m-w-d-ab-november-2026-at-321-med-4451240487": 1,
     "https://www.linkedin.com/jobs/view/sdr-sales-development-representative-at-station-f-4453562462": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-oxford-at-furza-4453574567": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-oxford-at-furza-4453574567": 1,
+    "https://www.linkedin.com/jobs/view/technical-sales-engineer-guwahati-at-radix-4451704548": 1,
+    "https://www.linkedin.com/jobs/view/telesales-representative-at-sports-social-4451707544": 1,
+    "https://www.linkedin.com/jobs/view/telecalling-executive-at-sofiology-4453598892": 1,
+    "https://www.linkedin.com/jobs/view/outbound-calling-agent-at-duhanashrah-ai-4451289367": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-market-research-business-development-at-meetri-infotech-4453784979": 1,
+    "https://www.linkedin.com/jobs/view/client-account-executive-at-syniti-4453589046": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-08-15",
-    "cyclesToday": 10,
+    "cyclesToday": 11,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
