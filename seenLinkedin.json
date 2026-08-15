@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/campaign-manager-ppc-at-alto-%d7%90%d7%9c%d7%98%d7%95-%d7%9e%d7%a9%d7%a8%d7%93-%d7%a4%d7%a8%d7%a1%d7%95%d7%9d-%d7%93%d7%99%d7%92%d7%99%d7%98%d7%9c-4451511797": 1,
-    "https://www.linkedin.com/jobs/view/specialist-marketing-cloud-journey-retail-huizen-32-40-uur-at-lidl-nederland-4451514802": 1,
     "https://www.linkedin.com/jobs/view/senior-lead-generation-specialist-at-symphony-solutions-4451521351": 1,
     "https://www.linkedin.com/jobs/view/lead-generation-executive-at-kba-systems-4449242905": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-e-commet-4451529029": 1,
@@ -1999,7 +1997,9 @@
     "https://www.linkedin.com/jobs/view/ai-operations-enablement-lead-%e2%80%93-marketing-center-of-excellence-coe-at-brunswick-corporation-4454587648": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-gitlab-4427061625": 1,
     "https://www.linkedin.com/jobs/view/account-executive-smb-at-docusign-4453587861": 1,
-    "https://www.linkedin.com/jobs/view/inside-sales-representative-small-business-solutions-hybrid-at-adp-4417085556": 1
+    "https://www.linkedin.com/jobs/view/inside-sales-representative-small-business-solutions-hybrid-at-adp-4417085556": 1,
+    "https://www.linkedin.com/jobs/view/technical-marketing-engineer-at-nvidia-4444613960": 1,
+    "https://www.linkedin.com/jobs/view/member-engagement-specialist-fes-at-the-blue-venture-fund-4453756271": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-08-15",
-    "cyclesToday": 27,
+    "cyclesToday": 28,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
