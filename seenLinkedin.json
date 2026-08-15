@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/clinical-outreach-representative-new-jersey-at-discovery-behavioral-health-4449538446": 1,
-    "https://www.linkedin.com/jobs/view/business-development-executive-at-aravali-honey-industries-4451104443": 1,
-    "https://www.linkedin.com/jobs/view/materials-testing-officer-at-city-of-gold-coast-4450998679": 1,
-    "https://www.linkedin.com/jobs/view/aggregate-lab-technician-at-h-k-group-4451103579": 1,
-    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-%24180k-%e2%80%93-%24280k-%2b-equity-at-console-at-jack-jill-4451119732": 1,
     "https://www.linkedin.com/jobs/view/founding-growth-engineer-%c2%a340k-%c2%a360k-%2b-equity-at-vc-backed-ai-proptech-startup-at-jack-jill-4451115697": 1,
     "https://www.linkedin.com/jobs/view/ai-native-marketing-operations-specialist-at-gozupees-%e2%80%94-building-ai-agents-for-tomorrow-4451510031": 1,
     "https://www.linkedin.com/jobs/view/founding-growth-lead-%24140k-%24200k-%2b-equity-at-grw-ai-at-jack-jill-4451118736": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-greenway-health-4444974339": 1,
     "https://www.linkedin.com/jobs/view/sales-engineer-at-trimble-inc-4444930936": 1,
     "https://www.linkedin.com/jobs/view/outreach-enrollment-coordinator-bilingual-at-piedmont-health-services-inc-4445261022": 1,
-    "https://www.linkedin.com/jobs/view/community-relations-specialist-at-pavlov-media-4427626542": 1
+    "https://www.linkedin.com/jobs/view/community-relations-specialist-at-pavlov-media-4427626542": 1,
+    "https://www.linkedin.com/jobs/view/aviation-surface-prep-paint-specialist-at-gpac-4451706771": 1,
+    "https://www.linkedin.com/jobs/view/minerals-lead-director-at-hatch-4443899406": 1,
+    "https://www.linkedin.com/jobs/view/solid-state-fermentation-scaling-expert-at-kult-farm-4451291677": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representatives-cold-calling-agents-at-keystone-medics-4451731025": 1,
+    "https://www.linkedin.com/jobs/view/representante-de-desarrollo-de-ventas-sdr-at-anonymous-healthcare-bpo-company-4454813808": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-08-15",
-    "cyclesToday": 18,
+    "cyclesToday": 19,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
