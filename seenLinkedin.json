@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/bilingual-spanish-phone-outreach-associate-at-nadia-care-4452667897": 1,
-    "https://www.linkedin.com/jobs/view/donor-recruitment-representative-at-lifesouth-community-blood-centers-4452319208": 1,
-    "https://www.linkedin.com/jobs/view/learner-engagement-officer-skegness-at-acorn-training-ltd-4452498060": 1,
-    "https://www.linkedin.com/jobs/view/community-partnership-representative-union-morristown-edison-at-flywheel-centers-4452617928": 1,
-    "https://www.linkedin.com/jobs/view/outreach-executive-i-at-oak-street-health-part-of-cvs-health-4452475419": 1,
-    "https://www.linkedin.com/jobs/view/healthcare-executive-at-pfizer-4453132463": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-microsourcing-4453131027": 1,
-    "https://www.linkedin.com/jobs/view/utility-person-slaton-quarry-at-martin-marietta-4453131742": 1,
-    "https://www.linkedin.com/jobs/view/surface-well-testing-operator-at-slb-4441008585": 1,
     "https://www.linkedin.com/jobs/view/field-technician-at-socotec-us-4432313818": 1,
     "https://www.linkedin.com/jobs/view/field-technician-at-socotec-us-4432307923": 1,
     "https://www.linkedin.com/jobs/view/geotechnical-logger-at-raba-kistner-inc-4453042483": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/senior-counsellor-at-upgrad-4451694747": 1,
     "https://www.linkedin.com/jobs/view/sales-executive-at-krishiv-innovations-4451781530": 1,
     "https://www.linkedin.com/jobs/view/business-development-associate-at-openhire-4452716674": 1,
-    "https://www.linkedin.com/jobs/view/junior-sales-business-development-executive-at-siddham-polyindia-private-limited-4451765658": 1
+    "https://www.linkedin.com/jobs/view/junior-sales-business-development-executive-at-siddham-polyindia-private-limited-4451765658": 1,
+    "https://www.linkedin.com/jobs/view/product-manager-growth-at-finq-israel-4451782221": 1,
+    "https://www.linkedin.com/jobs/view/lifecycle-marketing-manager-capital-at-stripe-4454547316": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-specialist-at-catapult-solutions-group-4453945326": 1,
+    "https://www.linkedin.com/jobs/view/creator-program-manager-at-passionfroot-4455142139": 1,
+    "https://www.linkedin.com/jobs/view/senior-paid-search-manager-at-the-future-is-human-4455155176": 1,
+    "https://www.linkedin.com/jobs/view/responsable-acquisition-et-conversion-omnicanale-f-h-cdi-at-cr%c3%a9dit-coop%c3%a9ratif-4455143266": 1,
+    "https://www.linkedin.com/jobs/view/creator-program-manager-at-passionfroot-4455143138": 1,
+    "https://www.linkedin.com/jobs/view/product-growth-marketing-lead-at-unfcu-4450110079": 1,
+    "https://www.linkedin.com/jobs/view/business-development-executive-at-git-tech-agency-4451798331": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-08-16",
-    "cyclesToday": 35,
+    "cyclesToday": 36,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
