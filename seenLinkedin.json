@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/truss-builder-at-clayton-4452606230": 1,
-    "https://www.linkedin.com/jobs/view/drywall-at-clayton-4452602403": 1,
-    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-alloy-robotics-4451943966": 1,
-    "https://www.linkedin.com/jobs/view/solutions-engineer-at-allspice-io-4453042403": 1,
-    "https://www.linkedin.com/jobs/view/growth-engineer-at-reflex-4098517100": 1,
-    "https://www.linkedin.com/jobs/view/go-to-market-engineer-at-talentpluto-4452640675": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-pogo-4452465629": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-applied-ai-at-tldr-4452639414": 1,
     "https://www.linkedin.com/jobs/view/ai-gtm-engineer-at-accessibe-4451938574": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-chift-api-4449853503": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/sales-associate-at-lendi-group-4369009613": 1,
     "https://www.linkedin.com/jobs/view/solutions-engineer-product-expert-housing-at-eliseai-4339084218": 1,
     "https://www.linkedin.com/jobs/view/sdr-appt-setter-at-dorsia-labs-4455170964": 1,
-    "https://www.linkedin.com/jobs/view/sales-executive-at-terra-dygital-4453921189": 1
+    "https://www.linkedin.com/jobs/view/sales-executive-at-terra-dygital-4453921189": 1,
+    "https://www.linkedin.com/jobs/view/staff-construction-professional-2-at-haley-aldrich-4361574799": 1,
+    "https://www.linkedin.com/jobs/view/construction-inspector-trainee-at-kansas-department-of-transportation-kdot-4455115652": 1,
+    "https://www.linkedin.com/jobs/view/gtm-enablement-manager-at-glean-4444630049": 1,
+    "https://www.linkedin.com/jobs/view/senior-technical-marketing-engineer-gpu-and-system-architecture-at-nvidia-4395477548": 1,
+    "https://www.linkedin.com/jobs/view/cloud-partner-enablement-lead-at-anthropic-4444601223": 1,
+    "https://www.linkedin.com/jobs/view/founding-gtm-at-passionfroot-4455145117": 1,
+    "https://www.linkedin.com/jobs/view/senior-executive-corporate-sales-at-south-air-4451796096": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-08-16",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
