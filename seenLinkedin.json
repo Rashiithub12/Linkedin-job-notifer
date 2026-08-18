@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/account-executive-hong-kong-at-usermind-4454386457": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-commercial-sales-fins-at-docusign-4453592813": 1,
-    "https://www.linkedin.com/jobs/view/sales-account-executive-at-unveilr-ai-4451238521": 1,
-    "https://www.linkedin.com/jobs/view/ai-growth-architect-at-newsbreak-4451709444": 1,
     "https://www.linkedin.com/jobs/view/bd-growth-specialist-at-reput-ai-4451714307": 1,
     "https://www.linkedin.com/jobs/view/clinical-outreach-representative-eating-disorders-chicago-at-discovery-behavioral-health-4451711454": 1,
     "https://www.linkedin.com/jobs/view/community-liaison-at-trinity-health-pace-4454854792": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/lab-field-technician-fort-myers-at-tetra-tech-4455944849": 1,
     "https://www.linkedin.com/jobs/view/outbound-calling-executive-at-abs-international-4452847356": 1,
     "https://www.linkedin.com/jobs/view/partner-development-representative-german-undutchables-at-jobster-4454772855": 1,
-    "https://www.linkedin.com/jobs/view/community-outreach-enrollment-specialist-houston-area-at-equus-workforce-solutions-4450174857": 1
+    "https://www.linkedin.com/jobs/view/community-outreach-enrollment-specialist-houston-area-at-equus-workforce-solutions-4450174857": 1,
+    "https://www.linkedin.com/jobs/view/prensista-at-estudio-cer%c3%a1mico-s-l-4455936594": 1,
+    "https://www.linkedin.com/jobs/view/operatoren-3-ploegen-at-st-extruded-products-group-step-g-4455933610": 1,
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-old-harmony-4455931746": 1,
+    "https://www.linkedin.com/jobs/view/pre-sales-solutions-engineer-at-envoy-4454908630": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-08-18",
-    "cyclesToday": 32,
+    "cyclesToday": 33,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
