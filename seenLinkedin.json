@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/demand-generation-lead-at-contextqa-4451294854": 1,
-    "https://www.linkedin.com/jobs/view/international-business-development-executive-at-rovenlabs-4453919448": 1,
-    "https://www.linkedin.com/jobs/view/social-media-content-creator-at-kheewa-incorporation-4451765655": 1,
-    "https://www.linkedin.com/jobs/view/musketeer-at-red-bull-4444973310": 1,
-    "https://www.linkedin.com/jobs/view/foundry-worker-at-paber-aluminium-4455137366": 1,
-    "https://www.linkedin.com/jobs/view/operator-mengen-artiflex-b-v-at-jobster-4453951360": 1,
-    "https://www.linkedin.com/jobs/view/%ef%bc%9c%e5%b2%a1%e5%b1%b1%e5%b8%82%e5%8c%97%e5%8c%ba%ef%bc%9e%e3%82%a4%e3%83%b3%e3%82%af%e3%83%88%e3%83%8a%e3%83%bc%e3%81%ae%e8%a8%88%e9%87%8f%e3%83%bb%e7%b2%89%e7%a0%95-%e6%97%a5%e6%89%95%e3%81%84ok%e3%80%90%e6%9c%aa%e7%b5%8c%e9%a8%93%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%88ok%ef%bc%81%e3%80%91%e6%ae%8b%e6%a5%ad%e3%81%bb%e3%81%bc%e3%83%8a%e3%82%b7%ef%bc%81%e9%ab%98%e5%8f%8e%e5%85%a5%e3%83%af%e3%83%bc%e3%82%af%ef%bc%81%e3%82%a2%e3%83%8a%e3%82%bf%e3%82%89%e3%81%97%e3%81%8f%e2%99%aa%e9%ab%aa%e5%9e%8b%e8%87%aa%e7%94%b1%e2%98%86-at-%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e7%b6%9c%e5%90%88%e3%82%ad%e3%83%a3%e3%83%aa%e3%82%a2%e3%82%aa%e3%83%97%e3%82%b7%e3%83%a7%e3%83%b3-4455162626": 1,
-    "https://www.linkedin.com/jobs/view/op%c3%a9rateur-polyvalent-at-van-cleef-arpels-4444367888": 1,
     "https://www.linkedin.com/jobs/view/chemical-mixer-1st-shift-at-ecolab-4445233967": 1,
     "https://www.linkedin.com/jobs/view/kiln-operator-d-shift-nights-at-dal-tile-llc-4445258470": 1,
     "https://www.linkedin.com/jobs/view/geotechnical-project-manager-at-kleinfelder-4436362487": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/solutions-engineer-at-advance-local-4456452656": 1,
     "https://www.linkedin.com/jobs/view/ai-growth-operations-specialist-at-acolad-group-4456300212": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-uk-i-at-keepit-4446375020": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-turkish-speaker-at-salesforce-4456190838": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-turkish-speaker-at-salesforce-4456190838": 1,
+    "https://www.linkedin.com/jobs/view/production-technician-at-oxy-4456353805": 1,
+    "https://www.linkedin.com/jobs/view/%e6%8a%80%e6%9c%af%e7%a0%94%e5%8f%91%e6%80%bb%e7%9b%91-at-%e6%b1%9f%e8%8b%8f%e6%96%b0%e5%98%89%e7%90%86%e7%94%9f%e6%80%81%e7%8e%af%e5%a2%83%e6%9d%90%e6%96%99%e8%82%a1%e4%bb%bd%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8-4453828807": 1,
+    "https://www.linkedin.com/jobs/view/laborer-at-brasfield-gorrie-llc-4417899234": 1,
+    "https://www.linkedin.com/jobs/view/senior-gtm-engineer-systems-engineering-at-sanity-4439878253": 1,
+    "https://www.linkedin.com/jobs/view/%e6%8a%80%e6%9c%af%e6%8e%a8%e5%b9%bf%e4%ba%a7%e5%93%81%e5%b7%a5%e7%a8%8b%e5%b8%88-at-faw-volkswagen-4453827014": 1,
+    "https://www.linkedin.com/jobs/view/manager-of-gtm-strategy-and-solutions-at-pax8-4456151980": 1,
+    "https://www.linkedin.com/jobs/view/senior-sales-development-representative-at-indovance-inc-4454984815": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-uki-at-remote-4454826429": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-08-20",
-    "cyclesToday": 3,
+    "cyclesToday": 4,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
