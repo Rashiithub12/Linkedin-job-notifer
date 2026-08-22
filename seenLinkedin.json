@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/pedreiro-at-concrejato-engenharia-4452570881": 1,
-    "https://www.linkedin.com/jobs/view/trockenbauer-m-w-d-at-maler-steiert-4452560688": 1,
-    "https://www.linkedin.com/jobs/view/stucadoor-woningbouw-en-renovatie-%e2%80%93-drenthe-bouwpartners-at-jobster-4454709956": 1,
-    "https://www.linkedin.com/jobs/view/stratenmaker-at-booston-io-4454702853": 1,
-    "https://www.linkedin.com/jobs/view/revenue-operations-manager-at-goodstack-4455746190": 1,
-    "https://www.linkedin.com/jobs/view/strategy-and-operations-lead-se-at-sigma-4437715472": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-mid-market-enterprise-at-dojo-4443237858": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-mid-market-enterprise-at-dojo-4443255647": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-uber-for-business-at-uber-4446189062": 1,
-    "https://www.linkedin.com/jobs/view/enterprise-business-development-representative-uk-markets-at-trustpilot-4445490445": 1,
-    "https://www.linkedin.com/jobs/view/enterprise-business-development-representative-at-trustpilot-4445957861": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-speer-4444606502": 1,
     "https://www.linkedin.com/jobs/view/junior-community-manager-at-student-tribe-4452594756": 1,
     "https://www.linkedin.com/jobs/view/business-development-executive-at-american-express-4445130079": 1,
@@ -1999,7 +1988,18 @@
     "https://www.linkedin.com/jobs/view/business-development-representative-americas-at-seeq-corporation-4457863171": 1,
     "https://www.linkedin.com/jobs/view/representante-de-desarrollo-de-ventas-at-pel%c3%adculas-%c3%batiles-s-a-de-c-v-4455030549": 1,
     "https://www.linkedin.com/jobs/view/entry-level-to-experienced-construction-materials-engineering-technicians-at-s-me-4447582200": 1,
-    "https://www.linkedin.com/jobs/view/entry-level-geotechnical-engineer-at-langan-engineering-environmental-services-4457552560": 1
+    "https://www.linkedin.com/jobs/view/entry-level-geotechnical-engineer-at-langan-engineering-environmental-services-4457552560": 1,
+    "https://www.linkedin.com/jobs/view/principal-water-quality-consultant-modeller-at-stantec-4438327588": 1,
+    "https://www.linkedin.com/jobs/view/laborer-skilled-heavy-civil-construction-at-granite-construction-4419341274": 1,
+    "https://www.linkedin.com/jobs/view/technician-block-production-at-cemex-us-4445554322": 1,
+    "https://www.linkedin.com/jobs/view/enterprise-solutions-engineer-israel-at-postman-4389716652": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-%24100k-%24150k-%2b-equity-at-karumi-at-jack-jill-4456667537": 1,
+    "https://www.linkedin.com/jobs/view/channel-solutions-engineer-at-trendai-4383488618": 1,
+    "https://www.linkedin.com/jobs/view/new-technology-specialist-technical-consultant-m-w-d-neurovascular-dach-at-stryker-4454421225": 1,
+    "https://www.linkedin.com/jobs/view/sr-technical-operations-engineer-customer-success-starlink-at-spacex-4380103920": 1,
+    "https://www.linkedin.com/jobs/view/manager-programmatic-at-brainlabs-4447550652": 1,
+    "https://www.linkedin.com/jobs/view/outbound-enrollment-specialist-at-find-data-science-jobs-4457814379": 1,
+    "https://www.linkedin.com/jobs/view/business-development-executive-at-juniors-group-of-companies-4439984431": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-08-22",
-    "cyclesToday": 43,
+    "cyclesToday": 44,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
