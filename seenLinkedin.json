@@ -1,20 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/business-development-representative-bdr-dach-region-at-beqom-4444136922": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-east-bridge-global-4452512200": 1,
-    "https://www.linkedin.com/jobs/view/full-time-job-opportunity-sales-representative-cold-calling-at-starteq-4452514174": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-virtustant-4452533129": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-m-w-d-at-shyftplan-4452264238": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-italy-at-busuu-4414037417": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-m-w-d-at-patterno-4452256500": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-finnish-speaking-at-smartpulse-oy-4452266320": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-india-at-digital-ai-4455312713": 1,
-    "https://www.linkedin.com/jobs/view/bdr-lead-at-reqopen-4455566098": 1,
-    "https://www.linkedin.com/jobs/view/linkedin-networking-specialist-at-tekbyt-llc-4452519303": 1,
-    "https://www.linkedin.com/jobs/view/gtm-bizops-founding-team-at-sairr-4454252572": 1,
-    "https://www.linkedin.com/jobs/view/brand-sales-manager-at-clipbuzz-4452526393": 1,
-    "https://www.linkedin.com/jobs/view/operator-i-at-oneok-4455554713": 1,
-    "https://www.linkedin.com/jobs/view/field-operator-level-1-5-sacroc-at-kinder-morgan-inc-4454096681": 1,
     "https://www.linkedin.com/jobs/view/field-technician-i-at-ues-4455552622": 1,
     "https://www.linkedin.com/jobs/view/field-technician-ii-at-ues-4455570488": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-thirdfort-4455371277": 1,
@@ -1999,7 +1984,22 @@
     "https://www.linkedin.com/jobs/view/founding-sales-development-representative-at-talentpluto-4457356889": 1,
     "https://www.linkedin.com/jobs/view/founder-s-office-gtm-at-suprsend-4454647546": 1,
     "https://www.linkedin.com/jobs/view/artisan-outreach-executive-at-marketgenics-global-research-4456630443": 1,
-    "https://www.linkedin.com/jobs/view/linkedin-outreach-specialist-remote-at-aifco-4455032247": 1
+    "https://www.linkedin.com/jobs/view/linkedin-outreach-specialist-remote-at-aifco-4455032247": 1,
+    "https://www.linkedin.com/jobs/view/operator-in-de-scheidingsafdeling-5-ploegen-synsel-techniek-at-jobster-4456642666": 1,
+    "https://www.linkedin.com/jobs/view/operator-betoncentrale-synsel-techniek-at-jobster-4456633718": 1,
+    "https://www.linkedin.com/jobs/view/geotechnical-group-manager-at-ecs-group-of-companies-4385129483": 1,
+    "https://www.linkedin.com/jobs/view/laboratory-supervisor-at-ues-4439348462": 1,
+    "https://www.linkedin.com/jobs/view/scientist-at-laticrete-international-4419925741": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-flow-engineering-4361828540": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-intuit-4447710048": 1,
+    "https://www.linkedin.com/jobs/view/customer-engineer-platform-startups-google-cloud-at-google-4456268875": 1,
+    "https://www.linkedin.com/jobs/view/google-ads-healthcare-at-branding-pioneers-4455025480": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-iconic-edge-llp-4456648933": 1,
+    "https://www.linkedin.com/jobs/view/paid-ads-manager-at-instaffo-4438836067": 1,
+    "https://www.linkedin.com/jobs/view/paid-media-manager-at-acadia-4456249103": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-analyst-marketo-at-creative-circle-4436619112": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-konrad-4454667986": 1,
+    "https://www.linkedin.com/jobs/view/business-development-representative-at-z%c5%abm-rails-4456256012": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-08-22",
-    "cyclesToday": 19,
+    "cyclesToday": 20,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
