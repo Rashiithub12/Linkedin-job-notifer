@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/ai-operations-analyst-at-valnet-4455373780": 1,
-    "https://www.linkedin.com/jobs/view/revops-data-engineer-ai-x-greentech-m-f-d-at-reonic-4455296770": 1,
-    "https://www.linkedin.com/jobs/view/revops-data-engineer-ai-x-greentech-m-f-d-at-reonic-4455284880": 1,
-    "https://www.linkedin.com/jobs/view/technical-operations-specialist-at-stackadapt-4455330000": 1,
-    "https://www.linkedin.com/jobs/view/%e8%af%81%e5%88%b8%e4%b8%a4%e8%9e%8d%e6%95%b0%e5%ad%97%e5%8c%96%e7%bb%8f%e8%90%a5%e8%bf%90%e8%90%a5%e5%b2%97-at-%e5%b9%b3%e5%ae%89%e5%81%a5%e5%ba%b7%e4%bf%9d%e9%99%a9%e8%82%a1%e4%bb%bd%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8-4455329655": 1,
-    "https://www.linkedin.com/jobs/view/revops-specialist-ai-automation-w-m-d-at-lanes-planes-4454293179": 1,
-    "https://www.linkedin.com/jobs/view/performance-marketing-manager-web-at-imagineart-4455371508": 1,
-    "https://www.linkedin.com/jobs/view/geotechnical-project-manager-at-ecs-group-of-companies-4455299739": 1,
     "https://www.linkedin.com/jobs/view/field-engineer-at-terracon-4455256636": 1,
     "https://www.linkedin.com/jobs/view/junior-geotechnical-engineer-at-bba-consultants-4455375177": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-vercel-4455388518": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-gi%c3%a1-kho-group-4455002865": 1,
     "https://www.linkedin.com/jobs/view/setter-b2c-h-f-at-gopetsit-4457339825": 1,
     "https://www.linkedin.com/jobs/view/student-outreach-associate-at-filo-4456627269": 1,
-    "https://www.linkedin.com/jobs/view/crm-sales-executive-at-save-the-quest-4456637283": 1
+    "https://www.linkedin.com/jobs/view/crm-sales-executive-at-save-the-quest-4456637283": 1,
+    "https://www.linkedin.com/jobs/view/program-manager-gtm-acceleration-at-vercel-4457357387": 1,
+    "https://www.linkedin.com/jobs/view/international-revenue-strategy-and-operations-manager-at-elastic-4438614639": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketer-at-binny-s-4455011823": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketer-at-quikkred-4456635230": 1,
+    "https://www.linkedin.com/jobs/view/executive-influencer-marketing-at-solebs-4456641168": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-at-hr-egypt-network-hren-4457592711": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-manager-mid%e2%80%93senior-at-elve-tech-4454645613": 1,
+    "https://www.linkedin.com/jobs/view/customer-acquisition-lead-at-helira-energy-4455008852": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-08-22",
-    "cyclesToday": 9,
+    "cyclesToday": 10,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
