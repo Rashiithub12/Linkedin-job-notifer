@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/finish-specialist-at-duncan-aviation-4454412845": 1,
-    "https://www.linkedin.com/jobs/view/fluvial-geomorphologist-hydromorphologist-at-wsp-in-the-uk-ireland-4445912647": 1,
-    "https://www.linkedin.com/jobs/view/prefabricator-at-tuff-shed-inc-4450617580": 1,
-    "https://www.linkedin.com/jobs/view/b2b-call-agent-at-red-star-technologies-4452278975": 1,
-    "https://www.linkedin.com/jobs/view/concrete-finisher-apprentice-at-the-christman-company-4452261476": 1,
     "https://www.linkedin.com/jobs/view/laborer-at-mcgough-4409418720": 1,
     "https://www.linkedin.com/jobs/view/robotn%c3%adk-remeseln%c3%adk-at-ise-stavebn%c3%a1-firma-4451799764": 1,
     "https://www.linkedin.com/jobs/view/formwork-carpenter-grouter-at-clough-4451799773": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/sales-account-executive-manager-4-at-adobe-4446900037": 1,
     "https://www.linkedin.com/jobs/view/account-executive-emea-at-loop-subscriptions-4456213126": 1,
     "https://www.linkedin.com/jobs/view/enterprise-account-executive-at-zoom-4447292542": 1,
-    "https://www.linkedin.com/jobs/view/commercial-development-representative-at-s-p-global-4456611737": 1
+    "https://www.linkedin.com/jobs/view/commercial-development-representative-at-s-p-global-4456611737": 1,
+    "https://www.linkedin.com/jobs/view/concrete-laborer-at-bartley-corporation-4457564247": 1,
+    "https://www.linkedin.com/jobs/view/cement-mason-urban-forestry-buf-public-works-7311-at-city-and-county-of-san-francisco-4457518875": 1,
+    "https://www.linkedin.com/jobs/view/senior-sales-development-representative-w-m-d-at-tumodo-4457312254": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-analyst-at-orasure-technologies-inc-4455317539": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-1-at-linkedin-4419580557": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-08-22",
-    "cyclesToday": 4,
+    "cyclesToday": 5,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
