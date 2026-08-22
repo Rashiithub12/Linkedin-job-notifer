@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/research-specialist-i-at-university-of-missouri-columbia-4452508134": 1,
-    "https://www.linkedin.com/jobs/view/culinary-lab-specialist-at-central-new-mexico-community-college-4455396344": 1,
-    "https://www.linkedin.com/jobs/view/strategic-customers-%e2%80%93-apac-360-deal-lead-elevate-at-servicenow-4455360083": 1,
-    "https://www.linkedin.com/jobs/view/prospect-development-representative-emerging-careers-canada-at-sas-4423041751": 1,
-    "https://www.linkedin.com/jobs/view/lead-generation-at-fazinflo-4452256999": 1,
     "https://www.linkedin.com/jobs/view/outreach-growth-representative-at-greater-goals-aba-4455383567": 1,
     "https://www.linkedin.com/jobs/view/b2b-outbound-sales-representative-at-gushwork-4454289257": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-opticomm-ai-4455298014": 1,
@@ -1999,7 +1994,12 @@
     "https://www.linkedin.com/jobs/view/performance-marketer-at-kidbea%c2%ae-4456096900": 1,
     "https://www.linkedin.com/jobs/view/retention-marketing-executive-2-3-yrs-at-ganeshaspeaks-com-4454645273": 1,
     "https://www.linkedin.com/jobs/view/performance-marketing-specialist-4-7-yrs-at-rage-coffee-4455004300": 1,
-    "https://www.linkedin.com/jobs/view/business-development-executive-at-varuna-aerotech-4455005650": 1
+    "https://www.linkedin.com/jobs/view/business-development-executive-at-varuna-aerotech-4455005650": 1,
+    "https://www.linkedin.com/jobs/view/latex-operator-i-monday-friday-at-shaw-industries-4454682218": 1,
+    "https://www.linkedin.com/jobs/view/fertigungsarbeiter-m-w-d-at-vogt-plastic-gmbh-4457540270": 1,
+    "https://www.linkedin.com/jobs/view/production-operator-layup-1st-shift-at-clayton-4457543469": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-leadoo-marketing-technologies-4457346216": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-cleardesk-4454648864": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-08-22",
-    "cyclesToday": 7,
+    "cyclesToday": 8,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
