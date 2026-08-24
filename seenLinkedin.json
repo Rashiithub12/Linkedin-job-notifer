@@ -1,15 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/stain-color-technician-at-wilsonart-4452473680": 1,
-    "https://www.linkedin.com/jobs/view/sr-lab-technician-at-ecolab-4456455658": 1,
-    "https://www.linkedin.com/jobs/view/geotechnical-engineer-at-klohn-crippen-berger-4456009280": 1,
-    "https://www.linkedin.com/jobs/view/%e9%ab%98%e7%ba%a7-%e9%85%8d%e6%96%b9-%e5%8c%96%e5%ad%a6%e5%b7%a5%e7%a8%8b%e5%b8%88-%e9%9e%8b%e7%b1%bb-at-%e5%b9%bf%e5%b7%9e%e5%be%97%e5%85%8b%e4%bf%a1%e6%81%af%e5%92%a8%e8%af%a2%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8-4453813658": 1,
-    "https://www.linkedin.com/jobs/view/solutions-engineer-pre-and-post-sales-smb-at-attio-4429702160": 1,
-    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-warp-4399717137": 1,
-    "https://www.linkedin.com/jobs/view/operations-engineer-v-i-e-new-york-blitz-at-voodoo-4437868266": 1,
-    "https://www.linkedin.com/jobs/view/analista-de-opera%c3%a7%c3%b5es-sr-automa%c3%a7%c3%a3o-at-qive-4456371296": 1,
-    "https://www.linkedin.com/jobs/view/digital-media-manager-at-elevation-4456395247": 1,
-    "https://www.linkedin.com/jobs/view/programmatic-manager-at-harrison-dear-sales-4456462820": 1,
     "https://www.linkedin.com/jobs/view/marketing-ops-specialist-at-golden-pet-brands-4450799433": 1,
     "https://www.linkedin.com/jobs/view/revenue-operations-manager-marketing-ops-at-wolters-kluwer-4437050588": 1,
     "https://www.linkedin.com/jobs/view/sales-business-development-executive-at-elexoft-4454121225": 1,
@@ -1999,7 +1989,17 @@
     "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-mongodb-4458261602": 1,
     "https://www.linkedin.com/jobs/view/marketing-automation-specialist-at-nederlandse-spoorwegen-4456899370": 1,
     "https://www.linkedin.com/jobs/view/ai-marketing-technologist-lead-at-plaid-4420688564": 1,
-    "https://www.linkedin.com/jobs/view/marketing-technology-data-specialist-dp-005993-at-caterpillar-inc-4458215743": 1
+    "https://www.linkedin.com/jobs/view/marketing-technology-data-specialist-dp-005993-at-caterpillar-inc-4458215743": 1,
+    "https://www.linkedin.com/jobs/view/pipeline-operator-i-at-plains-4457184008": 1,
+    "https://www.linkedin.com/jobs/view/lead-grossing-technician-at-epiphany-dermatology-4457174046": 1,
+    "https://www.linkedin.com/jobs/view/advanced-water-technician-at-belfor-property-restoration-4454665360": 1,
+    "https://www.linkedin.com/jobs/view/deployed-engineer-at-cognition-at-jack-jill-4457169052": 1,
+    "https://www.linkedin.com/jobs/view/crm-manager-at-kaizen-gaming-4456880256": 1,
+    "https://www.linkedin.com/jobs/view/analista-de-opera%c3%a7%c3%b5es-de-marketing-at-instituto-brasileiro-de-florestas-4458271879": 1,
+    "https://www.linkedin.com/jobs/view/senior-specialist-marketing-at-monks-4458273960": 1,
+    "https://www.linkedin.com/jobs/view/pr%c3%a9-vendas-at-falaboss-4456515042": 1,
+    "https://www.linkedin.com/jobs/view/community-outreach-enrollment-specialist-930946-at-equus-workforce-solutions-4456505864": 1,
+    "https://www.linkedin.com/jobs/view/pre-counselling-advisor-at-cialfo-4441891908": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-08-24",
-    "cyclesToday": 23,
+    "cyclesToday": 24,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
