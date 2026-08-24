@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/enterprise-sales-executive-emea-africa-at-lloyds-ventures-4455697261": 1,
-    "https://www.linkedin.com/jobs/view/operator-aluminium-gieterij-start-people-at-jobster-4456010821": 1,
-    "https://www.linkedin.com/jobs/view/operator-betonproductie-2-ploegendienst-fulltime-olympia-at-jobster-4456013694": 1,
-    "https://www.linkedin.com/jobs/view/field-engineer-inspector-at-clark-davis-associates-4456755359": 1,
     "https://www.linkedin.com/jobs/view/lab-technician-at-tonkin-%2b-taylor-4427830317": 1,
     "https://www.linkedin.com/jobs/view/quality-control-technician-at-crh-4456747894": 1,
     "https://www.linkedin.com/jobs/view/solutions-engineer-at-ikuto-4456767486": 1,
@@ -1999,7 +1995,11 @@
     "https://www.linkedin.com/jobs/view/lead-generation-representative-india-mrc-at-amazon-web-services-aws-4458255562": 1,
     "https://www.linkedin.com/jobs/view/field-engineer-solutions-engineer-at-hw3-4458500716": 1,
     "https://www.linkedin.com/jobs/view/senior-operations-specialist-driver-growth-at-bolt-4457177271": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-austin-texas-at-box-4458297727": 1
+    "https://www.linkedin.com/jobs/view/business-development-representative-austin-texas-at-box-4458297727": 1,
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-scalr-4456538087": 1,
+    "https://www.linkedin.com/jobs/view/implementation-engineer-at-method-recruiting-a-3x-inc-5000-company-4458283344": 1,
+    "https://www.linkedin.com/jobs/view/sr-manager-marketing-operations-at-edmentum-4432037053": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-sale-at-lime-software-logics-4454137372": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-08-24",
-    "cyclesToday": 27,
+    "cyclesToday": 28,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
