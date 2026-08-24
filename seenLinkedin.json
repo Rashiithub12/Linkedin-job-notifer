@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/edtech-bda-upto-5lpa-at-mg-4455465317": 1,
-    "https://www.linkedin.com/jobs/view/production-technician-at-oxy-4456347863": 1,
-    "https://www.linkedin.com/jobs/view/operator-i-at-veolia-4456406633": 1,
     "https://www.linkedin.com/jobs/view/environmental-specialist-at-clark-pacific-4456401484": 1,
     "https://www.linkedin.com/jobs/view/enterprise-marketing-manager-%e2%80%93-middle-east-africa-mea-at-lenovo-4417707661": 1,
     "https://www.linkedin.com/jobs/view/senior-product-marketing-manager-at-conga-4445759472": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/cold-outbound-sales-specialist-at-cybernetic-research-4455823649": 1,
     "https://www.linkedin.com/jobs/view/client-services-manager-at-ejamerica-4458141801": 1,
     "https://www.linkedin.com/jobs/view/m4720-account-executive-17-at-fedex-4457897165": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-at-databricks-4297752003": 1
+    "https://www.linkedin.com/jobs/view/account-executive-at-databricks-4297752003": 1,
+    "https://www.linkedin.com/jobs/view/technical-marketing-associate-at-sailglobal-4458155533": 1,
+    "https://www.linkedin.com/jobs/view/founding-product-marketer-at-retell-4407212424": 1,
+    "https://www.linkedin.com/jobs/view/d%c3%a9veloppeur-de-territoire-charg%c3%a9-e-de-la-promotion-du-don-lille-at-efs-4458148983": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-08-24",
-    "cyclesToday": 3,
+    "cyclesToday": 4,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
