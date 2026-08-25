@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/operator-at-hensel-phelps-4457033660": 1,
-    "https://www.linkedin.com/jobs/view/dry-plant-operator-i-at-u-s-silica-company-4454130603": 1,
-    "https://www.linkedin.com/jobs/view/advanced-water-technician-at-belfor-property-restoration-4454148880": 1,
-    "https://www.linkedin.com/jobs/view/intermediate-geochemist-at-stantec-4457073024": 1,
-    "https://www.linkedin.com/jobs/view/frame-at-clayton-4456776601": 1,
-    "https://www.linkedin.com/jobs/view/mason-at-d-s-masonry-inc-4456071493": 1,
-    "https://www.linkedin.com/jobs/view/%ec%8b%9c%eb%8b%88%ec%96%b4-%ea%b8%b0%ec%88%a0-gtm-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4-at-cubig-4456005086": 1,
-    "https://www.linkedin.com/jobs/view/principal-gtm-engineer-remote-us-at-digi-international-4456756292": 1,
-    "https://www.linkedin.com/jobs/view/senior-sales-engineer-singapore-at-harness-4434868679": 1,
     "https://www.linkedin.com/jobs/view/strategic-accounts-gtm-engineer-at-nirvana-4457014680": 1,
     "https://www.linkedin.com/jobs/view/gtm-acceleration-lead-value-selling-at-vercel-4446869479": 1,
     "https://www.linkedin.com/jobs/view/gtm-acceleration-lead-value-selling-at-vercel-4446861871": 1,
@@ -1999,7 +1990,16 @@
     "https://www.linkedin.com/jobs/view/enterprise-sales-development-representative-at-toptal-4439350515": 1,
     "https://www.linkedin.com/jobs/view/growth-manager-remote-at-hired-4458592199": 1,
     "https://www.linkedin.com/jobs/view/growth-performance-marketing-specialist-at-genie9-4455855425": 1,
-    "https://www.linkedin.com/jobs/view/founder%e2%80%99s-office-%e2%80%93-growth-partnerships-at-zorspeaker-4457422148": 1
+    "https://www.linkedin.com/jobs/view/founder%e2%80%99s-office-%e2%80%93-growth-partnerships-at-zorspeaker-4457422148": 1,
+    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-table-space-4457429079": 1,
+    "https://www.linkedin.com/jobs/view/product-marketing-manager-at-taas-partners-4457414884": 1,
+    "https://www.linkedin.com/jobs/view/email-marketing-executive-at-aitc-international-4457421190": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-smallcase-4457419301": 1,
+    "https://www.linkedin.com/jobs/view/mobile-delivery-manager-international-at-adsynergix-4457415441": 1,
+    "https://www.linkedin.com/jobs/view/legal-marketing-technology-manager-at-ice-miller-llp-4455466786": 1,
+    "https://www.linkedin.com/jobs/view/partner-development-representative-german-undutchables-at-jobster-4457431274": 1,
+    "https://www.linkedin.com/jobs/view/outreach-specialist-at-career-team-4458292074": 1,
+    "https://www.linkedin.com/jobs/view/outreach-specialist-at-career-team-4458279252": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-08-25",
-    "cyclesToday": 5,
+    "cyclesToday": 6,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
