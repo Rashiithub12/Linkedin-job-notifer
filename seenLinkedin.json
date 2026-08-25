@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/international-sales-specialist-at-abs-international-4454143137": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-m-w-d-at-shyftplan-4453896140": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-ping-identity-4456457854": 1,
-    "https://www.linkedin.com/jobs/view/b2b-sales-development-representative-%e2%80%93-saas-galten-near-aarhus-at-mapon-denmark-4453898210": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-8x8-4456017498": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-prospa-4456458197": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-cactus-search-4455622514": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-outbound-at-baseten-4377894008": 1,
     "https://www.linkedin.com/jobs/view/sdr-sales-development-representative-at-berwick-care-4456465861": 1,
     "https://www.linkedin.com/jobs/view/linkedin-outreach-specialist-%e2%80%93-us-market-at-siox-global-llc-4454120745": 1,
@@ -1999,7 +1992,14 @@
     "https://www.linkedin.com/jobs/view/junior-account-executive-at-kev-group-4457129968": 1,
     "https://www.linkedin.com/jobs/view/prospector-a-de-clientes-es-at-webposto-4456554746": 1,
     "https://www.linkedin.com/jobs/view/social-media-manager-at-nexlivo-labs-4456563794": 1,
-    "https://www.linkedin.com/jobs/view/growth-acquisition-specialist-at-pace-wisdom-solutions-4456212808": 1
+    "https://www.linkedin.com/jobs/view/growth-acquisition-specialist-at-pace-wisdom-solutions-4456212808": 1,
+    "https://www.linkedin.com/jobs/view/pedreiro-at-jobbol-4458286427": 1,
+    "https://www.linkedin.com/jobs/view/bouwhulp-at-booston-io-4457120242": 1,
+    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-at-multiinsight-dtc-cro-growth-agency-4455892995": 1,
+    "https://www.linkedin.com/jobs/view/linkedin-outreach-at-devline-solutions-4456592421": 1,
+    "https://www.linkedin.com/jobs/view/lead-generation-specialist-at-velozity-4456574570": 1,
+    "https://www.linkedin.com/jobs/view/district-account-manager-at-johnson-johnson-medtech-4458229987": 1,
+    "https://www.linkedin.com/jobs/view/account-executive-at-collabera-4455864775": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-08-25",
-    "cyclesToday": 8,
+    "cyclesToday": 9,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
