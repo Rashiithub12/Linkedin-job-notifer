@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/sr-manager-marketing-operations-at-purple-4456056770": 1,
-    "https://www.linkedin.com/jobs/view/senior-associate-%e2%80%93-marketing-technology-workflow-optimization-at-labcorp-4389982311": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-us-based-at-nopex-services-4454672032": 1,
-    "https://www.linkedin.com/jobs/view/account-development-representative-at-beanfield-4456240104": 1,
-    "https://www.linkedin.com/jobs/view/executive-n-business-development-at-asian-paints-4457338975": 1,
-    "https://www.linkedin.com/jobs/view/operator-betoncentrale-jouwtechniekbaan-nl-at-jobster-4456267410": 1,
-    "https://www.linkedin.com/jobs/view/foundry-worker-at-paber-aluminium-4457361731": 1,
-    "https://www.linkedin.com/jobs/view/construction-materials-testing-cmt-field-and-laboratory-technician-at-socotec-us-4457371897": 1,
-    "https://www.linkedin.com/jobs/view/marketing-engineer-at-creative-fabrica-4457359535": 1,
-    "https://www.linkedin.com/jobs/view/manager-school-outreach-at-pearl-academy-4454646130": 1,
-    "https://www.linkedin.com/jobs/view/senior-environmental-water-quality-consultant-modelling-at-stantec-4437976934": 1,
-    "https://www.linkedin.com/jobs/view/construction-materials-testing-laboratory-supervisor-at-socotec-us-4457398006": 1,
-    "https://www.linkedin.com/jobs/view/founding-sales-engineer-at-tracebit-4457363854": 1,
     "https://www.linkedin.com/jobs/view/senior-sales-engineer-uk-i-at-pentera-4457310726": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-aircall-4457366799": 1,
     "https://www.linkedin.com/jobs/view/d2c-performance-marketing-executive-at-krwizard-4456256575": 1,
@@ -1999,7 +1986,20 @@
     "https://www.linkedin.com/jobs/view/enterprise-solutions-engineer-americas-at-semrush-4429347895": 1,
     "https://www.linkedin.com/jobs/view/outbound-calling-specialist-at-abs-international-4456966450": 1,
     "https://www.linkedin.com/jobs/view/tele-sales-executive-at-drl-marketing-management-4457640198": 1,
-    "https://www.linkedin.com/jobs/view/customer-engagement-specialist-at-soracom-4459013918": 1
+    "https://www.linkedin.com/jobs/view/customer-engagement-specialist-at-soracom-4459013918": 1,
+    "https://www.linkedin.com/jobs/view/histology-technician-at-docs-dermatology-group-4459045270": 1,
+    "https://www.linkedin.com/jobs/view/geoconsulting-consultant-iv-consultor-t%c3%a9cnico-iv-at-fugro-4457621908": 1,
+    "https://www.linkedin.com/jobs/view/senior-consultant-at-srk-consulting-4459026848": 1,
+    "https://www.linkedin.com/jobs/view/associate-consultant-engineer-at-ramboll-4456367934": 1,
+    "https://www.linkedin.com/jobs/view/pedreiro-at-jobbol-4459042207": 1,
+    "https://www.linkedin.com/jobs/view/technical-marketing-engr-at-netapp-4454117018": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-at-digitalindiaadd-4457600829": 1,
+    "https://www.linkedin.com/jobs/view/ppc-campaign-manager-at-zap-group-4456945488": 1,
+    "https://www.linkedin.com/jobs/view/campaign-management-specialist-at-accenture-in-india-4448343393": 1,
+    "https://www.linkedin.com/jobs/view/email-campaign-operations-specialist-at-bmc-software-4440004162": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-abm-demand-generation-manager-at-presidio-4450285532": 1,
+    "https://www.linkedin.com/jobs/view/repr%c3%a9sentant-e-au-d%c3%a9veloppement-des-affaires-bdr-at-finnect-4457606234": 1,
+    "https://www.linkedin.com/jobs/view/community-outreach-coordinator-at-aftermath-services%c2%ae-4457624964": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-08-25",
-    "cyclesToday": 28,
+    "cyclesToday": 29,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
