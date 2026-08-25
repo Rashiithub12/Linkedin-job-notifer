@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/account-executive-microsoft-365-f-h-at-absys-cyborg-4446860061": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-at-insightsoftware-4429554471": 1,
-    "https://www.linkedin.com/jobs/view/major-account-executive-coppell-tx-at-xerox-4409741503": 1,
-    "https://www.linkedin.com/jobs/view/account-executive-at-impact-networking-llc-4456029531": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-sdr-london-at-anaplan-4456749118": 1,
-    "https://www.linkedin.com/jobs/view/leerling-betonboorder-artiflex-b-v-at-jobster-4456060297": 1,
-    "https://www.linkedin.com/jobs/view/building-carpenter-concrete-trainee-at-kinsley-construction-4457074254": 1,
-    "https://www.linkedin.com/jobs/view/hovenier-daktuinen-groene-constructies-idverde-roosendaal-at-jobster-4456049512": 1,
     "https://www.linkedin.com/jobs/view/apprentice-cement-finisher-at-crt-construction-inc-4457041015": 1,
     "https://www.linkedin.com/jobs/view/implementation-engineer-observe-at-snowflake-4457034114": 1,
     "https://www.linkedin.com/jobs/view/solutions-engineer-at-optimove-4457001969": 1,
@@ -1999,7 +1991,15 @@
     "https://www.linkedin.com/jobs/view/charg%c3%a9-de-campagnes-marketing-banque-at-free-work-4455882786": 1,
     "https://www.linkedin.com/jobs/view/sdr-at-socialpeta-ltd-4443436932": 1,
     "https://www.linkedin.com/jobs/view/icp-prospect-research-campaign-manager-at-neptik-4458705636": 1,
-    "https://www.linkedin.com/jobs/view/founding-bdr-cold-calling-at-stealth-ai-startup-4456904197": 1
+    "https://www.linkedin.com/jobs/view/founding-bdr-cold-calling-at-stealth-ai-startup-4456904197": 1,
+    "https://www.linkedin.com/jobs/view/erfaren-milj%c3%b6konsult-f%c3%b6rorenade-omr%c3%a5den-g%c3%b6teborg-at-relement-milj%c3%b6-v%c3%a4st-ab-4295590102": 1,
+    "https://www.linkedin.com/jobs/view/building-envelope-consultant-at-tyg-4458713679": 1,
+    "https://www.linkedin.com/jobs/view/associate-consultant-engineer-at-ramboll-4456376834": 1,
+    "https://www.linkedin.com/jobs/view/%d0%b1%d0%b5%d1%82%d0%be%d0%bd%d1%89%d0%b8%d0%ba-at-prydniprovska-state-academy-of-civil-engineering-and-architecture-4456570549": 1,
+    "https://www.linkedin.com/jobs/view/plasterer-at-e-k-companies-inc-4343009450": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-%e2%80%93-meta-ads-at-eye-zenith-4456901297": 1,
+    "https://www.linkedin.com/jobs/view/executive-influencer-marketing-at-the-leapfrog-network-4456906307": 1,
+    "https://www.linkedin.com/jobs/view/marketing-experience-senior-associate-at-jpmorganchase-4440389280": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-08-25",
-    "cyclesToday": 12,
+    "cyclesToday": 13,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
