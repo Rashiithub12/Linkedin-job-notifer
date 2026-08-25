@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/senior-sales-engineer-uk-i-at-pentera-4457310726": 1,
-    "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-aircall-4457366799": 1,
-    "https://www.linkedin.com/jobs/view/d2c-performance-marketing-executive-at-krwizard-4456256575": 1,
     "https://www.linkedin.com/jobs/view/manager-media-at-publicis-groupe-middle-east-4446985713": 1,
     "https://www.linkedin.com/jobs/view/marketing-manager-at-it-planet-4457373651": 1,
     "https://www.linkedin.com/jobs/view/senior-marketing-operations-manager-at-aircall-4457360848": 1,
@@ -1999,7 +1996,10 @@
     "https://www.linkedin.com/jobs/view/email-campaign-operations-specialist-at-bmc-software-4440004162": 1,
     "https://www.linkedin.com/jobs/view/marketing-operations-abm-demand-generation-manager-at-presidio-4450285532": 1,
     "https://www.linkedin.com/jobs/view/repr%c3%a9sentant-e-au-d%c3%a9veloppement-des-affaires-bdr-at-finnect-4457606234": 1,
-    "https://www.linkedin.com/jobs/view/community-outreach-coordinator-at-aftermath-services%c2%ae-4457624964": 1
+    "https://www.linkedin.com/jobs/view/community-outreach-coordinator-at-aftermath-services%c2%ae-4457624964": 1,
+    "https://www.linkedin.com/jobs/view/sales-engineer-at-sent-4459043366": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-neighborly%c2%ae-4456962585": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-lego-education-at-lego-education-4456557456": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-08-25",
-    "cyclesToday": 29,
+    "cyclesToday": 30,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
