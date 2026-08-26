@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-yellow-tech-the-ai-%e2%80%8b%e2%80%8btransformation-company-4445495911": 1,
-    "https://www.linkedin.com/jobs/view/gtm-systems-engineer-at-faire-4446927352": 1,
-    "https://www.linkedin.com/jobs/view/gtm-engineer-at-unity-advisory-4437981280": 1,
-    "https://www.linkedin.com/jobs/view/gtm-knowledge-engineer-at-everlaw-4430747880": 1,
-    "https://www.linkedin.com/jobs/view/channel-solutions-engineer-south-at-netskope-4429725245": 1,
-    "https://www.linkedin.com/jobs/view/ai-automation-specialist-marketing-gtm-d-f-m-at-taxfix-4446759685": 1,
-    "https://www.linkedin.com/jobs/view/gtm-inbound-at-skello-4457375835": 1,
-    "https://www.linkedin.com/jobs/view/gtm-product-marketing-lead-at-flagright-4456204304": 1,
-    "https://www.linkedin.com/jobs/view/gtm-strategy-operations-lead-reseller-ecosystem-programs-apac-at-openai-4456098257": 1,
-    "https://www.linkedin.com/jobs/view/founding-gtm-at-t-0-4456277979": 1,
-    "https://www.linkedin.com/jobs/view/principal-lead-go-to-market-ai-tools-at-google-4456273184": 1,
-    "https://www.linkedin.com/jobs/view/principal-lead-go-to-market-ai-tools-at-google-4456261177": 1,
-    "https://www.linkedin.com/jobs/view/founding-gtm-swiss-army-knife-at-vayuh-ai-4456062577": 1,
-    "https://www.linkedin.com/jobs/view/digital-marketing-executive-4456096860": 1,
     "https://www.linkedin.com/jobs/view/growth-marketing-manager-at-archer-integrated-risk-management-4454672539": 1,
     "https://www.linkedin.com/jobs/view/digital-marketer-influencer-marketing-on-site-at-natural-vitamins-europe-4437651158": 1,
     "https://www.linkedin.com/jobs/view/director-marketing-operations-at-bicara-therapeutics-4457570006": 1,
@@ -1999,7 +1985,21 @@
     "https://www.linkedin.com/jobs/view/sales-development-representative-i-at-the-linux-foundation-4439270646": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-at-sgs-4456538622": 1,
     "https://www.linkedin.com/jobs/view/sales-development-representative-night-shift-at-dennemeyer-4391548089": 1,
-    "https://www.linkedin.com/jobs/view/sales-development-representative-at-contactout-4457482325": 1
+    "https://www.linkedin.com/jobs/view/sales-development-representative-at-contactout-4457482325": 1,
+    "https://www.linkedin.com/jobs/view/%e3%80%90%e6%84%9b%e7%9f%a5%e3%80%91%e5%bb%ba%e7%af%89%e9%99%b6%e5%99%a8%e3%81%ae%e3%82%b9%e3%83%9a%e3%82%b7%e3%83%a3%e3%83%aa%e3%82%b9%e3%83%88%ef%bc%88%e7%a0%94%e7%a9%b6%e3%83%bb%e8%a3%bd%e4%bd%9c%e3%83%aa%e3%83%bc%e3%83%80%e3%83%bc%e5%80%99%e8%a3%9c%ef%bc%89-at-lixil-4459111072": 1,
+    "https://www.linkedin.com/jobs/view/%e6%95%b0%e5%ad%97%e5%8c%96%e7%b2%be%e7%bb%86%e8%bf%90%e8%90%a5-at-muji-shanghai-co-ltd-4457675430": 1,
+    "https://www.linkedin.com/jobs/view/growth-lead-gtm-google-cloud-sea-at-google-4457443439": 1,
+    "https://www.linkedin.com/jobs/view/go-to-market-gtm-digital-natives-program-leader-at-databricks-4390046941": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-gtm-strategy-operations-at-moloco-4381916968": 1,
+    "https://www.linkedin.com/jobs/view/senior-manager-gtm-sales-ops-at-quantcast-4456952489": 1,
+    "https://www.linkedin.com/jobs/view/gtm-strategy-operations-lead-americas-at-felicis-4459011751": 1,
+    "https://www.linkedin.com/jobs/view/sr-manager-cdss-gtm-at-palo-alto-networks-4456946878": 1,
+    "https://www.linkedin.com/jobs/view/gtm-strategy-operations-lead-americas-at-canva-4458709143": 1,
+    "https://www.linkedin.com/jobs/view/performance-marketing-executive-personal-care-beauty-at-chro-consulting-4456981943": 1,
+    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-the-training-center-4456988448": 1,
+    "https://www.linkedin.com/jobs/view/international-sales-specialist-at-al-rauf-group-4456979474": 1,
+    "https://www.linkedin.com/jobs/view/call-agent-at-sarktech-4438009346": 1,
+    "https://www.linkedin.com/jobs/view/outreach-and-marketing-executive-at-lovely-professional-university-4457202005": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-08-26",
-    "cyclesToday": 2,
+    "cyclesToday": 3,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
