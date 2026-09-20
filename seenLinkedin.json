@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/betonwerker-artiflex-b-v-at-jobster-4465155691": 1,
-    "https://www.linkedin.com/jobs/view/sales-engineer-at-pantheon-4464241424": 1,
-    "https://www.linkedin.com/jobs/view/senior-technical-marketing-engineer-tme-%e2%80%93-data-center-networking-apstra-at-hewlett-packard-enterprise-4465882522": 1,
-    "https://www.linkedin.com/jobs/view/senior-product-marketing-manager-dsx-os-at-nvidia-4418226164": 1,
-    "https://www.linkedin.com/jobs/view/product-marketing-manager-donor-experience-at-virtuous-4466364524": 1,
-    "https://www.linkedin.com/jobs/view/manager-biddable-media-programmatic-at-omnicom-media-4465164719": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-onetrust-4466403573": 1,
-    "https://www.linkedin.com/jobs/view/marketing-operations-manager-at-onetrust-4466409467": 1,
-    "https://www.linkedin.com/jobs/view/senior-director-of-marketing-operations-at-milan-laser-hair-removal-4465167338": 1,
-    "https://www.linkedin.com/jobs/view/business-development-representative-at-primer-4453331353": 1,
-    "https://www.linkedin.com/jobs/view/hospice-community-liaison-at-three-oaks-hospice-4465110197": 1,
-    "https://www.linkedin.com/jobs/view/senior-engineering-technician-field-at-fehr-graham-engineering-environmental-4447070781": 1,
-    "https://www.linkedin.com/jobs/view/sidewalls-at-clayton-4466075721": 1,
-    "https://www.linkedin.com/jobs/view/junior-gtm-engineer-at-gainable-4466305109": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-m-w-d-at-patterno-4466055127": 1,
     "https://www.linkedin.com/jobs/view/gtm-engineer-at-workflows-io-4464236538": 1,
     "https://www.linkedin.com/jobs/view/lead-gtm-enablement-scale-architect-product-enablement-at-databricks-4416858449": 1,
@@ -1999,7 +1985,21 @@
     "https://www.linkedin.com/jobs/view/business-development-representative-german-speaking-at-easygenerator-4343724601": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-polish-cee-at-rippling-4433530405": 1,
     "https://www.linkedin.com/jobs/view/expert-appointment-setters-at-speak10xbetter-4469598493": 1,
-    "https://www.linkedin.com/jobs/view/sdr-pr%c3%a9-vendas-at-card%c3%a1pio-web-4466997396": 1
+    "https://www.linkedin.com/jobs/view/sdr-pr%c3%a9-vendas-at-card%c3%a1pio-web-4466997396": 1,
+    "https://www.linkedin.com/jobs/view/tumbler-operator-at-oldcastle-apg-4467355060": 1,
+    "https://www.linkedin.com/jobs/view/pour-crew-at-oldcastle-infrastructure-4467347252": 1,
+    "https://www.linkedin.com/jobs/view/pedreiro-at-jobbol-4469827206": 1,
+    "https://www.linkedin.com/jobs/view/pedreiro-at-jobbol-4469810654": 1,
+    "https://www.linkedin.com/jobs/view/pedreiro-at-jobbol-4469579298": 1,
+    "https://www.linkedin.com/jobs/view/pedreiro-at-jobbol-4469581122": 1,
+    "https://www.linkedin.com/jobs/view/mason-at-california-state-university-northridge-4432149352": 1,
+    "https://www.linkedin.com/jobs/view/senior-product-marketing-manager-at-spread-ai-4467339449": 1,
+    "https://www.linkedin.com/jobs/view/responsable-de-marketing-digital-paid-media-at-tentuplaza-4469811617": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-manager-at-mirakl-4403202668": 1,
+    "https://www.linkedin.com/jobs/view/head-of-marketing-operations-uk-based-or-remote-at-relex-solutions-4469819477": 1,
+    "https://www.linkedin.com/jobs/view/account-development-representative-french-speaking-at-tracelink-4410616912": 1,
+    "https://www.linkedin.com/jobs/view/senior-business-development-representative-bdr-at-scale-army-careers-4451914181": 1,
+    "https://www.linkedin.com/jobs/view/outbound-business-development-representative-bdr-at-solarwinds-4441602467": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-09-20",
-    "cyclesToday": 6,
+    "cyclesToday": 7,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
