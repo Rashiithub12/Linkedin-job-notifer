@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.linkedin.com/jobs/view/martech-growth-engineer-at-credit-genie-4470171740": 1,
-    "https://www.linkedin.com/jobs/view/martech-growth-engineer-at-credit-genie-4470180202": 1,
-    "https://www.linkedin.com/jobs/view/automation-lifecycle-specialist-at-heidi-4462401746": 1,
-    "https://www.linkedin.com/jobs/view/lead-engineer-growth-at-alt-4462483135": 1,
-    "https://www.linkedin.com/jobs/view/especialista-en-techops-gohighlevel-y-meta-ads-at-torre-ai-4477714434": 1,
-    "https://www.linkedin.com/jobs/view/sr-product-marketing-manager-at-bell-integration-4459994711": 1,
     "https://www.linkedin.com/jobs/view/digital-marketing-executive-at-danone-4471644125": 1,
     "https://www.linkedin.com/jobs/view/promotions-executive-at-livescore-group-4479370831": 1,
     "https://www.linkedin.com/jobs/view/biddable-executive-paid-social-programmatic-at-havas-media-uk-4480511416": 1,
@@ -1999,7 +1993,13 @@
     "https://www.linkedin.com/jobs/view/business-development-representative-at-evlo-ai-4482694344": 1,
     "https://www.linkedin.com/jobs/view/business-development-representative-at-evlo-ai-4482907092": 1,
     "https://www.linkedin.com/jobs/view/hospital-liaison-marketer-home-care-at-marquis-home-care-4482903107": 1,
-    "https://www.linkedin.com/jobs/view/entry-level-marketing-representative-at-southern-national-roofing-4483393711": 1
+    "https://www.linkedin.com/jobs/view/entry-level-marketing-representative-at-southern-national-roofing-4483393711": 1,
+    "https://www.linkedin.com/jobs/view/operator-i-machine-at-westlake-royal-building-products-4456294425": 1,
+    "https://www.linkedin.com/jobs/view/sales-engineer-at-bosforo-m%c3%bchendislik-4481099692": 1,
+    "https://www.linkedin.com/jobs/view/digital-marketing-specialist-executive-at-nextjobz-4481404619": 1,
+    "https://www.linkedin.com/jobs/view/digital-advertising-manager-remote-durban-at-blacksmith-agency-4483397132": 1,
+    "https://www.linkedin.com/jobs/view/operations-manager-4482911161": 1,
+    "https://www.linkedin.com/jobs/view/business-development-associates-u-s-market-exp-b2-c1-english-speakers-at-flairstech-4483392835": 1
   },
   "sentTitles": {
     "director of gtm revenue operations|||lensa": "2026-03-16T05:33:10.244Z",
@@ -2833,7 +2833,7 @@
   },
   "stats": {
     "date": "2026-10-25",
-    "cyclesToday": 6,
+    "cyclesToday": 7,
     "matchedToday": 0,
     "sentToday": 0,
     "lastSummaryDate": ""
